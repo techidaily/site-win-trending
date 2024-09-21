@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Next Big Move: Will Windows on Arm Shake Up Tech by Year-End?"
-date: 2024-09-18 23:11:23
-updated: 2024-09-20 10:22:47
+date: 2024-09-17T09:33:16.039Z
+updated: 2024-09-20T22:55:13.451Z
 tags:
   - windows
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-android-tools-for-video-recording-for-2024/"><u>[New] Essential Android Tools for Video Recording for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclude-automatic-recommended-podcasts-in-spotify-feed/"><u>[Updated] Exclude Automatic Recommended Podcasts in Spotify Feed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-smooth-operation-with-updated-logitech-mkk710-mouse-drivers/"><u>Ensure Smooth Operation with Updated Logitech MKˈk710 Mouse Drivers</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-enable-mkv-file-playback-on-windows-media-player/"><u>How to Enable MKV File Playback on Windows Media Player</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-8-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Asus ROG Phone 8 Pro Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-wwe-2k22-from-keeping-crash-down-on-your-windows-gaming-pc/"><u>How to Stop WWE 2K22 From Keeping Crash Down on Your Windows Gaming PC</u></a></li>
+<li><a href="https://win-trending.techidaily.com/installing-the-rising-tides-plugin-on-kodi-1918-a-comprehensive-walkthrough-for-iptv-streaming-enthusiasts/"><u>Installing the Rising Tides Plugin on Kodi 19/18 - A Comprehensive Walkthrough for IPTV Streaming Enthusiasts</u></a></li>
+<li><a href="https://win-trending.techidaily.com/mp3-windows-media-player/"><u>MP3へと変換! Windows Media Player 楽曲の正しいコツ</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-adding-permanent-subtitles-using-vlc-media-player/"><u>Step-by-Step Guide: Adding Permanent Subtitles Using VLC Media Player</u></a></li>
+<li><a href="https://win-trending.techidaily.com/successfully-watching-dvds-on-your-macbook-pro-a-step-by-step-guide/"><u>Successfully Watching DVDs on Your MacBook Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/upgrade-to-revo-uninstaller-pro-5-the-ultimate-tool-for-a-clean-and-efficient-system/"><u>Upgrade to Revo Uninstaller Pro 5 - The Ultimate Tool for a Clean & Efficient System.</u></a></li>
+</ul></div>
+

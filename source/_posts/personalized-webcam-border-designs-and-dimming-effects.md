@@ -1,7 +1,7 @@
 ---
 title: Personalized Webcam Border Designs & Dimming Effects
-date: 2024-09-18 17:28:30
-updated: 2024-09-20 12:43:36
+date: 2024-09-19T21:13:08.698Z
+updated: 2024-09-21T08:19:23.031Z
 tags:
   - product
 categories:
@@ -60,6 +60,19 @@ Action Tutorials
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_always_record.jpg "Action! Webcam Settings") 
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Create a graphic file with frame or shadow 
 
  Use your favorite graphics editor and create a PNG file with frame, shadow or any other graphics you would like to add around your webcam picture. Please note that webcam picture will be added over overlay graphics. 
@@ -78,13 +91,18 @@ Action Tutorials
 
 ![Mirillis Action! - Gameplay recording with webcam and frame](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_frame_graphics_recording.jpg "Gameplay recording with webcam and frame")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,3 +110,19 @@ Action Tutorials
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-trending.techidaily.com/6zplusz6zplus44oo44kk44k66zmk5y675pya5paw44k944ov44oi44km44kn44kiioodioodgplusodlplusplus8leaoqoiwpiatios9vplusobhowniplusocgeociplusobruobqplusajiplusavsoa21/"><u>音響ノイズ除去最新ソフトウェア トップ５推薦 - 使い始めるのに手数料不要</u></a></li>
+<li><a href="https://win-trending.techidaily.com/a-step-by-step-guide-to-downloading-content-from-kissasian/"><u>A Step-by-Step Guide to Downloading Content From KissAsian</u></a></li>
+<li><a href="https://win-trending.techidaily.com/accessing-facebook-live-broadcasts-without-creating-a-profile-simple-steps/"><u>Accessing Facebook Live Broadcasts Without Creating a Profile: Simple Steps!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/achieving-optimal-clarity-in-4k-the-top-fps-settings-you-need-to-know-about/"><u>Achieving Optimal Clarity in 4K: The Top FPS Settings You Need to Know About</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/considerations-before-choosing-the-chatgpt-mobile-version-over-web-interface/"><u>Considerations Before Choosing the ChatGPT Mobile Version Over Web Interface</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-tracks-without-paying-a-penny-rapid-solutions-for-your-soundcloud-desires/"><u>Download Tracks Without Paying a Penny - Rapid Solutions for Your SoundCloud Desires</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/first-impressions-is-the-nokia-n31-a-top-pick-for-entry-level-smartphones/"><u>First Impressions: Is the Nokia N3.1 a Top Pick for Entry-Level Smartphones?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-conflict-zone-survival-correcting-error-code-103003-in-tarkov/"><u>Mastering Conflict Zone Survival: Correcting Error Code 103003 in Tarkov</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-chatbot-interaction-learn-about-the-top-10-modified-gpts-beating-chatgpt/"><u>Next-Level Chatbot Interaction: Learn About the Top 10 Modified GPTs Beating ChatGPT</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/premium-10-tools-for-crafting-tiktok-videos-online-w/"><u>Premium 10 Tools for Crafting TikTok Videos Online (W)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-s17t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo S17t FRP Bypass Everything You Need to Know</u></a></li>
+</ul></div>
+

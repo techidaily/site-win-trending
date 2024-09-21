@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Next Iteration: Microsoft's Wave 2 Copilot Launch Details | Insights From ZDNet"
-date: 2024-09-19 22:57:18
-updated: 2024-09-20 12:38:11
+date: 2024-09-20T02:15:47.025Z
+updated: 2024-09-20T19:45:28.194Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -125,6 +132,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Don't trash your old Windows 10 PCs! There are many ways to give them a long, useful life after Microsoft retires them. With ChromeOS Flex and Linux, I've got former Windows PCs more over 10 years old that remain productive machines. Old doesn't mean useless. You just need to be a bit creative.
@@ -159,11 +173,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mastering-screen-capture-bandicam-vs-camtasia-battle/"><u>[New] 2024 Approved Mastering Screen Capture Bandicam Vs. Camtasia Battle</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-virtual-universe-showdown-meta-and-omni-explored/"><u>[New] Virtual Universe Showdown Meta & Omni Explored</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-conquering-low-light-with-iphones-advanced-hdr-techniques/"><u>[Updated] Conquering Low Light with iPhone’s Advanced HDR Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-efforts-crafting-perfect-titles/"><u>2024 Approved Top 5 Efforts Crafting Perfect Titles</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-tracks-without-paying-a-penny-rapid-solutions-for-your-soundcloud-desires/"><u>Download Tracks Without Paying a Penny - Rapid Solutions for Your SoundCloud Desires</u></a></li>
+<li><a href="https://win-trending.techidaily.com/dvdcinavia/"><u>DVDのCinaviaセキュリティシステムがわからなければ、ここでその単純解除法を学ぶ！</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-methods-for-transforming-your-dvd-content-into-compatible-quicktime-format-videos/"><u>Easy Methods for Transforming Your DVD Content Into Compatible QuickTime Format Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-high-end-camcorders-for-impeccable-4k-quality-top-18/"><u>In 2024, High-End Camcorders for Impeccable 4K Quality (Top 18)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-translating-trust-the-importance-of-client-endorsements/"><u>In 2024, Translating Trust The Importance of Client Endorsements</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On HTC U23 | Dr.fone</u></a></li>
+</ul></div>
+
