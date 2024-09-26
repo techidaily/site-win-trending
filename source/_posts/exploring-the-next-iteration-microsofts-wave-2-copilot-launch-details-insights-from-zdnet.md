@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Next Iteration: Microsoft's Wave 2 Copilot Launch Details | Insights From ZDNet"
-date: 2024-09-20T02:15:47.025Z
-updated: 2024-09-20T19:45:28.194Z
+date: 2024-09-18T17:30:06.341Z
+updated: 2024-09-25T23:11:12.100Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -133,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -180,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[New] 2024 Approved Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choreographing-pictures-and-tunes-in-video/"><u>[Updated] Choreographing Pictures & Tunes in Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-latest-smartphones-and-their-fit-with-gear-vr-technology/"><u>[Updated] Latest Smartphones and Their Fit With Gear VR Technology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-innovative-methods-to-record-windows-8-display/"><u>2024 Approved Innovative Methods to Record Windows 8 Display</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>2024 Approved Ultimate Tutorial Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
+<li><a href="https://win-trending.techidaily.com/2024vcdmp4/"><u>2024年度最新テクニック：VCDからMP4への簡単な変換手順を解説</u></a></li>
+<li><a href="https://win-trending.techidaily.com/6zplusz6zplus44oo44kk44k66zmk5y675pya5paw44k944ov44oi44km44kn44kiioodioodgplusodlplusplus8leaoqoiwpiatios9vplusobhowniplusocgeociplusobruobqplusajiplusavsoa21/"><u>音響ノイズ除去最新ソフトウェア トップ５推薦 - 使い始めるのに手数料不要</u></a></li>
+<li><a href="https://win-trending.techidaily.com/a-step-by-step-guide-to-downloading-content-from-kissasian/"><u>A Step-by-Step Guide to Downloading Content From KissAsian</u></a></li>
+<li><a href="https://win-trending.techidaily.com/accessing-facebook-live-broadcasts-without-creating-a-profile-simple-steps/"><u>Accessing Facebook Live Broadcasts Without Creating a Profile: Simple Steps!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/achieving-optimal-clarity-in-4k-the-top-fps-settings-you-need-to-know-about/"><u>Achieving Optimal Clarity in 4K: The Top FPS Settings You Need to Know About</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-kensuns-durable-and-compact-portable-tire-inflator/"><u>Comprehensive Evaluation of Kensun's Durable and Compact Portable Tire Inflator</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-tracks-without-paying-a-penny-rapid-solutions-for-your-soundcloud-desires/"><u>Download Tracks Without Paying a Penny - Rapid Solutions for Your SoundCloud Desires</u></a></li>
+<li><a href="https://win-trending.techidaily.com/dvdcinavia/"><u>DVDのCinaviaセキュリティシステムがわからなければ、ここでその単純解除法を学ぶ！</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-4220-in-call-of-duty-ww2-easy-fix-and-solutions/"><u>Error 4220 in Call of Duty WW2 – Easy Fix and Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-faster-periscope-streaming/"><u>In 2024, Master the Art of Faster Periscope Streaming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-softening-volume-windowsmac-audio-tips/"><u>In 2024, Softening Volume Windows/Mac Audio Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-memory-and-cpu-for-streamers-on-w11/"><u>Optimizing Memory & CPU for Streamers on W11</u></a></li>
+<li><a href="https://win-trending.techidaily.com/44ko44kz44oh44kz44oe44o844or5l244ge5pa544ks44kk44oj77ya5asj5oplusb44gn44gn44gq44ge44k344ok44oq44kq44gr44gk44gr44kl5luj5pu5oim55wl44ks5a2m44g2/"><u>エコデコツール使い方ガイド：変換できないシナリオにおける代替戦略を学ぶ</u></a></li>
+<li><a href="https://win-trending.techidaily.com/44k544og44or44k555qe44gr44ov44kh44oz44k544oi44oq44o844og44gu5pig5yop44ks6kiy6yyy44gz44kl5pya5zae44gu5pa55rov/"><u>ステルス的にファンストリームの映像を記録する最善の方法</u></a></li>
+</ul></div>
 

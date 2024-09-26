@@ -1,7 +1,7 @@
 ---
 title: "Tech Giants Slow Down Recruitment: Should You Be Concerned? Insights From ZDNet"
-date: 2024-09-18T03:58:12.248Z
-updated: 2024-09-20T19:49:40.507Z
+date: 2024-09-23T21:35:05.218Z
+updated: 2024-09-25T18:48:25.138Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -115,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -133,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -186,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-transitioning-gaming-sessions-xbox-live-to-fb-live-for-2024/"><u>[New] Transitioning Gaming Sessions Xbox Live to FB Live for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unbeatable-ps1-emulators-for-high-quality-gaming/"><u>[Updated] In 2024, Unbeatable PS1 Emulators for High-Quality Gaming</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-easy-guide-to-using-abc-iview-downloader-save-your-favorite-videos/"><u>1. Easy Guide to Using ABC iView Downloader: Save Your Favorite Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-15-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 15 Pro</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprehensive-collection-premium-hd-and-funny-vids-on-animals-and-more-download-now-for-endless-entertainment/"><u>Comprehensive Collection: Premium HD & Funny Vids on Animals & More – Download Now for Endless Entertainment!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-troubleshooting-steps-rectifying-the-itunes-mystery-error-13014/"><u>Comprehensive Troubleshooting Steps: Rectifying the iTunes Mystery Error 13014</u></a></li>
+<li><a href="https://win-trending.techidaily.com/convert-and-transfer-your-vidme-videos-into-high-quality-mp4-or-avi-format-for-windows-and-macos-systems/"><u>Convert and Transfer Your VidMe Videos Into High-Quality MP4 or AVI Format for Windows & macOS Systems</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-and-convert-videos-in-4k-quality-top-tools-for-mac-users/"><u>Download and Convert Videos in 4K Quality: Top Tools for Mac Users</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-and-convert-your-favorite-movies-on-wickedfun-with-one-click-to-mp4-mov-or-avi/"><u>Download and Convert Your Favorite Movies on Wickedfun with One Click to MP4, MOV or AVI!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-hilarity-get-your-favorite-comedy-from-funny-or-die-in-high-quality-mp4-format/"><u>Download Hilarity: Get Your Favorite Comedy From Funny Or Die in High-Quality MP4 Format!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-kissasian-originals-watch-exclusive-content-on-kissasiancom/"><u>Download Kissasian Originals - Watch Exclusive Content on kissasian.com</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-communication-problems-discover-10-tips/"><u>How To Resolve iPhone Communication Problems – Discover 10 Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 6s?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-way-to-add-a-hyperlink-to-enhance-your-tiktok-profile/"><u>In 2024, Masterful Way to Add a Hyperlink to Enhance Your TikTok Profile</u></a></li>
+<li><a href="https://solve-news.techidaily.com/ultimate-tricks-to-reduce-size-of-mp4-videos-without-losing-quality/"><u>Ultimate Tricks to Reduce Size of MP4 Videos Without Losing Quality</u></a></li>
+<li><a href="https://win-trending.techidaily.com/understanding-four-output-modes-for-your-projects-html-zip-file-executable-and-burn-to-disk-with-flipbuilder/"><u>Understanding Four Output Modes for Your Projects: HTML, ZIP File, Executable, and Burn to Disk with FlipBuilder</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-revolutionize-your-visuals-8-best-photo-animation-tools/"><u>Updated In 2024, Revolutionize Your Visuals 8 Best Photo Animation Tools</u></a></li>
+<li><a href="https://win-trending.techidaily.com/upgrade-to-digital-magazines-from-pdfs-including-photo-galleries-and-video-content-features-flipbuildercom/"><u>Upgrade to Digital Magazines From PDFs, Including Photo Galleries & Video Content Features [FlipBuilder.com]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "2021 Ultimate Shopping Manual: Navigating Black Friday & Cyber Monday Deals on ZDNet"
-date: 2024-09-20T05:36:15.066Z
-updated: 2024-09-21T07:06:33.184Z
+date: 2024-09-20T23:10:29.168Z
+updated: 2024-09-25T18:18:15.582Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,22 +135,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +200,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-depth-examination-of-videoshow-24/"><u>[New] In-Depth Examination of VideoShow '24</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>[Updated] IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/avchdmp4/"><u>「家庭用AVCHD動画をフリーでMP4形式に再編する方法」</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-and-save-local-copies-of-your-flipbooks-with-easy-steps-on-flipbuilder/"><u>Download and Save Local Copies of Your Flipbooks with Easy Steps on FlipBuilder</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-adjust-your-video-quality-on-pc-and-mac/"><u>Easy Steps to Adjust Your Video Quality on PC and Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-ipad-faceoff-insightful-benchmarks-and-comparison-breakdown/"><u>Elite iPad Faceoff: Insightful Benchmarks and Comparison Breakdown</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/frei-umwandeln-von-tod-in-mov-dateien-mit-movavi-online-converter-keine-kosten/"><u>Frei Umwandeln Von TOD in MOV Dateien Mit Movavi Online Converter - Keine Kosten!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-launch-interactive-ebooks-exe-immediately-on-pc-discover-the-power-of-flipbuilder-conversion-tools/"><u>How To Launch Interactive eBooks (EXE) Immediately on PC? Discover the Power of FlipBuilder Conversion Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-craft-a-vibrant-youtube-experience-with-tracks/"><u>In 2024, Craft a Vibrant Youtube Experience with Tracks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-bengali-online-in-just-10-minutes-a-dayback-buttonfilter-button/"><u>Learn Bengali Online In Just 10 Minutes A DayBack ButtonFilter Button</u></a></li>
+<li><a href="https://win-trending.techidaily.com/maximize-your-readership-and-virality-with-flipbuilders-social-sharing-ebooks/"><u>Maximize Your Readership & Virality with FlipBuilder's Social Sharing Ebooks</u></a></li>
+<li><a href="https://win-trending.techidaily.com/quick-guide-creating-a-unified-flipbook-from-multiple-pdfs-using-flipbuilder/"><u>Quick Guide: Creating a Unified Flipbook From Multiple PDFs Using FlipBuilder</u></a></li>
+<li><a href="https://win-trending.techidaily.com/seeking-a-comprehensive-tutorial-to-master-flipoffice-pro-through-flipbuilders-help-resources-where-do-i-start/"><u>Seeking a Comprehensive Tutorial to Master FlipOffice Pro Through FlipBuilder's Help Resources – Where Do I Start?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/transform-your-pdf-into-a-beautifully-bound-booklet-in-minutes-using-flip-builder-learn-more-at-flipbuildercom/"><u>Transform Your PDF Into a Beautifully Bound Booklet in Minutes Using Flip Builder [Learn More at FlipBuilder.com]</u></a></li>
+</ul></div>
 

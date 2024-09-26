@@ -1,7 +1,7 @@
 ---
 title: Create Excel Drop-Down Menus in No Time - Your Effortless Guide to Mastery! Powered by ZDNet's Expert Techniques
-date: 2024-09-13T23:39:14.608Z
-updated: 2024-09-21T07:12:12.476Z
+date: 2024-09-21T21:09:58.920Z
+updated: 2024-09-25T23:12:33.553Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,22 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +200,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-boosting-videos-the-best-5-tech-aids/"><u>[New] 2024 Approved Boosting Videos The Best 5 Tech Aids</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-blurry-or-crisp-master-partial-blurring-on-devices/"><u>[Updated] Blurry or Crisp? Master Partial Blurring on Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-guide-to-overcoming-mobile-video-sending-problems-in-fb-chat/"><u>[Updated] Guide to Overcoming Mobile Video Sending Problems in FB Chat</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-easy-guide-to-using-abc-iview-downloader-save-your-favorite-videos/"><u>1. Easy Guide to Using ABC iView Downloader: Save Your Favorite Videos</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprehensive-collection-premium-hd-and-funny-vids-on-animals-and-more-download-now-for-endless-entertainment/"><u>Comprehensive Collection: Premium HD & Funny Vids on Animals & More – Download Now for Endless Entertainment!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a14-4g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A14 4G FRP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-realme-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Realme</u></a></li>
+<li><a href="https://win-dash.techidaily.com/sandisk-compatible-drivers-for-windows-10-free-download-and-quick-setup-guide/"><u>SanDisk Compatible Drivers for Windows 10: Free Download & Quick Setup Guide</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-10-freenet-based-dvd-copying-tools-fur-den-einsatz-gegen-kopierschutz/"><u>Top 10 Freenet-Based DVD Copying Tools Für Den Einsatz Gegen Kopierschutz</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-common-issues-with-sharing-pdfs-created-with-flipbuilder/"><u>Troubleshooting Common Issues with Sharing PDFs Created with FlipBuilder</u></a></li>
+<li><a href="https://win-trending.techidaily.com/understanding-four-output-modes-for-your-projects-html-zip-file-executable-and-burn-to-disk-with-flipbuilder/"><u>Understanding Four Output Modes for Your Projects: HTML, ZIP File, Executable, and Burn to Disk with FlipBuilder</u></a></li>
+<li><a href="https://win-trending.techidaily.com/upgrade-to-digital-magazines-from-pdfs-including-photo-galleries-and-video-content-features-flipbuildercom/"><u>Upgrade to Digital Magazines From PDFs, Including Photo Galleries & Video Content Features [FlipBuilder.com]</u></a></li>
+</ul></div>
 

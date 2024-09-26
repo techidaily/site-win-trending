@@ -1,7 +1,7 @@
 ---
 title: "Azure Advances Cloud Technology with the Release of Radius: A Revolutionary Multi-Cloud Development Framework | NextGen Computing News"
-date: 2024-09-15T06:37:06.877Z
-updated: 2024-09-20T17:21:26.832Z
+date: 2024-09-18T22:27:22.599Z
+updated: 2024-09-25T22:21:41.697Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-amplify-pictorial-points-using-rings-of-radial-focus-for-2024/"><u>[New] Amplify Pictorial Points Using Rings of Radial Focus for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-viral-visuals-stories-of-success/"><u>[Updated] In 2024, Viral Visuals Stories of Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-strategic-guide-gain-traction-with-podcast-seo-techniques/"><u>2024 Approved Strategic Guide Gain Traction with Podcast SEO Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-m34-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy M34 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/create-and-revise-pdfs-instantly-discover-the-top-free-pdf-editor-tool-no-expense-necessary/"><u>Create & Revise PDFs Instantly: Discover the Top Free PDF Editor Tool - No Expense Necessary!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/customizing-page-layout-with-margin-settings-on-flipbuilder-for-enhanced-ebook-design/"><u>Customizing Page Layout with Margin Settings on FlipBuilder for Enhanced eBook Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decision-time-freelancers-guide-to-chatbot-selectionbing-vs-chatgpt/"><u>Decision Time! Freelancer's Guide to ChatBot Selection—Bing Vs. ChatGPT</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-steps-to-build-engaging-flipbooks-featuring-your-companys-story-and-visual-identity/"><u>Easy Steps to Build Engaging FlipBooks Featuring Your Company's Story and Visual Identity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-video-player-for-high-quality-avi-on-devices-for-2024/"><u>Exclusive Video Player for High-Quality AVI on Devices for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/flipoffice-effortlessly-create-a-multi-functional-office-organizer-from-your-documents-at-flipbuildercom/"><u>FlipOffice: Effortlessly Create a Multi-Functional Office Organizer From Your Documents at FlipBuilder.com</u></a></li>
+<li><a href="https://win-trending.techidaily.com/get-your-documents-in-image-form-free-pdf-to-jpg-upconversion-flipbuildercom/"><u>Get Your Documents in Image Form: Free PDF to JPG Upconversion [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-does-flipbuilder-handle-device-upgrades-learn-more-on-their-platform/"><u>How Does FlipBuilder Handle Device Upgrades? Learn More on Their Platform</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-switch-your-flipbuilder-apps-interface-from-english-to-your-local-language/"><u>How to Switch Your FlipBuilder App's Interface From English to Your Local Language</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/integrating-flash-based-advertisements-into-your-ebook-with-flipbuilder/"><u>Integrating Flash-Based Advertisements Into Your eBook with FlipBuilder</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-flip-it-quick-and-simple-video-rotation-techniques/"><u>New 2024 Approved Flip It! Quick and Simple Video Rotation Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y78plus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y78+ Phones</u></a></li>
+</ul></div>
 

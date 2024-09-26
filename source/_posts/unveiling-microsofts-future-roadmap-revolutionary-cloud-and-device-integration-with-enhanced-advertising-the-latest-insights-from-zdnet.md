@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Future Roadmap: Revolutionary Cloud & Device Integration with Enhanced Advertising - The Latest Insights From ZDNet"
-date: 2024-09-16T02:19:49.796Z
-updated: 2024-09-21T05:11:17.120Z
+date: 2024-09-18T21:16:27.851Z
+updated: 2024-09-25T23:13:55.434Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -116,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -186,5 +194,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-screen-sharing-showdown-obs-vs-twitch-studio-face-off-for-2024/"><u>[New] Screen Sharing Showdown OBS vs Twitch Studio Face-Off for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-ultimate-download-hub-for-social-media-videos-fb/"><u>[Updated] Ultimate Download Hub for Social Media Videos (FB)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-advanced-strategies-for-professional-gif-craftsmanship/"><u>2024 Approved Advanced Strategies for Professional GIF Craftsmanship</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-the-best-storytelling-schools-1-8-guide/"><u>2024 Approved Unveiling the Best Storytelling Schools - #1-#8 Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-zero-30-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Zero 30 5G</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-for-transforming-sporty-pilot-training-videos-into-downloaded-formats-mp4-mp3/"><u>Guide for Transforming Sporty Pilot Training Videos Into Downloaded Formats (MP4, MP3)</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-mastering-offline-learning-with-downloaded-g9md-video-lessons/"><u>Guide: Mastering Offline Learning with Downloaded G9MD Video Lessons</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-download-and-convert-infoq-conference-presentations-as-mp4-or-avi-files-for-pcs-and-macs/"><u>How to Download and Convert InfoQ Conference Presentations as MP4 or AVI Files for PCs and Macs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://win-trending.techidaily.com/kelbys-instructional-materials-secure-your-educational-video-content-today/"><u>Kelby's Instructional Materials: Secure Your Educational Video Content Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-hierarchy-of-royal-match-games-discovering-the-total-number-of-stages/"><u>The Hierarchy of Royal Match Games: Discovering the Total Number of Stages</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-most-accurate-transcription-programs-for-2eby-year-2024-edition/"><u>The Most Accurate Transcription Programs for 2Eby Year: 2024 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-printer-driver-on-windows-a-comprehensive-guide/"><u>Update Your Brother Printer Driver on Windows: A Comprehensive Guide</u></a></li>
+</ul></div>
 

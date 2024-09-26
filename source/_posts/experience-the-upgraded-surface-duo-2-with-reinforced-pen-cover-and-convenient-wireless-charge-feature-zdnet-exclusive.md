@@ -1,7 +1,7 @@
 ---
 title: Experience the Upgraded Surface Duo 2 with Reinforced Pen Cover and Convenient Wireless Charge Feature - ZDNET Exclusive
-date: 2024-09-19T01:46:13.381Z
-updated: 2024-09-21T09:28:47.504Z
+date: 2024-09-19T00:20:24.229Z
+updated: 2024-09-25T19:16:10.613Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,28 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -186,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-from-eyeballs-to-earnings-the-price-of-popular-videos/"><u>[New] 2024 Approved From Eyeballs to Earnings The Price of Popular Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-the-best-youtube-thumbnails-the-free-guide-for-2024/"><u>[Updated] How to Get the Best YouTube Thumbnails The Free Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-jumpstart-your-youtube-channel-growth-with-key-editing-skills-from-sony-vegas/"><u>2024 Approved Jumpstart Your YouTube Channel Growth with Key Editing Skills From Sony Vegas</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/a-comprehensive-guide-to-thumbnail-production-for-2024/"><u>A Comprehensive Guide to Thumbnail Production for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/enhanced-ai-powered-music-creation-with-github-copilot-whats-new/"><u>Enhanced AI-Powered Music Creation with GitHub Copilot: What's New?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/exploring-the-new-microsoft-surface-laptop-5-a-zdnet-review-of-expectations-vs-reality/"><u>Exploring the New Microsoft Surface Laptop 5 - A ZDnet Review of Expectations vs Reality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-paper-to-cloud-preserving-old-family-photographs/"><u>From Paper to Cloud Preserving Old Family Photographs</u></a></li>
+<li><a href="https://win-trending.techidaily.com/get-your-hands-on-the-freshly-released-surface-laptop-go-2-for-just-599-pre-order-now-exclusive-insights-and-specs-by-cnet/"><u>Get Your Hands on the Freshly Released Surface Laptop Go 2 for Just $599 - Pre-Order Now! Exclusive Insights and Specs by CNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-title-design-strategies-in-after-effects/"><u>In 2024, Advanced Title Design Strategies in After Effects</u></a></li>
+<li><a href="https://win-trending.techidaily.com/mastering-your-microsoft-365-plan-with-windows-11-expert-tips-and-strategies-according-to-zdnet/"><u>Mastering Your Microsoft 365 Plan with Windows 11: Expert Tips and Strategies According to ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-xiaomi-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Xiaomi has been deleted.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/screen-protectors-that-enhance-vr-filming-for-2024/"><u>Screen Protectors That Enhance VR Filming for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/sending-and-receiving-imessages-from-your-pc-a-comprehensive-guide-wired/"><u>Sending & Receiving iMessages From Your PC: A Comprehensive Guide | Wired</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-ai-powered-video-improvement-tools-top-6-picks-for-professionals/"><u>The Best AI-Powered Video Improvement Tools: Top 6 Picks for Professionals</u></a></li>
+<li><a href="https://win-trending.techidaily.com/top-affordable-laptops-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Affordable Laptops - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/upcoming-change-alert-will-you-pay-for-windows-11-patches-in-the-future-details-inside-zdnet/"><u>Upcoming Change Alert: Will You Pay for Windows 11 Patches in the Future? Details Inside | ZDNET</u></a></li>
+<li><a href="https://win-trending.techidaily.com/upcoming-cost-of-keeping-your-pc-updated-with-windows-10-explore-the-price-changes-from-microsoft-set-in-motion-next-year/"><u>Upcoming Cost of Keeping Your PC Updated with Windows 10: Explore the Price Changes From Microsoft Set in Motion Next Year</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-s23-fe-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy S23 FE Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-10-updates-no-longer-free-find-out-what-microsofts-latest-changes-mean/"><u>Windows 10 Updates No Longer Free? Find Out What Microsoft's Latest Changes Mean</u></a></li>
+</ul></div>
 

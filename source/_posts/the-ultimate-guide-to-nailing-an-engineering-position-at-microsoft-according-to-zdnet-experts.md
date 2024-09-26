@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Nailing an Engineering Position at Microsoft, According to ZDNet Experts
-date: 2024-09-18T10:53:37.331Z
-updated: 2024-09-20T22:00:54.339Z
+date: 2024-09-19T00:59:26.221Z
+updated: 2024-09-25T23:11:54.898Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -116,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -139,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -186,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-trending.techidaily.com/1726030275068-youtube/"><u>【忙しい日常でも】YouTubeの音楽を自由にスマホに保存する方法</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-speedy-and-high-quality-conversion-transforming-your-dvds-into-crystal-clear-images-on-ipad-air/"><u>1. Speedy and High-Quality Conversion: Transforming Your DVDs Into Crystal Clear Images on iPad Air</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-the-art-of-obtaining-markless-photos/"><u>2024 Approved Mastering the Art of Obtaining Markless Photos</u></a></li>
+<li><a href="https://win-trending.techidaily.com/2024mkv-dlna-hdhd-audio-dvd/"><u>2024年に使いやすい最善の無料MKV DLNAプレイヤー - HD/HD Audio DVD変換ソフトウェア</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-free-video-calls-featuring-screen-sharing-roundup/"><u>Best Free Video Calls Featuring Screen Sharing Roundup</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-tips-for-effective-fb-live-split-screens-for-2024/"><u>Essential Tips for Effective FB Live Split Screens for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/geometric-future-eskimo-junior-model-assessment-exceptional-aesthetics-and-silent-operation-yet-unremarkable-effectiveness/"><u>Geometric Future Eskimo Junior Model Assessment: Exceptional Aesthetics & Silent Operation, Yet Unremarkable Effectiveness</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hiberfilsys-windows-10-and-how-to-delete-it-solved/"><u>hiberfil.sys Windows 10 & How to Delete It? [Solved]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-f14-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy F14 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-7-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 7 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1726030188232-mp4dvd/"><u>MP4形式へのレンタルDVD変換専用無料アプリをご紹介</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-galaxy-f15-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Galaxy F15 5G</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1726028542644-premiere-promov/"><u>Premiere ProにてMOVファイルを読み込む際のトラブルシューティング</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-installation-problems-of-minecraft-on-windows-11-computers/"><u>Troubleshooting Guide: Installation Problems of Minecraft on Windows 11 Computers</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ultimate-guide-to-the-best-computers-of-2er-2024-a-comprehensive-review-by-zdnet-featuring-apple-dell-et-al/"><u>Ultimate Guide to the Best Computers of 2Er 2024: A Comprehensive Review by ZDNET Featuring Apple, Dell, Et Al</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-11-update-hurdle-error-0x800f0922-fixes/"><u>Ultimate Guide: Resolving the Windows 11 Update Hurdle – Error 0X800f0922 Fixes</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ultra-thin-acer-swift-edge-unveiled-the-new-pinnacle-of-portable-4k-oled-laptops/"><u>Ultra-Thin Acer Swift Edge Unveiled: The New Pinnacle of Portable 4K OLED Laptops</u></a></li>
+<li><a href="https://win-trending.techidaily.com/understanding-the-role-of-trusted-platform-module-in-windows-11-insights-and-explanation/"><u>Understanding the Role of Trusted Platform Module in Windows 11: Insights & Explanation</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unlock-enhanced-features-in-windows-11-simplified-android-integration-and-rapid-speech-to-text-with-latest-updates-techwise-insights/"><u>Unlock Enhanced Features in Windows 11: Simplified Android Integration & Rapid Speech-to-Text with Latest Updates | TechWise Insights</u></a></li>
+</ul></div>
 
