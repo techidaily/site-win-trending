@@ -1,7 +1,7 @@
 ---
 title: Create Excel Drop-Down Menus in No Time - Your Effortless Guide to Mastery! Powered by ZDNet's Expert Techniques
-date: 2024-09-21T21:09:58.920Z
-updated: 2024-09-25T23:12:33.553Z
+date: 2024-09-25T06:26:06.608Z
+updated: 2024-09-30T10:04:02.469Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,19 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-boosting-videos-the-best-5-tech-aids/"><u>[New] 2024 Approved Boosting Videos The Best 5 Tech Aids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-blurry-or-crisp-master-partial-blurring-on-devices/"><u>[Updated] Blurry or Crisp? Master Partial Blurring on Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-guide-to-overcoming-mobile-video-sending-problems-in-fb-chat/"><u>[Updated] Guide to Overcoming Mobile Video Sending Problems in FB Chat</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-easy-guide-to-using-abc-iview-downloader-save-your-favorite-videos/"><u>1. Easy Guide to Using ABC iView Downloader: Save Your Favorite Videos</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comprehensive-collection-premium-hd-and-funny-vids-on-animals-and-more-download-now-for-endless-entertainment/"><u>Comprehensive Collection: Premium HD & Funny Vids on Animals & More – Download Now for Endless Entertainment!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a14-4g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A14 4G FRP</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-realme-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Realme</u></a></li>
-<li><a href="https://win-dash.techidaily.com/sandisk-compatible-drivers-for-windows-10-free-download-and-quick-setup-guide/"><u>SanDisk Compatible Drivers for Windows 10: Free Download & Quick Setup Guide</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-10-freenet-based-dvd-copying-tools-fur-den-einsatz-gegen-kopierschutz/"><u>Top 10 Freenet-Based DVD Copying Tools Für Den Einsatz Gegen Kopierschutz</u></a></li>
-<li><a href="https://win-trending.techidaily.com/troubleshooting-common-issues-with-sharing-pdfs-created-with-flipbuilder/"><u>Troubleshooting Common Issues with Sharing PDFs Created with FlipBuilder</u></a></li>
-<li><a href="https://win-trending.techidaily.com/understanding-four-output-modes-for-your-projects-html-zip-file-executable-and-burn-to-disk-with-flipbuilder/"><u>Understanding Four Output Modes for Your Projects: HTML, ZIP File, Executable, and Burn to Disk with FlipBuilder</u></a></li>
-<li><a href="https://win-trending.techidaily.com/upgrade-to-digital-magazines-from-pdfs-including-photo-galleries-and-video-content-features-flipbuildercom/"><u>Upgrade to Digital Magazines From PDFs, Including Photo Galleries & Video Content Features [FlipBuilder.com]</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-8-best-drawing-apps-for-iphones/"><u>[Updated] 2024 Approved 8 Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://win-trending.techidaily.com/are-high-demand-and-limited-availability-making-windows-11-overly-sought-after-a-deep-dive-into-market-trends-zdnet/"><u>Are High Demand and Limited Availability Making Windows 11 Overly Sought-After?: A Deep Dive Into Market Trends - ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-imagination-to-life-self-animated-artistry/"><u>Bring Imagination to Life Self-Animated Artistry</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprehensive-test-of-the-mavix-m9-gaming-chair-ultimate-flexibility-meets-controversy-techradar/"><u>Comprehensive Test of the Mavix M9 Gaming Chair: Ultimate Flexibility Meets Controversy | TechRadar</u></a></li>
+<li><a href="https://win-trending.techidaily.com/flexispot-theodore-standing-desk-offer-secure-90-savings-now-discover-more-at-zdnet/"><u>FlexiSpot Theodore Standing Desk Offer: Secure $90 Savings Now - Discover More at ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/futureproofing-your-workspace-expert-picks-for-the-ultimate-office-chairs-of-202n-insights-from-zdnet/"><u>Futureproofing Your Workspace: Expert Picks for the Ultimate Office Chairs of 202N | Insights From ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/path-of-exile-performance-fixes-how-to-stop-your-game-from-freezing-for-free/"><u>Path of Exile Performance Fixes: How to Stop Your Game From Freezing for FREE</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/socialsoundify-twitter-videos-to-audio-for-2024/"><u>SocialSoundify Twitter Videos to Audio for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-work-life-in-6-ways-by-mastering-the-power-of-chatgpt/"><u>Transform Your Work Life in 6 Ways by Mastering the Power of ChatGPT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-the-art-of-captions-a-short-guide-to-facebook-videos/"><u>Unlocking the Art of Captions A Short Guide to Facebook Videos</u></a></li>
 </ul></div>
 

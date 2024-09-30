@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Next Iteration: Microsoft's Wave 2 Copilot Launch Details | Insights From ZDNet"
-date: 2024-09-18T17:30:06.341Z
-updated: 2024-09-25T23:11:12.100Z
+date: 2024-09-22T20:08:57.326Z
+updated: 2024-09-30T00:58:56.012Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[New] 2024 Approved Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-choreographing-pictures-and-tunes-in-video/"><u>[Updated] Choreographing Pictures & Tunes in Video</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-latest-smartphones-and-their-fit-with-gear-vr-technology/"><u>[Updated] Latest Smartphones and Their Fit With Gear VR Technology</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-innovative-methods-to-record-windows-8-display/"><u>2024 Approved Innovative Methods to Record Windows 8 Display</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>2024 Approved Ultimate Tutorial Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
-<li><a href="https://win-trending.techidaily.com/2024vcdmp4/"><u>2024年度最新テクニック：VCDからMP4への簡単な変換手順を解説</u></a></li>
-<li><a href="https://win-trending.techidaily.com/6zplusz6zplus44oo44kk44k66zmk5y675pya5paw44k944ov44oi44km44kn44kiioodioodgplusodlplusplus8leaoqoiwpiatios9vplusobhowniplusocgeociplusobruobqplusajiplusavsoa21/"><u>音響ノイズ除去最新ソフトウェア トップ５推薦 - 使い始めるのに手数料不要</u></a></li>
-<li><a href="https://win-trending.techidaily.com/a-step-by-step-guide-to-downloading-content-from-kissasian/"><u>A Step-by-Step Guide to Downloading Content From KissAsian</u></a></li>
-<li><a href="https://win-trending.techidaily.com/accessing-facebook-live-broadcasts-without-creating-a-profile-simple-steps/"><u>Accessing Facebook Live Broadcasts Without Creating a Profile: Simple Steps!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/achieving-optimal-clarity-in-4k-the-top-fps-settings-you-need-to-know-about/"><u>Achieving Optimal Clarity in 4K: The Top FPS Settings You Need to Know About</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-kensuns-durable-and-compact-portable-tire-inflator/"><u>Comprehensive Evaluation of Kensun's Durable and Compact Portable Tire Inflator</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-tracks-without-paying-a-penny-rapid-solutions-for-your-soundcloud-desires/"><u>Download Tracks Without Paying a Penny - Rapid Solutions for Your SoundCloud Desires</u></a></li>
-<li><a href="https://win-trending.techidaily.com/dvdcinavia/"><u>DVDのCinaviaセキュリティシステムがわからなければ、ここでその単純解除法を学ぶ！</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-4220-in-call-of-duty-ww2-easy-fix-and-solutions/"><u>Error 4220 in Call of Duty WW2 – Easy Fix and Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-faster-periscope-streaming/"><u>In 2024, Master the Art of Faster Periscope Streaming</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-softening-volume-windowsmac-audio-tips/"><u>In 2024, Softening Volume Windows/Mac Audio Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-memory-and-cpu-for-streamers-on-w11/"><u>Optimizing Memory & CPU for Streamers on W11</u></a></li>
-<li><a href="https://win-trending.techidaily.com/44ko44kz44oh44kz44oe44o844or5l244ge5pa544ks44kk44oj77ya5asj5oplusb44gn44gn44gq44ge44k344ok44oq44kq44gr44gk44gr44kl5luj5pu5oim55wl44ks5a2m44g2/"><u>エコデコツール使い方ガイド：変換できないシナリオにおける代替戦略を学ぶ</u></a></li>
-<li><a href="https://win-trending.techidaily.com/44k544og44or44k555qe44gr44ov44kh44oz44k544oi44oq44o844og44gu5pig5yop44ks6kiy6yyy44gz44kl5pya5zae44gu5pa55rov/"><u>ステルス的にファンストリームの映像を記録する最善の方法</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-direct-to-twitter-video-conversion-a-comprehensible-list-for-2024/"><u>[New] Direct-to-Twitter Video Conversion A Comprehensible List for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-elusive-story-viewers-mobile-hacks/"><u>2024 Approved Elusive Story Viewers' Mobile Hacks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pathways-to-gaining-premium-image-content-without-payment/"><u>2024 Approved Pathways to Gaining Premium Image Content Without Payment</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-3d-video-makers-you-must-know/"><u>Best 3D Video Makers You Must Know</u></a></li>
+<li><a href="https://win-trending.techidaily.com/bulk-transfer-of-howcast-content-as-mp4-files-step-by-step-tutorial/"><u>Bulk Transfer of Howcast Content as MP4 Files - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-trending.techidaily.com/chill-out-zone-movie-downloads-available-in-multiple-video-codecs-mp4-wmv-mov-flv-avi-compatible-with-pc-and-mac-systems/"><u>Chill Out Zone Movie Downloads Available in Multiple Video Codecs - MP4, WMV, MOV, FLV, AVI Compatible with PC and Mac Systems</u></a></li>
+<li><a href="https://win-trending.techidaily.com/convert-and-save-top-tube-streaming-content-effortless-mp4-downloads-with-sprewdl-tool/"><u>Convert and Save Top Tube Streaming Content: Effortless MP4 Downloads with SPREWDL Tool</u></a></li>
+<li><a href="https://win-trending.techidaily.com/convert-m3u8-streams-into-various-formats-like-mp4-and-wmv-on-pcmac/"><u>Convert M3U8 Streams Into Various Formats Like MP4 & WMV on PC/Mac</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-top-poker-matches-from-ruunitonce-exclusive-video-collection/"><u>Download Top Poker Matches From RuUnItOnce - Exclusive Video Collection</u></a></li>
+<li><a href="https://win-trending.techidaily.com/effortless-video-editing-top-tools-competing-with-clipconverter-for-a-seamless-experience-on-youtube/"><u>Effortless Video Editing: Top Tools Competing with ClipConverter for a Seamless Experience on YouTube</u></a></li>
+<li><a href="https://win-trending.techidaily.com/get-the-best-audiovideo-experience-with-aol-and-truveo-files-convert-to-mp4-avi-flv-etc/"><u>Get the Best Audio/Video Experience with AOL and Truveo Files - Convert to MP4, AVI, FLV, Etc.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-infinix-smart-8-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Infinix Smart 8? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-pcs-hd-color-videography/"><u>In 2024, Ultimate Guide PC's HD Color Videography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-the-art-of-uploading-youtube-shorts-on-devices/"><u>Mastering the Art of Uploading YouTube Shorts on Devices</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unleash-media-bliss-with-maniatv-quick-fix-for-your-tv-series-and-music-cravings/"><u>Unleash Media Bliss with ManiaTV: Quick-Fix for Your TV Series and Music Cravings!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ways-to-download-youtube-videos-as-wav-files-on-macos-and-windows-systems/"><u>Ways to Download YouTube Videos as WAV Files on macOS and Windows Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

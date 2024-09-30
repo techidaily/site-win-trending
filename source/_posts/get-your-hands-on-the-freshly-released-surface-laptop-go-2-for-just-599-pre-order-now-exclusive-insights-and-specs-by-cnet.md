@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Freshly Released Surface Laptop Go 2 for Just $599 - Pre-Order Now! Exclusive Insights and Specs by CNET
-date: 2024-09-20T17:40:48.494Z
-updated: 2024-09-25T20:57:29.881Z
+date: 2024-09-27T01:27:37.452Z
+updated: 2024-09-29T21:55:30.994Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -143,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-your-ultimate-selfie-validation-handbook/"><u>[New] 2024 Approved Your Ultimate Selfie Validation Handbook</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unlocking-youtube-sponsor-opportunities-via-famebit-methods/"><u>[New] In 2024, Unlocking YouTube Sponsor Opportunities via FameBit Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-transforming-tech-talks-the-ezvide-screen-recording-guide/"><u>[New] Transforming Tech Talks The Ezvide Screen Recording Guide</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-installing-linux-on-your-microsoft-surface-go-a-quick-one-hour-guide-zdnet/"><u>1. Installing Linux on Your Microsoft Surface Go: A Quick One-Hour Guide - ZDNet</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-dominating-discussion-topics-in-the-social-space/"><u>2024 Approved Dominating Discussion Topics in the Social Space</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/50plus-best-text-techniques-in-film-making-for-2024/"><u>50+ Best Text Techniques in Film-Making for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/are-high-demand-and-limited-availability-making-windows-11-overly-sought-after-a-deep-dive-into-market-trends-zdnet/"><u>Are High Demand and Limited Availability Making Windows 11 Overly Sought-After?: A Deep Dive Into Market Trends - ZDNet</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comprehensive-test-of-the-mavix-m9-gaming-chair-ultimate-flexibility-meets-controversy-techradar/"><u>Comprehensive Test of the Mavix M9 Gaming Chair: Ultimate Flexibility Meets Controversy | TechRadar</u></a></li>
-<li><a href="https://win-trending.techidaily.com/flexispot-theodore-standing-desk-offer-secure-90-savings-now-discover-more-at-zdnet/"><u>FlexiSpot Theodore Standing Desk Offer: Secure $90 Savings Now - Discover More at ZDNet</u></a></li>
-<li><a href="https://win-trending.techidaily.com/futureproofing-your-workspace-expert-picks-for-the-ultimate-office-chairs-of-202n-insights-from-zdnet/"><u>Futureproofing Your Workspace: Expert Picks for the Ultimate Office Chairs of 202N | Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-aesthetic-alignment-for-online-glamour-content/"><u>In 2024, Aesthetic Alignment for Online Glamour Content</u></a></li>
-<li><a href="https://facebook.techidaily.com/online-network-strives-for-authenticity-with-new-fb-penalties/"><u>Online Network Strives for Authenticity with New FB Penalties</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-up-your-youtube-standings-from-beginner-to-beneficial-businesses-for-2024/"><u>Setting Up Your YouTube Standings From Beginner to Beneficial Businesses for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/transcending-tongues-the-key-to-romantic-success/"><u>Transcending Tongues: The Key to Romantic Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-10-top-zero-charge-web-tools-to-craft-videos/"><u>[New] 2024 Approved 10 Top Zero-Charge Web Tools to Craft Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-recommendation-best-websites-for-downloading-snapchat-ringtone/"><u>[New] Recommendation Best Websites For Downloading Snapchat Ringtone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>[New] TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-easy-guide-to-using-abc-iview-downloader-save-your-favorite-videos/"><u>1. Easy Guide to Using ABC iView Downloader: Save Your Favorite Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-insight-into-analyzing-youtube-view-counts-and-revenue/"><u>2024 Approved The Ultimate Insight Into Analyzing Youtube View Counts & Revenue</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprehensive-collection-premium-hd-and-funny-vids-on-animals-and-more-download-now-for-endless-entertainment/"><u>Comprehensive Collection: Premium HD & Funny Vids on Animals & More – Download Now for Endless Entertainment!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/convert-and-transfer-your-vidme-videos-into-high-quality-mp4-or-avi-format-for-windows-and-macos-systems/"><u>Convert and Transfer Your VidMe Videos Into High-Quality MP4 or AVI Format for Windows & macOS Systems</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-and-convert-videos-in-4k-quality-top-tools-for-mac-users/"><u>Download and Convert Videos in 4K Quality: Top Tools for Mac Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-huion-pen-in-minutes-with-these-5-techniques/"><u>Fix a Non-Responsive Huion Pen in Minutes with These 5 Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-huawei-nova-y71-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Huawei Nova Y71 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-crafting-exceptional-freefire-content-on-youtube-platforms/"><u>In 2024, Crafting Exceptional FreeFire Content on YouTube Platforms</u></a></li>
+<li><a href="https://win-trending.techidaily.com/seeking-a-comprehensive-tutorial-to-master-flipoffice-pro-through-flipbuilders-help-resources-where-do-i-start/"><u>Seeking a Comprehensive Tutorial to Master FlipOffice Pro Through FlipBuilder's Help Resources – Where Do I Start?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-successfully-watching-dvds-on-your-windows-11-pc/"><u>Step-by-Step Guide: Successfully Watching DVDs on Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-fourfold-path-to-blurring-iphone-images/"><u>The Fourfold Path to Blurring iPhone Images</u></a></li>
+<li><a href="https://win-trending.techidaily.com/transform-your-pdf-into-a-beautifully-bound-booklet-in-minutes-using-flip-builder-learn-more-at-flipbuildercom/"><u>Transform Your PDF Into a Beautifully Bound Booklet in Minutes Using Flip Builder [Learn More at FlipBuilder.com]</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-common-issues-with-sharing-pdfs-created-with-flipbuilder/"><u>Troubleshooting Common Issues with Sharing PDFs Created with FlipBuilder</u></a></li>
+<li><a href="https://win-trending.techidaily.com/understanding-four-output-modes-for-your-projects-html-zip-file-executable-and-burn-to-disk-with-flipbuilder/"><u>Understanding Four Output Modes for Your Projects: HTML, ZIP File, Executable, and Burn to Disk with FlipBuilder</u></a></li>
+<li><a href="https://win-trending.techidaily.com/upgrade-to-digital-magazines-from-pdfs-including-photo-galleries-and-video-content-features-flipbuildercom/"><u>Upgrade to Digital Magazines From PDFs, Including Photo Galleries & Video Content Features [FlipBuilder.com]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-realme-11-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Realme 11 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Personalized Webcam Border Designs & Dimming Effects
-date: 2024-09-23T18:17:21.502Z
-updated: 2024-09-25T16:35:41.181Z
+date: 2024-09-24T19:35:22.763Z
+updated: 2024-09-30T08:55:05.676Z
 tags:
   - product
 categories:
@@ -57,28 +57,28 @@ Action Tutorials
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_settings.jpg "Action! Webcam Settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Set up your webcam using options available in Webcam Settings window. Open Action! Preview and use mouse to set your webcam position and size.
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_always_record.jpg "Action! Webcam Settings") 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Create a graphic file with frame or shadow 
 
  Use your favorite graphics editor and create a PNG file with frame, shadow or any other graphics you would like to add around your webcam picture. Please note that webcam picture will be added over overlay graphics. 
 
 ![Mirillis Action! - Create overlay graphic file](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_frame_graphics.jpg "Create overlay graphic file") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Setup overlay graphics settings 
 
@@ -87,16 +87,10 @@ Action Tutorials
 ![Mirillis Action! - Webcam - Overlay graphics settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_overlay_graphics_settings.jpg "Webcam recording - Overlay graphics settings") 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Make a test video recording 
@@ -106,10 +100,10 @@ Action Tutorials
 ![Mirillis Action! - Gameplay recording with webcam and frame](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_frame_graphics_recording.jpg "Gameplay recording with webcam and frame")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -127,24 +121,19 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-insta-story-magic-embedding-youtube-links-like-a-pro/"><u>[Updated] 2024 Approved Insta Story Magic Embedding YouTube Links Like a Pro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-channeling-musical-charm-crafting-custom-playlists-on-youtube-for-2024/"><u>[Updated] Channeling Musical Charm Crafting Custom Playlists on Youtube for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-master-the-art-of-broadcasting-optimal-cameras-for-your-twitch-channel/"><u>[Updated] Master the Art of Broadcasting Optimal Cameras For Your Twitch Channel</u></a></li>
-<li><a href="https://win-trending.techidaily.com/chill-out-zone-movie-downloads-available-in-multiple-video-codecs-mp4-wmv-mov-flv-avi-compatible-with-pc-and-mac-systems/"><u>Chill Out Zone Movie Downloads Available in Multiple Video Codecs - MP4, WMV, MOV, FLV, AVI Compatible with PC and Mac Systems</u></a></li>
-<li><a href="https://win-trending.techidaily.com/convert-and-save-top-tube-streaming-content-effortless-mp4-downloads-with-sprewdl-tool/"><u>Convert and Save Top Tube Streaming Content: Effortless MP4 Downloads with SPREWDL Tool</u></a></li>
-<li><a href="https://win-trending.techidaily.com/convert-m3u8-streams-into-various-formats-like-mp4-and-wmv-on-pcmac/"><u>Convert M3U8 Streams Into Various Formats Like MP4 & WMV on PC/Mac</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-top-poker-matches-from-ruunitonce-exclusive-video-collection/"><u>Download Top Poker Matches From RuUnItOnce - Exclusive Video Collection</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effortless-video-editing-top-tools-competing-with-clipconverter-for-a-seamless-experience-on-youtube/"><u>Effortless Video Editing: Top Tools Competing with ClipConverter for a Seamless Experience on YouTube</u></a></li>
-<li><a href="https://win-trending.techidaily.com/enhancing-your-gaming-videos-capturing-and-incorporating-webcam-feeds-with-action-tech-tools/"><u>Enhancing Your Gaming Videos: Capturing and Incorporating Webcam Feeds with Action Tech Tools</u></a></li>
-<li><a href="https://win-trending.techidaily.com/get-the-best-audiovideo-experience-with-aol-and-truveo-files-convert-to-mp4-avi-flv-etc/"><u>Get the Best Audio/Video Experience with AOL and Truveo Files - Convert to MP4, AVI, FLV, Etc.</u></a></li>
-<li><a href="https://win-trending.techidaily.com/guide-transferring-dumpert-videos-onto-your-device-as-mp4-files-for-both-macos-and-windows-users/"><u>Guide: Transferring Dumpert Videos Onto Your Device as MP4 Files - For Both macOS & Windows Users</u></a></li>
-<li><a href="https://driver-error.techidaily.com/immediate-remedies-correcting-itbm-error-code-driver-unavailable/"><u>Immediate Remedies: Correcting ITBm Error Code 'Driver Unavailable'</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-glimpse-into-the-digital-frontier-todays-vr/"><u>In 2024, A Glimpse Into the Digital Frontier Today's VR</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-70-lite-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 70 Lite 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unleash-your-video-potential-with-free-enhancers/"><u>In 2024, Unleash Your Video Potential with Free Enhancers</u></a></li>
-<li><a href="https://win-trending.techidaily.com/mac-and-windows-companion-the-top-video-downloading-apps-substitute-for-dvdvideosoft-on-youtube/"><u>Mac & Windows Companion: The Top Video Downloading Apps Substitute for DVDVideoSoft on YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastery-start-essence-of-storyline-development/"><u>Mastery Start Essence of Storyline Development</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-huawei-p60-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Huawei P60 Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshoot-your-pc-easy-fix-for-downloading-mouse-driver-on-windows-7-guide/"><u>Troubleshoot Your PC - Easy Fix for Downloading Mouse Driver on Windows 7 [Guide]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unraveling-the-mysteries-of-instagram-saved-stories/"><u>[Updated] In 2024, Unraveling the Mysteries of Instagram Saved Stories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-laugh-out-loud-essential-comedy-channels-for-endless-fun-for-2024/"><u>[Updated] Laugh Out Loud Essential Comedy Channels for Endless Fun for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-android-apps-for-immersive-music-videos/"><u>2024 Approved Top 6 Android Apps for Immersive Music Videos</u></a></li>
+<li><a href="https://win-trending.techidaily.com/2024vcdmp4/"><u>2024年度最新テクニック：VCDからMP4への簡単な変換手順を解説</u></a></li>
+<li><a href="https://win-trending.techidaily.com/6zplusz6zplus44oo44kk44k66zmk5y675pya5paw44k944ov44oi44km44kn44kiioodioodgplusodlplusplus8leaoqoiwpiatios9vplusobhowniplusocgeociplusobruobqplusajiplusavsoa21/"><u>音響ノイズ除去最新ソフトウェア トップ５推薦 - 使い始めるのに手数料不要</u></a></li>
+<li><a href="https://win-trending.techidaily.com/a-step-by-step-guide-to-downloading-content-from-kissasian/"><u>A Step-by-Step Guide to Downloading Content From KissAsian</u></a></li>
+<li><a href="https://win-trending.techidaily.com/accessing-facebook-live-broadcasts-without-creating-a-profile-simple-steps/"><u>Accessing Facebook Live Broadcasts Without Creating a Profile: Simple Steps!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/choosing-between-avchd-and-mp4-a-comprehensive-guide-on-selecting-your-ideal-video-format/"><u>Choosing Between AVCHD and MP4: A Comprehensive Guide on Selecting Your Ideal Video Format</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-gigabyte-wb867d-i-graphics-cards-latest-drivers-here/"><u>Get Your Gigabyte WB867D-I Graphics Card's Latest Drivers Here</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-closing-your-vlog-right-top-6-free-youtube-outro-tools/"><u>In 2024, Closing Your Vlog Right Top 6 Free YouTube Outro Tools!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-the-samsung-galaxy-a71-5g-a-smart-pick-comparing-it-to-pricier-leading-phone-brands-in-our-in-depth-review/"><u>Is the Samsung Galaxy A71 5G a Smart Pick? Comparing It to Pricier Leading Phone Brands in Our In-Depth Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-2024-led-lighting-innovations/"><u>Top 2024 LED Lighting Innovations</u></a></li>
+<li><a href="https://win-trending.techidaily.com/44ko44kz44oh44kz44oe44o844or5l244ge5pa544ks44kk44oj77ya5asj5oplusb44gn44gn44gq44ge44k344ok44oq44kq44gr44gk44gr44kl5luj5pu5oim55wl44ks5a2m44g2/"><u>エコデコツール使い方ガイド：変換できないシナリオにおける代替戦略を学ぶ</u></a></li>
+<li><a href="https://win-trending.techidaily.com/44k544og44or44k555qe44gr44ov44kh44oz44k544oi44oq44o844og44gu5pig5yop44ks6kiy6yyy44gz44kl5pya5zae44gu5pa55rov/"><u>ステルス的にファンストリームの映像を記録する最善の方法</u></a></li>
 </ul></div>
 

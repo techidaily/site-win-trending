@@ -1,7 +1,7 @@
 ---
 title: "Tech Giants Slow Down Recruitment: Should You Be Concerned? Insights From ZDNet"
-date: 2024-09-23T21:35:05.218Z
-updated: 2024-09-25T18:48:25.138Z
+date: 2024-09-28T16:22:46.412Z
+updated: 2024-09-30T01:50:18.797Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-transitioning-gaming-sessions-xbox-live-to-fb-live-for-2024/"><u>[New] Transitioning Gaming Sessions Xbox Live to FB Live for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unbeatable-ps1-emulators-for-high-quality-gaming/"><u>[Updated] In 2024, Unbeatable PS1 Emulators for High-Quality Gaming</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-easy-guide-to-using-abc-iview-downloader-save-your-favorite-videos/"><u>1. Easy Guide to Using ABC iView Downloader: Save Your Favorite Videos</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-15-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 15 Pro</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comprehensive-collection-premium-hd-and-funny-vids-on-animals-and-more-download-now-for-endless-entertainment/"><u>Comprehensive Collection: Premium HD & Funny Vids on Animals & More – Download Now for Endless Entertainment!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprehensive-troubleshooting-steps-rectifying-the-itunes-mystery-error-13014/"><u>Comprehensive Troubleshooting Steps: Rectifying the iTunes Mystery Error 13014</u></a></li>
-<li><a href="https://win-trending.techidaily.com/convert-and-transfer-your-vidme-videos-into-high-quality-mp4-or-avi-format-for-windows-and-macos-systems/"><u>Convert and Transfer Your VidMe Videos Into High-Quality MP4 or AVI Format for Windows & macOS Systems</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-and-convert-videos-in-4k-quality-top-tools-for-mac-users/"><u>Download and Convert Videos in 4K Quality: Top Tools for Mac Users</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-and-convert-your-favorite-movies-on-wickedfun-with-one-click-to-mp4-mov-or-avi/"><u>Download and Convert Your Favorite Movies on Wickedfun with One Click to MP4, MOV or AVI!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-hilarity-get-your-favorite-comedy-from-funny-or-die-in-high-quality-mp4-format/"><u>Download Hilarity: Get Your Favorite Comedy From Funny Or Die in High-Quality MP4 Format!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-kissasian-originals-watch-exclusive-content-on-kissasiancom/"><u>Download Kissasian Originals - Watch Exclusive Content on kissasian.com</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-communication-problems-discover-10-tips/"><u>How To Resolve iPhone Communication Problems – Discover 10 Tips</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 6s?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-way-to-add-a-hyperlink-to-enhance-your-tiktok-profile/"><u>In 2024, Masterful Way to Add a Hyperlink to Enhance Your TikTok Profile</u></a></li>
-<li><a href="https://solve-news.techidaily.com/ultimate-tricks-to-reduce-size-of-mp4-videos-without-losing-quality/"><u>Ultimate Tricks to Reduce Size of MP4 Videos Without Losing Quality</u></a></li>
-<li><a href="https://win-trending.techidaily.com/understanding-four-output-modes-for-your-projects-html-zip-file-executable-and-burn-to-disk-with-flipbuilder/"><u>Understanding Four Output Modes for Your Projects: HTML, ZIP File, Executable, and Burn to Disk with FlipBuilder</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-revolutionize-your-visuals-8-best-photo-animation-tools/"><u>Updated In 2024, Revolutionize Your Visuals 8 Best Photo Animation Tools</u></a></li>
-<li><a href="https://win-trending.techidaily.com/upgrade-to-digital-magazines-from-pdfs-including-photo-galleries-and-video-content-features-flipbuildercom/"><u>Upgrade to Digital Magazines From PDFs, Including Photo Galleries & Video Content Features [FlipBuilder.com]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-audiovisual-synergy-infusing-music-into-vimeo-creations/"><u>[New] Audiovisual Synergy Infusing Music Into Vimeo Creations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-easy-methods-for-saving-online-meetings/"><u>[New] In 2024, Easy Methods for Saving Online Meetings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-seamless-transition-turning-srt-into-sub/"><u>2024 Approved Seamless Transition Turning SRT Into SUB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-the-potential-of-wide-angle-360-photos/"><u>2024 Approved Unlocking the Potential of Wide Angle 360 Photos</u></a></li>
+<li><a href="https://win-trending.techidaily.com/are-high-demand-and-limited-availability-making-windows-11-overly-sought-after-a-deep-dive-into-market-trends-zdnet/"><u>Are High Demand and Limited Availability Making Windows 11 Overly Sought-After?: A Deep Dive Into Market Trends - ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/continue-receiving-free-windows-10-updates-no-extra-charge/"><u>Continue Receiving Free Windows 10 Updates – No Extra Charge</u></a></li>
+<li><a href="https://win-trending.techidaily.com/elevate-your-experience-transitioning-from-windows-home-to-professional-benefits-and-steps/"><u>Elevate Your Experience: Transitioning From Windows Home to Professional – Benefits & Steps</u></a></li>
+<li><a href="https://win-trending.techidaily.com/flexispot-theodore-standing-desk-offer-secure-90-savings-now-discover-more-at-zdnet/"><u>FlexiSpot Theodore Standing Desk Offer: Secure $90 Savings Now - Discover More at ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/futureproofing-your-workspace-expert-picks-for-the-ultimate-office-chairs-of-202n-insights-from-zdnet/"><u>Futureproofing Your Workspace: Expert Picks for the Ultimate Office Chairs of 202N | Insights From ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-determine-the-gpu-in-your-system-and-update-its-software-expert-advice-from-zdnet/"><u>How to Determine the GPU in Your System & Update Its Software - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-eyedome-xtreme-ultimate-os-video-snapper/"><u>In 2024, EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-youtube-sound-playback-variations/"><u>In 2024, Master YouTube Sound Playback Variations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-navigating-through-vlc-features-settings-and-troubleshooting-mac/"><u>In 2024, Navigating Through VLC Features, Settings & Troubleshooting (Mac)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-usb-to-hdmi-cable-drivers-download-now/"><u>Latest USB-to-HDMI Cable Drivers - Download Now!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/microsoft-elevates-windows-copilot-to-standalone-application-for-enhanced-user-experience-technews/"><u>Microsoft Elevates Windows Copilot to Standalone Application for Enhanced User Experience | TechNews</u></a></li>
+<li><a href="https://win-trending.techidaily.com/microsoft-surface-duo-2-early-impressions-a-weekly-scoop-of-curiosity-and-puzzles-by-techreview/"><u>Microsoft Surface Duo 2 Early Impressions: A Weekly Scoop of Curiosity & Puzzles by TechReview</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/navigating-snapchat-a-commerce-strategy-for-2024/"><u>Navigating Snapchat A Commerce Strategy for 2024</u></a></li>
 </ul></div>
 

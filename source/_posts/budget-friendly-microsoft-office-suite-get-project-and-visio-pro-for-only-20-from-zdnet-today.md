@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Microsoft Office Suite: Get Project and Visio Pro for Only $20 From ZDNet Today!"
-date: 2024-09-23T21:12:05.817Z
-updated: 2024-09-26T00:04:02.112Z
+date: 2024-09-25T02:20:14.074Z
+updated: 2024-09-30T13:16:17.809Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +75,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fv-downloader-for-social-networking-videos/"><u>[Updated] 2024 Approved FV-Downloader for Social Networking Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>[Updated] 2024 Approved Smart Selections Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-mov-editing-and-recording-tutorial-for-windows-11-users/"><u>[Updated] Efficient MOV Editing and Recording Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-the-craft-of-igtv-video-production-with-phones-and-dslrs/"><u>2024 Approved Mastering the Craft of IGTV Video Production with Phones and DSLRs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-11-proplus-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme 11 Pro+ Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/easy-methods-for-transforming-your-dvd-content-into-compatible-quicktime-format-videos/"><u>Easy Methods for Transforming Your DVD Content Into Compatible QuickTime Format Videos</u></a></li>
-<li><a href="https://win-trending.techidaily.com/easy-steps-for-converting-to-h265-format-with-the-handbrake-application/"><u>Easy Steps for Converting to H.265 Format with the HandBrake Application</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effortless-conversion-techniques-switch-from-mkv-to-xvid-video-codec-in-windows/"><u>Effortless Conversion Techniques: Switch From MKV to Xvid Video Codec in Windows</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effortless-mpg-video-viewing-tips-for-windows-11-users-a-comprehensive-walkthrough/"><u>Effortless MPG Video Viewing Tips for Windows 11 Users – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-trending.techidaily.com/experience-the-power-of-flash-on-your-iphone-4-update-allowed/"><u>Experience the Power of Flash on Your iPhone 4 - Update Allowed!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/fixing-handbrake-library-issue-with-libdvdcss-step-by-step-guide/"><u>Fixing HandBrake Library Issue with Libdvdcss - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-trending.techidaily.com/free-conversion-techniques-from-swf-to-wmv-video-formats-a-quick-guide/"><u>Free Conversion Techniques From SWF to WMV Video Formats - A Quick Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-strategies-for-youtube-musicians-make-the-perfect-reaction-video/"><u>In 2024, Top 10 Strategies for YouTube Musicians Make the Perfect Reaction Video</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-directories-a-breeze-with-win11-essentials/"><u>Making Directories a Breeze with Win11 Essentials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-computing-tips-from-tom-decoding-hardware-specs/"><u>Precision Computing Tips From Tom: Decoding Hardware Specs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovating-imagery-topiary-techniques-for-stellar-iphone-photos/"><u>[New] Innovating Imagery Topiary Techniques for Stellar iPhone Photos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-selecting-the-perfect-drone-stabilizer-a-guide/"><u>[Updated] In 2024, Selecting the Perfect Drone Stabilizer A Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-v30t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme V30T Activity | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/2021-ultimate-shopping-manual-navigating-black-friday-and-cyber-monday-deals-on-zdnet/"><u>2021 Ultimate Shopping Manual: Navigating Black Friday & Cyber Monday Deals on ZDNet</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-visual-dictionary-understanding-online-social-symbolism/"><u>A Visual Dictionary: Understanding Online Social Symbolism</u></a></li>
+<li><a href="https://win-trending.techidaily.com/create-excel-drop-down-menus-in-no-time-your-effortless-guide-to-mastery-powered-by-zdnets-expert-techniques/"><u>Create Excel Drop-Down Menus in No Time - Your Effortless Guide to Mastery! Powered by ZDNet's Expert Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977947264-easy-access-to-hp-spectre-x360-window-compatible-driver-downloads-get-yours-today/"><u>Easy Access to HP Spectre X360 Window-Compatible Driver Downloads – Get Yours Today!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/enhancing-your-gaming-videos-capturing-and-incorporating-webcam-feeds-with-action-tech-tools/"><u>Enhancing Your Gaming Videos: Capturing and Incorporating Webcam Feeds with Action Tech Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722979105503-founders-profiles-and-philosophies-driving-company-growth/"><u>Founders' Profiles and Philosophies Driving Company Growth.</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-transferring-dumpert-videos-onto-your-device-as-mp4-files-for-both-macos-and-windows-users/"><u>Guide: Transferring Dumpert Videos Onto Your Device as MP4 Files - For Both macOS & Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/mac-and-windows-companion-the-top-video-downloading-apps-substitute-for-dvdvideosoft-on-youtube/"><u>Mac & Windows Companion: The Top Video Downloading Apps Substitute for DVDVideoSoft on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/navigate-the-art-of-snapchat-filters-for-beginners-for-2024/"><u>Navigate the Art of Snapchat Filters for Beginners for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/optimizing-video-capture-with-nvidias-hardware-encoding-h265hevc-screen-recordings/"><u>Optimizing Video Capture with Nvidia's Hardware Encoding: H.265/HEVC Screen Recordings</u></a></li>
+<li><a href="https://win-trending.techidaily.com/personalized-webcam-border-designs-and-dimming-effects/"><u>Personalized Webcam Border Designs & Dimming Effects</u></a></li>
+<li><a href="https://win-trending.techidaily.com/top-trending-browsers-unveiling-the-market-leader/"><u>Top Trending Browsers: Unveiling the Market Leader</u></a></li>
 </ul></div>
 

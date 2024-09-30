@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Video Capture with Nvidia's Hardware Encoding: H.265/HEVC Screen Recordings"
-date: 2024-09-24T20:53:59.566Z
-updated: 2024-09-25T19:07:31.292Z
+date: 2024-09-25T02:32:24.788Z
+updated: 2024-09-30T03:42:22.048Z
 tags:
   - product
 categories:
@@ -47,10 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## H.265/HEVC screen recording with NVIDIA NVENC acceleration
@@ -58,6 +58,13 @@ Action Tutorials
  From **Action! 1.31.0** it is possible to record screen with **H.265/HEVC** using NVIDIA NVENC hardware acceleration. Using **H.265/HEVC** with NVIDIA NVENC hardware acceleration allows to make high quality, low bitrate, smooth screen recordings, producing **smaller screen recording files** compared to H.264/AVC.
 
  Please check the list below to see if your computer meets all requirements to use NVIDIA NVENC hardware accelerated H.265/HEVC video encoding.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Requirements for NVIDIA NVENC H.265/HEVC recording acceleration 
 
@@ -69,10 +76,10 @@ Action Tutorials
 * NVIDIA GPU drover R358 or above
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting NVIDIA NVENC H.265/HEVC for screen recording
@@ -82,17 +89,10 @@ Action Tutorials
 ![NVIDIA NVENC H.265/HEVC recording acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration_h265_hevc_recording.jpg "NVIDIA NVENC H.265/HEVC recording acceleration") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  H.265/HEVC screen recordings playback
@@ -115,24 +115,19 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-optimizing-video-clarity-with-youtube-tools/"><u>[New] 2024 Approved Optimizing Video Clarity with YouTube Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-protect-your-privacy-top-webcam-shields-ranked/"><u>[Updated] 2024 Approved Protect Your Privacy - Top Webcam Shields Ranked</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-television-take-pot-perspectives/"><u>2024 Approved INTERACTIVE TELEVISION TAKE Pot Perspectives</u></a></li>
-<li><a href="https://win-trending.techidaily.com/bulk-transfer-of-howcast-content-as-mp4-files-step-by-step-tutorial/"><u>Bulk Transfer of Howcast Content as MP4 Files - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-gaming-pace-proven-methods-to-tackle-frame-drops-and-lag-issues-in-valheim-new-insights/"><u>Enhance Gaming Pace: Proven Methods to Tackle Frame Drops and Lag Issues in Valheim (New Insights)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-15-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-narzo-n53-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme Narzo N53 Data? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone XS Max</u></a></li>
-<li><a href="https://extra-information.techidaily.com/join-anytime-easy-zoom-integration-with-android-devices/"><u>Join Anytime Easy Zoom Integration with Android Devices</u></a></li>
-<li><a href="https://win-trending.techidaily.com/overcoming-common-issues-with-flixster-downloads-expert-tips-for-fixing-download-problems-and-pending-errors/"><u>Overcoming Common Issues with Flixster Downloads - Expert Tips for Fixing Download Problems and Pending Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-vivo-y36-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Vivo Y36 has been deleted</u></a></li>
-<li><a href="https://win-trending.techidaily.com/save-and-convert-adult-content-from-yourlust-download-in-high-quality-formats-mp4-mov-avi/"><u>Save and Convert Adult Content From YourLust: Download in High-Quality Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/simple-tips-for-capturing-google-voice-conversations/"><u>Simple Tips for Capturing Google Voice Conversations</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-downloading-videos-from-roxwell-the-ultimate-tutorial/"><u>Step-by-Step Guide: Downloading Videos From Roxwell - The Ultimate Tutorial</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-tutorial-for-transforming-voc-recordings-into-common-digital-audio-files-such-as-mp3-aac-m4a-on-windowsmac-systems/"><u>Step-by-Step Tutorial for Transforming VOC Recordings Into Common Digital Audio Files Such as MP3, AAC, M4A on Windows/Mac Systems</u></a></li>
-<li><a href="https://win-trending.techidaily.com/top-5-alternatives-to-coursera-for-premium-online-education-platforms/"><u>Top 5 Alternatives to Coursera for Premium Online Education Platforms</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ultimate-guide-transferring-vimeo-videos-onto-your-ios-device-ipad-iphone-and-ipod/"><u>Ultimate Guide: Transferring Vimeo Videos Onto Your iOS Device (iPad, iPhone & iPod)</u></a></li>
-<li><a href="https://win-trending.techidaily.com/unleash-media-bliss-with-maniatv-quick-fix-for-your-tv-series-and-music-cravings/"><u>Unleash Media Bliss with ManiaTV: Quick-Fix for Your TV Series and Music Cravings!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ways-to-download-youtube-videos-as-wav-files-on-macos-and-windows-systems/"><u>Ways to Download YouTube Videos as WAV Files on macOS and Windows Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-a-course-for-youtube-success-viewer-numbers-and-income/"><u>[New] In 2024, Charting a Course for YouTube Success Viewer Numbers and Income</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-discover-the-hits-top-tracks-on-spotify/"><u>[Updated] Discover the Hits Top Tracks on Spotify</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-next-gen-videostreaming-hubs-triumph-beyond-youtube-for-2024/"><u>[Updated] Next-Gen Videostreaming Hubs Triumph Beyond Youtube for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1726030275068-youtube/"><u>【忙しい日常でも】YouTubeの音楽を自由にスマホに保存する方法</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-speedy-and-high-quality-conversion-transforming-your-dvds-into-crystal-clear-images-on-ipad-air/"><u>1. Speedy and High-Quality Conversion: Transforming Your DVDs Into Crystal Clear Images on iPad Air</u></a></li>
+<li><a href="https://win-trending.techidaily.com/2024mkv-dlna-hdhd-audio-dvd/"><u>2024年に使いやすい最善の無料MKV DLNAプレイヤー - HD/HD Audio DVD変換ソフトウェア</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-lava-blaze-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Lava Blaze Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-crafting-your-podcasts-rss-feed/"><u>In 2024, The Fundamentals Crafting Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/jump-into-action-on-tiktok-live-easy-methods-revealed/"><u>Jump Into Action on TikTok Live Easy Methods Revealed</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1726030188232-mp4dvd/"><u>MP4形式へのレンタルDVD変換専用無料アプリをご紹介</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1726028542644-premiere-promov/"><u>Premiere ProにてMOVファイルを読み込む際のトラブルシューティング</u></a></li>
+<li><a href="https://win-dash.techidaily.com/qualcomm-atheros-ar938x-drivers-quick-and-easy-free-downloads-available-now/"><u>Qualcomm Atheros AR938X Drivers: Quick & Easy [FREE] Downloads Available Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/value-meets-quality-in-our-testing-of-the-philips-hf3520-alarm-clock-range/"><u>Value Meets Quality in Our Testing of the Philips HF3520 Alarm Clock Range</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/where-is-thanksgiving-celebrated-globally/"><u>Where Is Thanksgiving Celebrated Globally?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Nailing an Engineering Position at Microsoft, According to ZDNet Experts
-date: 2024-09-19T00:59:26.221Z
-updated: 2024-09-25T23:11:54.898Z
+date: 2024-09-24T23:36:43.694Z
+updated: 2024-09-30T09:14:30.731Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +143,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -145,13 +158,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-trending.techidaily.com/1726030275068-youtube/"><u>【忙しい日常でも】YouTubeの音楽を自由にスマホに保存する方法</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-speedy-and-high-quality-conversion-transforming-your-dvds-into-crystal-clear-images-on-ipad-air/"><u>1. Speedy and High-Quality Conversion: Transforming Your DVDs Into Crystal Clear Images on iPad Air</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-the-art-of-obtaining-markless-photos/"><u>2024 Approved Mastering the Art of Obtaining Markless Photos</u></a></li>
-<li><a href="https://win-trending.techidaily.com/2024mkv-dlna-hdhd-audio-dvd/"><u>2024年に使いやすい最善の無料MKV DLNAプレイヤー - HD/HD Audio DVD変換ソフトウェア</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-free-video-calls-featuring-screen-sharing-roundup/"><u>Best Free Video Calls Featuring Screen Sharing Roundup</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/essential-tips-for-effective-fb-live-split-screens-for-2024/"><u>Essential Tips for Effective FB Live Split Screens for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/geometric-future-eskimo-junior-model-assessment-exceptional-aesthetics-and-silent-operation-yet-unremarkable-effectiveness/"><u>Geometric Future Eskimo Junior Model Assessment: Exceptional Aesthetics & Silent Operation, Yet Unremarkable Effectiveness</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/hiberfilsys-windows-10-and-how-to-delete-it-solved/"><u>hiberfil.sys Windows 10 & How to Delete It? [Solved]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-f14-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy F14 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-7-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 7 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1726030188232-mp4dvd/"><u>MP4形式へのレンタルDVD変換専用無料アプリをご紹介</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-galaxy-f15-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Galaxy F15 5G</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1726028542644-premiere-promov/"><u>Premiere ProにてMOVファイルを読み込む際のトラブルシューティング</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-installation-problems-of-minecraft-on-windows-11-computers/"><u>Troubleshooting Guide: Installation Problems of Minecraft on Windows 11 Computers</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ultimate-guide-to-the-best-computers-of-2er-2024-a-comprehensive-review-by-zdnet-featuring-apple-dell-et-al/"><u>Ultimate Guide to the Best Computers of 2Er 2024: A Comprehensive Review by ZDNET Featuring Apple, Dell, Et Al</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-11-update-hurdle-error-0x800f0922-fixes/"><u>Ultimate Guide: Resolving the Windows 11 Update Hurdle – Error 0X800f0922 Fixes</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ultra-thin-acer-swift-edge-unveiled-the-new-pinnacle-of-portable-4k-oled-laptops/"><u>Ultra-Thin Acer Swift Edge Unveiled: The New Pinnacle of Portable 4K OLED Laptops</u></a></li>
-<li><a href="https://win-trending.techidaily.com/understanding-the-role-of-trusted-platform-module-in-windows-11-insights-and-explanation/"><u>Understanding the Role of Trusted Platform Module in Windows 11: Insights & Explanation</u></a></li>
-<li><a href="https://win-trending.techidaily.com/unlock-enhanced-features-in-windows-11-simplified-android-integration-and-rapid-speech-to-text-with-latest-updates-techwise-insights/"><u>Unlock Enhanced Features in Windows 11: Simplified Android Integration & Rapid Speech-to-Text with Latest Updates | TechWise Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-keeping-the-chuckles-stealing-twitters-gif-content/"><u>[New] 2024 Approved Keeping the Chuckles Stealing Twitter's GIF Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-techniques-improve-your-hp-laptop-screen-recordings/"><u>[Updated] In 2024, Innovative Techniques Improve Your HP Laptop Screen Recordings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-launch-into-action-quick-tips-to-start-going-live-on-facebook-immediately-for-2024/"><u>[Updated] Launch Into Action Quick Tips to Start Going Live on Facebook Immediately for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-and-correcting-the-xinput13dll-not-located-error-tips-and-tricks/"><u>Addressing and Correcting the 'xinput1_3.dll Not Located' Error: Tips & Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/eliminating-blur-taming-shutter-vibration/"><u>Eliminating Blur Taming Shutter Vibration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/heartfelt-outro-samples-your-budget-our-designs-for-2024/"><u>Heartfelt Outro Samples Your Budget, Our Designs for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-download-and-convert-infoq-conference-presentations-as-mp4-or-avi-files-for-pcs-and-macs/"><u>How to Download and Convert InfoQ Conference Presentations as MP4 or AVI Files for PCs and Macs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-insights-ultimate-guide-to-understand-ig-data-for-2024/"><u>Instagram Insights Ultimate Guide to Understand IG Data for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/kelbys-instructional-materials-secure-your-educational-video-content-today/"><u>Kelby's Instructional Materials: Secure Your Educational Video Content Today!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/m1905-movie-converter-and-downloader-seamless-transformation-to-popular-video-codes/"><u>M1905 Movie Converter & Downloader: Seamless Transformation to Popular Video Codes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-vibrant-soundscapes-10-melodies-that-elevate-your-video-montages/"><u>New 2024 Approved Vibrant Soundscapes 10 Melodies That Elevate Your Video Montages</u></a></li>
+<li><a href="https://win-trending.techidaily.com/overcoming-common-issues-with-flixster-downloads-expert-tips-for-fixing-download-problems-and-pending-errors/"><u>Overcoming Common Issues with Flixster Downloads - Expert Tips for Fixing Download Problems and Pending Errors</u></a></li>
+<li><a href="https://win-trending.techidaily.com/save-and-convert-adult-content-from-yourlust-download-in-high-quality-formats-mp4-mov-avi/"><u>Save and Convert Adult Content From YourLust: Download in High-Quality Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-downloading-videos-from-roxwell-the-ultimate-tutorial/"><u>Step-by-Step Guide: Downloading Videos From Roxwell - The Ultimate Tutorial</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-tutorial-for-transforming-voc-recordings-into-common-digital-audio-files-such-as-mp3-aac-m4a-on-windowsmac-systems/"><u>Step-by-Step Tutorial for Transforming VOC Recordings Into Common Digital Audio Files Such as MP3, AAC, M4A on Windows/Mac Systems</u></a></li>
+<li><a href="https://win-trending.techidaily.com/top-5-alternatives-to-coursera-for-premium-online-education-platforms/"><u>Top 5 Alternatives to Coursera for Premium Online Education Platforms</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ultimate-guide-transferring-vimeo-videos-onto-your-ios-device-ipad-iphone-and-ipod/"><u>Ultimate Guide: Transferring Vimeo Videos Onto Your iOS Device (iPad, iPhone & iPod)</u></a></li>
 </ul></div>
 

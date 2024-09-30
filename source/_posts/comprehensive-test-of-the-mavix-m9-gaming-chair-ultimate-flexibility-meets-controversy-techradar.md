@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Test of the Mavix M9 Gaming Chair: Ultimate Flexibility Meets Controversy | TechRadar"
-date: 2024-09-19T22:33:01.314Z
-updated: 2024-09-25T17:33:04.622Z
+date: 2024-09-25T16:20:25.297Z
+updated: 2024-09-30T12:43:55.284Z
 tags:
   - office-furniture
 categories:
@@ -51,10 +51,10 @@ Let's take a deep dive into Mavix's take on a high-end gaming chair by examining
 | Assembly required     | Yes                                                                          |
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Design  
@@ -73,6 +73,13 @@ The seat, back, and headrest are designed to be equally well-suited to use at a 
 
 Optional add-ons like the Elemax heating/cooling/massage and FS 360 armrests combine with the default configuration and adjustments to provide a design that's one of the most customizable (both at the time of purchase and once you've got it set up) that I've ever used. This expansive set of variables can be both a blessing and, occasionally, a hindrance, as we'll discuss further on in our review. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Build quality
 
 The M9 uses a mesh-like material Mavix calls Advanced Tensile Recovery (A.T.R.) Fabric on the lumbar and its M-Breeze fabric everywhere else. The ATR fabric allows air to pass through, aiding the Elemax system's heating and cooling. The M-Breeze material offers less airflow, but still breathes better than the standard leatherette materials it resembles.   
@@ -90,10 +97,10 @@ The frame of the unit is a combination of metal (central gas lift cylinder, back
  Lastly, the M9's locking, in-line skate casters work well on everything from hard floors to dense carpeting, removing any need for the upgraded replacement casters I recommend for many other chairs. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Shipping and setup 
@@ -146,13 +153,6 @@ The add-on is a semi-soft pad that lives within the "Dynamic Variable Lumbar" su
 
 The confusion started when I noticed that the Elemax system included two elastic straps that covered the built-in fans providing the unit's heating and cooling airflow. These straps weren't present in the instructional videos or literature. I was left to take my best guess on their purpose. The straps seemed likely to interfere with the airflow of the fans. But, I soldiered on with the installation as close to the instructions as possible. Since the airflow ultimately seemed normal, I moved on, adding one more mystery to the list. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Adjustability 
 
 This doesn't even include the armrest adjustments...
@@ -178,6 +178,13 @@ Michael Gariffo/ZDNET
 I can't wrap up the Adjustability section without talking about one of the most adjustable accessories I've ever seen on a chair: the FS 360 armrests.   
   
  The standard 4D armrests feature the same four adjustments (mentioned above) found on most high-end gaming chairs. Meanwhile, the FS 360 arms replace them with something unlike any other armrests I've used.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -238,13 +245,6 @@ But the active posture and focused state I tend to be in when gaming or working 
 
 [Buy the Mavix M9 $999 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09MDWBB99%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d4e66d1-29f7-4809-92b1-63f89a63902a%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Bottom line 
 
 As I mentioned in the opening, there are numerous companies vying for the gaming chair space these days. Standouts like [Secret Lab](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSecretlab-Titan-Stealth-Gaming-Chair%2Fdp%2FB0B3RDWTDD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d4e66d1-29f7-4809-92b1-63f89a63902a%7Cdtp&dtb=1) have made a name for themselves with high-end racing seats. Meanwhile, others try to differentiate themselves by adding unusual, often intense, visual features like RGB lighting or themed colorways.
@@ -297,19 +297,22 @@ A chair from a company better known for its mice and keyboards, the Iskur is exc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-unleashing-full-potential-of-zoom-with-chromebook/"><u>[New] 2024 Approved Unleashing Full Potential of Zoom with Chromebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-high-end-displays-ranked-1-to-5-ps5/"><u>[New] High-End Displays Ranked #1 to #5 (PS5)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unwind-with-youtube-tricks-for-reducing-playback-velocity-49-chars-for-2024/"><u>[Updated] Unwind with YouTube Tricks for Reducing Playback Velocity (49 Chars) for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-starting-from-scratch-on-youtube-channel-creation-and-monetization-basics/"><u>2024 Approved Starting From Scratch on Youtube Channel Creation and Monetization Basics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-vivo-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Vivo</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/c-span-archive-download-legally-without-expense/"><u>C-Span Archive Download Legally Without Expense</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comprehensive-analysis-of-microsofts-to-do-app-does-it-streamline-productivity-or-clutter-your-workflow-pcmag/"><u>Comprehensive Analysis of Microsoft's To Do App: Does It Streamline Productivity or Clutter Your Workflow? | PCMag</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-the-latest-upgrades-to-microsoft-edge-could-secure-its-spot-amongst-favorite-browsers-on-linux-platforms-digitaledgereview/"><u>How the Latest Upgrades to Microsoft Edge Could Secure Its Spot Amongst Favorite Browsers on Linux Platforms | DigitalEdgeReview</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-oppo-a59-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Oppo A59 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-professional-videographers-choice-for-screen-recordings/"><u>In 2024, Professional Videographer's Choice for Screen Recordings</u></a></li>
-<li><a href="https://win-trending.techidaily.com/tech-giants-slow-down-recruitment-should-you-be-concerned-insights-from-zdnet/"><u>Tech Giants Slow Down Recruitment: Should You Be Concerned? Insights From ZDNet</u></a></li>
-<li><a href="https://win-trending.techidaily.com/tidy-up-with-ease-master-the-simple-email-strategy-that-banishes-mess-and-skips-extra-accounts-all-backed-by-zdnets-insights/"><u>Tidy Up with Ease: Master the Simple Email Strategy That Banishes Mess and Skips Extra Accounts - All Backed by ZDNet's Insights</u></a></li>
-<li><a href="https://win-trending.techidaily.com/unveiling-microsofts-future-roadmap-revolutionary-cloud-and-device-integration-with-enhanced-advertising-the-latest-insights-from-zdnet/"><u>Unveiling Microsoft's Future Roadmap: Revolutionary Cloud & Device Integration with Enhanced Advertising - The Latest Insights From ZDNet</u></a></li>
-<li><a href="https://win-trending.techidaily.com/will-you-pay-to-keep-your-pc-updated-microsoft-reveals-plans-for-charging-windows-10-updates-in-year-what-it-could-cost-you-zdnet-news/"><u>Will You Pay to Keep Your PC Updated? Microsoft Reveals Plans for Charging Windows 10 Updates in [Year], What It Could Cost You | ZDNET News</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-reigning-on-social-media-top-tips-to-elevate-your-business-for-2024/"><u>[Updated] Reigning on Social Media Top Tips to Elevate Your Business for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-streamlining-video-logging-on-periscope-platforms-for-2024/"><u>[Updated] Streamlining Video Logging on Periscope Platforms for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/create-and-revise-pdfs-instantly-discover-the-top-free-pdf-editor-tool-no-expense-necessary/"><u>Create & Revise PDFs Instantly: Discover the Top Free PDF Editor Tool - No Expense Necessary!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/cult-classic-reimaginings-top-20-anime-on-tiktok/"><u>Cult Classic Reimaginings Top 20 Anime on TikTok</u></a></li>
+<li><a href="https://win-trending.techidaily.com/customizing-page-layout-with-margin-settings-on-flipbuilder-for-enhanced-ebook-design/"><u>Customizing Page Layout with Margin Settings on FlipBuilder for Enhanced eBook Design</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-steps-to-build-engaging-flipbooks-featuring-your-companys-story-and-visual-identity/"><u>Easy Steps to Build Engaging FlipBooks Featuring Your Company's Story and Visual Identity</u></a></li>
+<li><a href="https://win-trending.techidaily.com/flipoffice-effortlessly-create-a-multi-functional-office-organizer-from-your-documents-at-flipbuildercom/"><u>FlipOffice: Effortlessly Create a Multi-Functional Office Organizer From Your Documents at FlipBuilder.com</u></a></li>
+<li><a href="https://win-trending.techidaily.com/get-your-documents-in-image-form-free-pdf-to-jpg-upconversion-flipbuildercom/"><u>Get Your Documents in Image Form: Free PDF to JPG Upconversion [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-does-flipbuilder-handle-device-upgrades-learn-more-on-their-platform/"><u>How Does FlipBuilder Handle Device Upgrades? Learn More on Their Platform</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-switch-your-flipbuilder-apps-interface-from-english-to-your-local-language/"><u>How to Switch Your FlipBuilder App's Interface From English to Your Local Language</u></a></li>
+<li><a href="https://win-trending.techidaily.com/integrating-flash-based-advertisements-into-your-ebook-with-flipbuilder/"><u>Integrating Flash-Based Advertisements Into Your eBook with FlipBuilder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-brother-mfc-j480dw-windows-printer-software-upgrade-guide/"><u>Latest Brother MFC-J480DW Windows Printer Software Upgrade Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/piston-power-the-most-informative-car-code-readers-in-motor-city-edition/"><u>Piston Power: The Most Informative Car Code Readers in Motor City Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/quick-windows-10-tutorial-for-simple-video-trimming-for-2024/"><u>Quick Windows 10 Tutorial for Simple Video Trimming for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-huawei-nova-y91-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Huawei Nova Y91 Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-getting-aol-mail-up-and-running-on-ios-devices/"><u>Troubleshooting Guide: Getting AOL Mail Up and Running on iOS Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-nba-2k24-code-727e66ac-a-step-by-step-tutorial/"><u>Ultimate Fix for NBA 2K24 Code 727E66ac - A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

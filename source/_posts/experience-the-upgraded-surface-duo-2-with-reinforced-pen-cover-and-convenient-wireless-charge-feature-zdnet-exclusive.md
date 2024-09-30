@@ -1,7 +1,7 @@
 ---
 title: Experience the Upgraded Surface Duo 2 with Reinforced Pen Cover and Convenient Wireless Charge Feature - ZDNET Exclusive
-date: 2024-09-19T00:20:24.229Z
-updated: 2024-09-25T19:16:10.613Z
+date: 2024-09-27T07:59:16.457Z
+updated: 2024-09-29T17:00:42.703Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-from-eyeballs-to-earnings-the-price-of-popular-videos/"><u>[New] 2024 Approved From Eyeballs to Earnings The Price of Popular Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-the-best-youtube-thumbnails-the-free-guide-for-2024/"><u>[Updated] How to Get the Best YouTube Thumbnails The Free Guide for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-jumpstart-your-youtube-channel-growth-with-key-editing-skills-from-sony-vegas/"><u>2024 Approved Jumpstart Your YouTube Channel Growth with Key Editing Skills From Sony Vegas</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/a-comprehensive-guide-to-thumbnail-production-for-2024/"><u>A Comprehensive Guide to Thumbnail Production for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/enhanced-ai-powered-music-creation-with-github-copilot-whats-new/"><u>Enhanced AI-Powered Music Creation with GitHub Copilot: What's New?</u></a></li>
-<li><a href="https://win-trending.techidaily.com/exploring-the-new-microsoft-surface-laptop-5-a-zdnet-review-of-expectations-vs-reality/"><u>Exploring the New Microsoft Surface Laptop 5 - A ZDnet Review of Expectations vs Reality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-paper-to-cloud-preserving-old-family-photographs/"><u>From Paper to Cloud Preserving Old Family Photographs</u></a></li>
-<li><a href="https://win-trending.techidaily.com/get-your-hands-on-the-freshly-released-surface-laptop-go-2-for-just-599-pre-order-now-exclusive-insights-and-specs-by-cnet/"><u>Get Your Hands on the Freshly Released Surface Laptop Go 2 for Just $599 - Pre-Order Now! Exclusive Insights and Specs by CNET</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-title-design-strategies-in-after-effects/"><u>In 2024, Advanced Title Design Strategies in After Effects</u></a></li>
-<li><a href="https://win-trending.techidaily.com/mastering-your-microsoft-365-plan-with-windows-11-expert-tips-and-strategies-according-to-zdnet/"><u>Mastering Your Microsoft 365 Plan with Windows 11: Expert Tips and Strategies According to ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-xiaomi-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Xiaomi has been deleted.</u></a></li>
-<li><a href="https://extra-support.techidaily.com/screen-protectors-that-enhance-vr-filming-for-2024/"><u>Screen Protectors That Enhance VR Filming for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/sending-and-receiving-imessages-from-your-pc-a-comprehensive-guide-wired/"><u>Sending & Receiving iMessages From Your PC: A Comprehensive Guide | Wired</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-best-ai-powered-video-improvement-tools-top-6-picks-for-professionals/"><u>The Best AI-Powered Video Improvement Tools: Top 6 Picks for Professionals</u></a></li>
-<li><a href="https://win-trending.techidaily.com/top-affordable-laptops-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Affordable Laptops - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://win-trending.techidaily.com/upcoming-change-alert-will-you-pay-for-windows-11-patches-in-the-future-details-inside-zdnet/"><u>Upcoming Change Alert: Will You Pay for Windows 11 Patches in the Future? Details Inside | ZDNET</u></a></li>
-<li><a href="https://win-trending.techidaily.com/upcoming-cost-of-keeping-your-pc-updated-with-windows-10-explore-the-price-changes-from-microsoft-set-in-motion-next-year/"><u>Upcoming Cost of Keeping Your PC Updated with Windows 10: Explore the Price Changes From Microsoft Set in Motion Next Year</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-s23-fe-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy S23 FE Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/windows-10-updates-no-longer-free-find-out-what-microsofts-latest-changes-mean/"><u>Windows 10 Updates No Longer Free? Find Out What Microsoft's Latest Changes Mean</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-youtubes-frame-advantage-five-free-tools/"><u>[New] In 2024, Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unveiling-the-power-of-video-conferencing-on-android/"><u>[New] Unveiling the Power of Video Conferencing on Android</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-bridging-creativity-and-engagement-anime-subscribe-buttons-with-filmora-for-2024/"><u>[Updated] Bridging Creativity & Engagement - Anime Subscribe Buttons with Filmora for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-intel-irisplus-gpu-driver-version-for-your-windows-growers-guide-understanding-and-applying-soil-amendments-for-improved-plant-health/"><u>Compatible Intel® Iris+ GPU Driver Version for Your Windows Grower's Guide: Understanding and Applying Soil Amendments for Improved Plant Health</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-the-phenomenon-of-ai-hallucinations-techniques-to-discern-and-detect-faulty-output/"><u>Examining the Phenomenon of AI Hallucinations: Techniques to Discern and Detect Faulty Output</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-phone-without-google-account-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro+ Phone without Google Account?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/installing-the-rising-tides-plugin-on-kodi-1918-a-comprehensive-walkthrough-for-iptv-streaming-enthusiasts/"><u>Installing the Rising Tides Plugin on Kodi 19/18 - A Comprehensive Walkthrough for IPTV Streaming Enthusiasts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012752847-minecraft-launch-failures-heres-how-you-can-fix-them-easily/"><u>Minecraft Launch Failures? Here's How You Can Fix Them Easily!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/mp3-windows-media-player/"><u>MP3へと変換! Windows Media Player 楽曲の正しいコツ</u></a></li>
+<li><a href="https://facebook.techidaily.com/oculus-go-receives-a-boost-from-facebook-with-root-access-unlocked/"><u>Oculus Go Receives a Boost From Facebook with Root Access Unlocked</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-adding-permanent-subtitles-using-vlc-media-player/"><u>Step-by-Step Guide: Adding Permanent Subtitles Using VLC Media Player</u></a></li>
+<li><a href="https://win-trending.techidaily.com/successfully-watching-dvds-on-your-macbook-pro-a-step-by-step-guide/"><u>Successfully Watching DVDs on Your MacBook Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-trending.techidaily.com/transform-any-voice-memo-into-a-personalized-ringtone-using-our-top-quality-sound-software/"><u>Transform Any Voice Memo Into a Personalized Ringtone Using Our Top-Quality Sound Software</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-generic-import-errors-in-your-premier-editing-projects/"><u>Troubleshooting 'Generic Import Errors' In Your Premier Editing Projects</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-your-avi-files-in-lightroom-how-to-restore-missing-sound-and-visuals/"><u>Troubleshooting Your AVI Files in Lightroom: How to Restore Missing Sound and Visuals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 11X 5G | Dr.fone</u></a></li>
 </ul></div>
 

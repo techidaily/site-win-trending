@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Generic Import Errors' In Your Premier Editing Projects
-date: 2024-09-20T22:46:04.056Z
-updated: 2024-09-25T19:09:01.608Z
+date: 2024-09-28T00:48:46.321Z
+updated: 2024-09-29T23:27:53.011Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd695166e4fbcce6c8036521a9edd3.jpg
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
 * [Part 3\. How to Record BIGO Live Without Black Screen on iOS Devices](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [FAQs about BIGO Live Screen Recording](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record BIGO Live Without Black Screen on PC
 
 To capture BIGO Live streams on a PC, there is one application you cannot miss – [**WonderFox HD Video Converter Factory Pro**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/). It is a powerful video processing tool that builds in with an HD screen recorders. With it, you can [capture livestream videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), video calls, online meetings, gameplay, and more in high quality, even up to 4K without any lag. Also, there is no time limit on the recording content as long as you have enough space to store the recorded files. Moreover, it also offers some video editing tools that enable you to trim, crop, merge, [compress the recorded videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), and more.
@@ -32,6 +39,13 @@ To capture BIGO Live streams on a PC, there is one application you cannot miss �
 
 _**Must Read**: The following guide on screen recording BIGO Live is for personal fair use only. WonderFox does not approve of copyright infringement in any way. Do not record any live streams for commercial purposes._
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Start the Recording with HD Video Converter Factory Pro
 
 _\* Before starting recording, please locate the live streaming content you want to record._
@@ -41,10 +55,10 @@ _\* Before starting recording, please locate the live streaming content you want
 ![Open Screen Recorder](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-1.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2.** Now choose a recording mode from **Custom**, **Full-screen**, **Game recording**, or **Audio-only recording**. Then drag the four border lines to adjust the recording region if you choose the "**Custom**" mode. Click “**OK**” to confirm the recording area.
@@ -59,21 +73,7 @@ _\* Before starting recording, please locate the live streaming content you want
 
 ![Start Recording on BIGO](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-4.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to trim or [merge the recorded video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), just close the **Screen Recorder** and enter the “**Converter**” module. Add the source files and start editing.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Than Just Capture BIGO LIVE
 
@@ -87,19 +87,19 @@ If you want to trim or [merge the recorded video](https://tools.techidaily.com/v
 
 [Free Download Compatible with Windows 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record BIGO Live Without Black Screen on Android
 
   
 When it comes to recording BIGO Live on Android devices, AZ Screen Recorder is a handy tool. It is a lightweight screen recorder that won't take up much storage space on your device. With it, you can easily capture BIGO Live as well as other content on your Android devices in a few easy clicks. It also offers a video editor that allows you to edit the recorded file after finishing recording.
 
 Simple, no watermark, and no time limit! It can be the best screen recorder for Andriod.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Capture BIGO Live Stream on Android?
 
@@ -112,6 +112,13 @@ Step 3\. Press the stop button from the floating recording panel to save the rec
 Then, you can find the recorded video in the AZ screen recording's "**Video**" tab and watch it anytime.
 
 ![Record Bigo on Android](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-6.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Record BIGO Live Without Black Screen on iOS Devices
 
@@ -132,13 +139,6 @@ Then, you can find the recorded video in the Photos app.
 
 Tips: If you cannot find the “**Screen Recording**” feature in the “**Control Center**”, enter the “**Settings**” window, go to “**Control Center**” > “**Customize Controls**”, and scroll down to tap “**Screen Recording**” > “**+**” to add the recording feature to the Control Center.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Wrap-up
 
 That’s all about how to screen record BIGO Live without black screen. With the help of the handy screen recorders, you can capture desired live videos from BIGO Live and other platforms without issue. Hope you can record BIGO without any issue now!
@@ -146,10 +146,10 @@ That’s all about how to screen record BIGO Live without black screen. With the
 Thanks for your reading. Have a nice day!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs about BIGO Screen Recording
@@ -161,13 +161,6 @@ Most of the time, this is because your device does not have enough capacity or y
 ### 2\. Is it illegal to screen record protected videos?
 
 It all depends. Screen capturing protected videos for personal use typically falls into a legal gray area. But if you distribute or use such recordings for commercial purposes, then it is prohibited and breaches copyright rules.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Does BIGO allow screen recording?
 
@@ -189,6 +182,13 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -204,14 +204,18 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-live-stream-showdown-pick-your-favorite-vmix-or-wirecast/"><u>[Updated] 2024 Approved Live Stream Showdown Pick Your Favorite, VMix or Wirecast</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-sparks-endgame-dji-mavic-air-challenges-its-successor/"><u>[Updated] Spark's Endgame DJI Mavic Air Challenges Its Successor</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-seamless-extraction-top-8-fb-movies/"><u>2024 Approved Seamless Extraction Top 8 FB Movies</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comprehensive-collection-premium-hd-and-funny-vids-on-animals-and-more-download-now-for-endless-entertainment/"><u>Comprehensive Collection: Premium HD & Funny Vids on Animals & More – Download Now for Endless Entertainment!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/convert-and-transfer-your-vidme-videos-into-high-quality-mp4-or-avi-format-for-windows-and-macos-systems/"><u>Convert and Transfer Your VidMe Videos Into High-Quality MP4 or AVI Format for Windows & macOS Systems</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-and-convert-videos-in-4k-quality-top-tools-for-mac-users/"><u>Download and Convert Videos in 4K Quality: Top Tools for Mac Users</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-and-convert-your-favorite-movies-on-wickedfun-with-one-click-to-mp4-mov-or-avi/"><u>Download and Convert Your Favorite Movies on Wickedfun with One Click to MP4, MOV or AVI!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mastering-alias-update-on-google-meet-devices/"><u>Mastering Alias Update on Google Meet Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-tech-hiccups-comprehensive-guide-on-the-driver-failure-user-settings-error-fix/"><u>Resolving Tech Hiccups: Comprehensive Guide on the 'Driver Failure - User Settings Error' Fix</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-efficient-flow-of-content-tiktok-to-your-fb-profile/"><u>[New] 2024 Approved The Efficient Flow of Content TikTok to Your FB Profile</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtube-optimization-for-new-vloggers/"><u>[New] 2024 Approved YouTube Optimization for New Vloggers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-master-your-images-top-15-instagram-downloader-apps-for-2024/"><u>[Updated] Master Your Images Top 15 Instagram Downloader Apps for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-quality-cameras-on-a-shoestring-budget-for-2024/"><u>[Updated] Quality Cameras on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/are-high-demand-and-limited-availability-making-windows-11-overly-sought-after-a-deep-dive-into-market-trends-zdnet/"><u>Are High Demand and Limited Availability Making Windows 11 Overly Sought-After?: A Deep Dive Into Market Trends - ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/continue-receiving-free-windows-10-updates-no-extra-charge/"><u>Continue Receiving Free Windows 10 Updates – No Extra Charge</u></a></li>
+<li><a href="https://win-trending.techidaily.com/elevate-your-experience-transitioning-from-windows-home-to-professional-benefits-and-steps/"><u>Elevate Your Experience: Transitioning From Windows Home to Professional – Benefits & Steps</u></a></li>
+<li><a href="https://win-trending.techidaily.com/flexispot-theodore-standing-desk-offer-secure-90-savings-now-discover-more-at-zdnet/"><u>FlexiSpot Theodore Standing Desk Offer: Secure $90 Savings Now - Discover More at ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722966748236-get-the-most-recent-logiteche-g910-driver-installation-files-for-windows-users/"><u>Get the Most Recent Logiteche G910 Driver Installation Files for Windows Users</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-determine-the-gpu-in-your-system-and-update-its-software-expert-advice-from-zdnet/"><u>How to Determine the GPU in Your System & Update Its Software - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-razr-40-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Razr 40 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-x100-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo X100 Phone Network-Ready</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-screen-use-creating-picture-in-picture-videos-on-macos/"><u>Innovative Screen Use Creating Picture in Picture Videos on macOS</u></a></li>
 </ul></div>
 
