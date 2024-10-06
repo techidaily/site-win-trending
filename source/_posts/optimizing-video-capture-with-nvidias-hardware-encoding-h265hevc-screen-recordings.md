@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Video Capture with Nvidia's Hardware Encoding: H.265/HEVC Screen Recordings"
-date: 2024-09-25T02:32:24.788Z
-updated: 2024-09-30T03:42:22.048Z
+date: 2024-10-04T16:23:57.789Z
+updated: 2024-10-05T18:01:22.782Z
 tags:
   - product
 categories:
@@ -47,10 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## H.265/HEVC screen recording with NVIDIA NVENC acceleration
@@ -60,10 +60,10 @@ Action Tutorials
  Please check the list below to see if your computer meets all requirements to use NVIDIA NVENC hardware accelerated H.265/HEVC video encoding.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Requirements for NVIDIA NVENC H.265/HEVC recording acceleration 
@@ -76,10 +76,10 @@ Action Tutorials
 * NVIDIA GPU drover R358 or above
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Setting NVIDIA NVENC H.265/HEVC for screen recording
@@ -89,10 +89,10 @@ Action Tutorials
 ![NVIDIA NVENC H.265/HEVC recording acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration_h265_hevc_recording.jpg "NVIDIA NVENC H.265/HEVC recording acceleration") 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  H.265/HEVC screen recordings playback
@@ -115,19 +115,19 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-a-course-for-youtube-success-viewer-numbers-and-income/"><u>[New] In 2024, Charting a Course for YouTube Success Viewer Numbers and Income</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-discover-the-hits-top-tracks-on-spotify/"><u>[Updated] Discover the Hits Top Tracks on Spotify</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-next-gen-videostreaming-hubs-triumph-beyond-youtube-for-2024/"><u>[Updated] Next-Gen Videostreaming Hubs Triumph Beyond Youtube for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1726030275068-youtube/"><u>【忙しい日常でも】YouTubeの音楽を自由にスマホに保存する方法</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-unbroken-webspace-for-2024/"><u>[New] Capture Unbroken Webspace for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-primes-premier-pieces-the-watched-and-tweeted-superstars/"><u>[New] In 2024, Prime’s Premier Pieces The #Watched & Tweeted Superstars</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-audio-engineers-guide-switching-from-srt-to-ttml/"><u>[New] In 2024, The Audio Engineer’s Guide Switching From SRT to TTML</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-addressed-hidden-shorters-now-visible-for-2024/"><u>[Updated] Addressed Hidden Shorters, Now Visible for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-apowersoft-unveils-new-and-enhanced-watermark-eraser-advanced-functionality/"><u>1. Apowersoft Unveils New & Enhanced Watermark Eraser: Advanced Functionality</u></a></li>
 <li><a href="https://win-trending.techidaily.com/1-speedy-and-high-quality-conversion-transforming-your-dvds-into-crystal-clear-images-on-ipad-air/"><u>1. Speedy and High-Quality Conversion: Transforming Your DVDs Into Crystal Clear Images on iPad Air</u></a></li>
-<li><a href="https://win-trending.techidaily.com/2024mkv-dlna-hdhd-audio-dvd/"><u>2024年に使いやすい最善の無料MKV DLNAプレイヤー - HD/HD Audio DVD変換ソフトウェア</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-lava-blaze-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Lava Blaze Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-crafting-your-podcasts-rss-feed/"><u>In 2024, The Fundamentals Crafting Your Podcast's RSS Feed</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/jump-into-action-on-tiktok-live-easy-methods-revealed/"><u>Jump Into Action on TikTok Live Easy Methods Revealed</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1726030188232-mp4dvd/"><u>MP4形式へのレンタルDVD変換専用無料アプリをご紹介</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-the-mysterious-dark-panel-phenomenon-in-android-handsets/"><u>Diagnosing and Repairing the Mysterious Dark Panel Phenomenon in Android Handsets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficiently-post-several-pictures-at-once-a-guide-to-bulk-images-on-facebook/"><u>Efficiently Post Several Pictures at Once: A Guide to Bulk Images on Facebook</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581844423-mondly-kids-edition-smart-filter-feature-2017/"><u>Mondly Kid's Edition: Smart Filter Feature, 2017!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/no-fuss-tutorial-effortlessly-saving-playthroughs-from-steam-gaming/"><u>No-Fuss Tutorial: Effortlessly Saving Playthroughs From Steam Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/past-paints-legal-freedoms-for-classics-for-2024/"><u>Past Paints Legal Freedoms for Classics for 2024</u></a></li>
 <li><a href="https://win-trending.techidaily.com/1726028542644-premiere-promov/"><u>Premiere ProにてMOVファイルを読み込む際のトラブルシューティング</u></a></li>
-<li><a href="https://win-dash.techidaily.com/qualcomm-atheros-ar938x-drivers-quick-and-easy-free-downloads-available-now/"><u>Qualcomm Atheros AR938X Drivers: Quick & Easy [FREE] Downloads Available Now</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/value-meets-quality-in-our-testing-of-the-philips-hf3520-alarm-clock-range/"><u>Value Meets Quality in Our Testing of the Philips HF3520 Alarm Clock Range</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/where-is-thanksgiving-celebrated-globally/"><u>Where Is Thanksgiving Celebrated Globally?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-transition-the-ultimate-subcap-guide-for-2024/"><u>SRT Transition The Ultimate SUBCAP Guide for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/top-10-free-music-management-and-player-apps-for-android-enhance-your-mobile-listening-experience/"><u>Top 10 FREE Music Management and Player Apps for Android: Enhance Your Mobile Listening Experience</u></a></li>
 </ul></div>
 

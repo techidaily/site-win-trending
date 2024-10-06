@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Nailing an Engineering Position at Microsoft, According to ZDNet Experts
-date: 2024-09-24T23:36:43.694Z
-updated: 2024-09-30T09:14:30.731Z
+date: 2024-10-01T19:00:12.499Z
+updated: 2024-10-05T20:12:28.352Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -143,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -154,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -202,24 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-keeping-the-chuckles-stealing-twitters-gif-content/"><u>[New] 2024 Approved Keeping the Chuckles Stealing Twitter's GIF Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-techniques-improve-your-hp-laptop-screen-recordings/"><u>[Updated] In 2024, Innovative Techniques Improve Your HP Laptop Screen Recordings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-launch-into-action-quick-tips-to-start-going-live-on-facebook-immediately-for-2024/"><u>[Updated] Launch Into Action Quick Tips to Start Going Live on Facebook Immediately for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/addressing-and-correcting-the-xinput13dll-not-located-error-tips-and-tricks/"><u>Addressing and Correcting the 'xinput1_3.dll Not Located' Error: Tips & Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/eliminating-blur-taming-shutter-vibration/"><u>Eliminating Blur Taming Shutter Vibration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/heartfelt-outro-samples-your-budget-our-designs-for-2024/"><u>Heartfelt Outro Samples Your Budget, Our Designs for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-download-and-convert-infoq-conference-presentations-as-mp4-or-avi-files-for-pcs-and-macs/"><u>How to Download and Convert InfoQ Conference Presentations as MP4 or AVI Files for PCs and Macs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-insights-ultimate-guide-to-understand-ig-data-for-2024/"><u>Instagram Insights Ultimate Guide to Understand IG Data for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/kelbys-instructional-materials-secure-your-educational-video-content-today/"><u>Kelby's Instructional Materials: Secure Your Educational Video Content Today!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/m1905-movie-converter-and-downloader-seamless-transformation-to-popular-video-codes/"><u>M1905 Movie Converter & Downloader: Seamless Transformation to Popular Video Codes</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-vibrant-soundscapes-10-melodies-that-elevate-your-video-montages/"><u>New 2024 Approved Vibrant Soundscapes 10 Melodies That Elevate Your Video Montages</u></a></li>
-<li><a href="https://win-trending.techidaily.com/overcoming-common-issues-with-flixster-downloads-expert-tips-for-fixing-download-problems-and-pending-errors/"><u>Overcoming Common Issues with Flixster Downloads - Expert Tips for Fixing Download Problems and Pending Errors</u></a></li>
-<li><a href="https://win-trending.techidaily.com/save-and-convert-adult-content-from-yourlust-download-in-high-quality-formats-mp4-mov-avi/"><u>Save and Convert Adult Content From YourLust: Download in High-Quality Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-downloading-videos-from-roxwell-the-ultimate-tutorial/"><u>Step-by-Step Guide: Downloading Videos From Roxwell - The Ultimate Tutorial</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-tutorial-for-transforming-voc-recordings-into-common-digital-audio-files-such-as-mp3-aac-m4a-on-windowsmac-systems/"><u>Step-by-Step Tutorial for Transforming VOC Recordings Into Common Digital Audio Files Such as MP3, AAC, M4A on Windows/Mac Systems</u></a></li>
-<li><a href="https://win-trending.techidaily.com/top-5-alternatives-to-coursera-for-premium-online-education-platforms/"><u>Top 5 Alternatives to Coursera for Premium Online Education Platforms</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ultimate-guide-transferring-vimeo-videos-onto-your-ios-device-ipad-iphone-and-ipod/"><u>Ultimate Guide: Transferring Vimeo Videos Onto Your iOS Device (iPad, iPhone & iPod)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-chromebooks-to-the-rescue-mastering-webcam-recordings-for-2024/"><u>[New] Chromebooks to the Rescue Mastering Webcam Recordings for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-loom-downloader-how-to-loom-screen-record/"><u>[New] Loom Downloader - How to Loom Screen Record</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pinnacle-nintendo-switch-fighting-game-index-max-156/"><u>[Updated] Pinnacle Nintendo Switch Fighting Game Index (Max 156)</u></a></li>
+<li><a href="https://discover-community.techidaily.com/combine-multiple-media-streams-into-a-single-mkv-file-using-mkvtoolnix/"><u>Combine Multiple Media Streams Into a Single MKV File Using MKVToolNix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-tools-for-online-subtitle-editing/"><u>Cutting-Edge Tools for Online Subtitle Editing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/effortless-guide-transferring-data-from-your-iphone-se-to-a-computer/"><u>Effortless Guide: Transferring Data From Your iPhone SE to a Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-12-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi 12 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-trending.techidaily.com/innovative-tricks-for-retrieving-deleted-android-video-files/"><u>Innovative Tricks for Retrieving Deleted Android Video Files</u></a></li>
+<li><a href="https://win-trending.techidaily.com/quick-and-reliable-techniques-transforming-avchd-videos-into-mp4-format/"><u>Quick & Reliable Techniques: Transforming AVCHD Videos Into MP4 Format</u></a></li>
+<li><a href="https://win-trending.techidaily.com/simple-guide-converting-wmv-files-into-mp3-audio-format/"><u>Simple Guide: Converting WMV Files Into MP3 Audio Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trends-and-techniques-for-skyrocketing-youtube-views-for-2024/"><u>Trends and Techniques for Skyrocketing YouTube Views for 2024</u></a></li>
 </ul></div>
 

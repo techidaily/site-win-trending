@@ -1,7 +1,7 @@
 ---
 title: "2021 Ultimate Shopping Manual: Navigating Black Friday & Cyber Monday Deals on ZDNet"
-date: 2024-09-26T00:00:16.195Z
-updated: 2024-09-30T03:17:05.746Z
+date: 2024-10-04T17:14:30.290Z
+updated: 2024-10-05T22:23:44.302Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,22 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-optimize-tiktok-interaction-learning-to-update-numbers/"><u>[Updated] Optimize TikTok Interaction Learning to Update Numbers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-voice-memo-techniques-an-in-depth-walkthrough/"><u>[Updated] Voice Memo Techniques An In-Depth Walkthrough</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-installing-linux-on-your-microsoft-surface-go-a-quick-one-hour-guide-zdnet/"><u>1. Installing Linux on Your Microsoft Surface Go: A Quick One-Hour Guide - ZDNet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-brain-eaters-unleashed-a-compelling-list/"><u>2024 Approved Brain-Eaters Unleashed A Compelling List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-compelling-mp4-player-selections-reviewed/"><u>2024 Approved Compelling MP4 Player Selections Reviewed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-get-snapchat-on-mac/"><u>2024 Approved How to Get Snapchat on Mac?</u></a></li>
-<li><a href="https://win-trending.techidaily.com/budget-friendly-microsoft-office-suite-get-project-and-visio-pro-for-only-20-from-zdnet-today/"><u>Budget-Friendly Microsoft Office Suite: Get Project and Visio Pro for Only $20 From ZDNet Today!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comprehensive-analysis-of-microsofts-to-do-app-does-it-streamline-productivity-or-clutter-your-workflow-pcmag/"><u>Comprehensive Analysis of Microsoft's To Do App: Does It Streamline Productivity or Clutter Your Workflow? | PCMag</u></a></li>
-<li><a href="https://win-trending.techidaily.com/discover-and-activate-dark-mode-in-microsofts-latest-bing-chat-update-digital-trends-spotlight/"><u>Discover and Activate Dark Mode in Microsoft's Latest Bing Chat Update | Digital Trends Spotlight</u></a></li>
-<li><a href="https://win-trending.techidaily.com/exploring-the-next-iteration-microsofts-wave-2-copilot-launch-details-insights-from-zdnet/"><u>Exploring the Next Iteration: Microsoft's Wave 2 Copilot Launch Details | Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-fun-facelift-to-survival-tactics-navigating-the-world-of-7-days-to-life-in-one-week-review/"><u>From Fun Facelift to Survival Tactics: Navigating the World of '7 Days to Life' In One Week Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipad-locked-out-steps-to-recover-access-after-forgetting-the-code/"><u>IPad Locked Out: Steps to Recover Access After Forgetting the Code</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-animating-photos-top-8-tools-and-software/"><u>New 2024 Approved The Ultimate Guide to Animating Photos Top 8 Tools and Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rotating-videos-on-your-iphone-a-simple-step-by-step-tutorial/"><u>Rotating Videos on Your iPhone: A Simple, Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-changing-the-function-of-your-macs-command-key/"><u>Step-by-Step Guide: Changing the Function of Your Mac's Command Key</u></a></li>
-<li><a href="https://win-trending.techidaily.com/switch-on-bing-chats-new-dark-mode-the-ultimate-guide-tech-insight/"><u>Switch On Bing Chat's New Dark Mode: The Ultimate Guide | Tech Insight</u></a></li>
-<li><a href="https://win-trending.techidaily.com/the-ultimate-guide-to-nailing-an-engineering-position-at-microsoft-according-to-zdnet-experts/"><u>The Ultimate Guide to Nailing an Engineering Position at Microsoft, According to ZDNet Experts</u></a></li>
-<li><a href="https://win-trending.techidaily.com/transforming-the-office-microsoft-reveals-surprising-insights-on-workplace-evolution-from-over-31000-respondents/"><u>Transforming the Office: Microsoft Reveals Surprising Insights on Workplace Evolution From Over 31,000 Respondents</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-invisible-networks-microsoft-fix-it-guide/"><u>Unblocking Invisible Networks: Microsoft Fix-It Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-followers-and-posts-10-instagram-essentials-to-watch/"><u>[New] 2024 Approved Followers & Posts 10 Instagram Essentials to Watch</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-enhancing-collaboration-with-snap-camera-techniques/"><u>[New] In 2024, Enhancing Collaboration with Snap Camera Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-empower-your-slide-shows-a-guide-to-adding-speech-to-text-functionality-for-2024/"><u>[Updated] Empower Your Slide Shows A Guide to Adding Speech-to-Text Functionality for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-comprehensive-guide-capturing-webex-meetings-in-hd-the-ultimate-recording-tutorial/"><u>1. Comprehensive Guide: Capturing Webex Meetings in HD - The Ultimate Recording Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-inside-look-why-this-apple-store-workers-experience-with-vision-pro-will-make-you-fall-in-love/"><u>1. Inside Look: Why This Apple Store Worker's Experience with Vision Pro Will Make You Fall in Love</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-our-picks-of-budget-friendly-and-high-quality-video-viewing-tools-pcmobile/"><u>2024 Approved Explore Our Picks of Budget-Friendly and High-Quality Video Viewing Tools (PC/Mobile)</u></a></li>
+<li><a href="https://win-trending.techidaily.com/apowersoft-background-eraser-faq-top-ios-and-android-user-queries/"><u>Apowersoft Background Eraser FAQ: Top iOS and Android User Queries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-fix-user32dll-not-detected-problems-quickly/"><u>Comprehensive Guide to Fix User32.dll Not Detected Problems Quickly</u></a></li>
+<li><a href="https://win-trending.techidaily.com/entering-dfu-mode-for-ios-devices-essential-tips-and-procedures/"><u>Entering DFU Mode for iOS Devices: Essential Tips and Procedures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphones-persistent-error-4013-during-software-restoration-or-upgrade/"><u>Fixing iPhone's Persistent Error 4013 During Software Restoration or Upgrade</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-video-production-with-powerdirector-24/"><u>Mastering Video Production with PowerDirector '24</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-crash-fixes-overcoming-and-preventing-error-ncode-5-mishaps/"><u>Minecraft Crash Fixes: Overcoming and Preventing Error nCode 5 Mishaps</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-moving-texts-from-your-iphone-to-your-galaxy-s5/"><u>Step-by-Step Guide: Moving Texts From Your iPhone to Your Galaxy S5</u></a></li>
+<li><a href="https://win-trending.techidaily.com/top-10-sd-card-data-retrieval-tools-a-comprehensive-guide/"><u>Top 10 SD Card Data Retrieval Tools : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ultimate-selection-of-scary-season-video-making-tools-for-childrens-parties/"><u>Ultimate Selection of Scary Season Video Making Tools for Children's Parties</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ultra-thin-acer-swift-edge-unveiled-the-new-pinnacle-of-portable-4k-oled-laptops/"><u>Ultra-Thin Acer Swift Edge Unveiled: The New Pinnacle of Portable 4K OLED Laptops</u></a></li>
+<li><a href="https://win-trending.techidaily.com/understanding-the-role-of-trusted-platform-module-in-windows-11-insights-and-explanation/"><u>Understanding the Role of Trusted Platform Module in Windows 11: Insights & Explanation</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unlock-enhanced-features-in-windows-11-simplified-android-integration-and-rapid-speech-to-text-with-latest-updates-techwise-insights/"><u>Unlock Enhanced Features in Windows 11: Simplified Android Integration & Rapid Speech-to-Text with Latest Updates | TechWise Insights</u></a></li>
 </ul></div>
 
