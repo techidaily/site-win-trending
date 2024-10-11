@@ -1,7 +1,7 @@
 ---
 title: "Discover Microsoft's Innovative 'Tech Pants': The Next-Gen Wearable Technology at Just $150 - Find Out More!"
-date: 2024-10-04T20:37:19.328Z
-updated: 2024-10-05T23:44:20.861Z
+date: 2024-10-08T07:56:49.904Z
+updated: 2024-10-10T18:47:31.628Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-create-compelling-animation-subscribe-bars-for-your-youtube-channel-filmora/"><u>[New] 2024 Approved Create Compelling Animation Subscribe Bars for Your YouTube Channel (Filmora)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-effortless-installation-and-fun-with-ifunnys-memes/"><u>[New] Effortless Installation & Fun with iFunny's Memes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-assessing-common-fb-video-formats/"><u>[New] In 2024, Assessing Common FB Video Formats</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlock-creative-potential-top-10-online-banners-tools-for-2024/"><u>[New] Unlock Creative Potential - Top 10 Online Banners Tools for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-installing-linux-on-your-microsoft-surface-go-a-quick-one-hour-guide-zdnet/"><u>1. Installing Linux on Your Microsoft Surface Go: A Quick One-Hour Guide - ZDNet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-behind-the-scenes-look-at-creating-dynamic-facebook-reels/"><u>2024 Approved Behind-the-Scenes Look at Creating Dynamic Facebook Reels</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-foolproof-method-for-adding-a-link-to-your-tiktok-bio/"><u>2024 Approved Foolproof Method for Adding a Link to Your TikTok Bio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-framed-facets-guide-to-the-best-apps-and-sites-for-frame-upgrades/"><u>2024 Approved Framed Facets Guide to the Best Apps & Sites for Frame Upgrades</u></a></li>
-<li><a href="https://win-trending.techidaily.com/budget-friendly-microsoft-office-suite-get-project-and-visio-pro-for-only-20-from-zdnet-today/"><u>Budget-Friendly Microsoft Office Suite: Get Project and Visio Pro for Only $20 From ZDNet Today!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comprehensive-test-of-the-mavix-m9-gaming-chair-ultimate-flexibility-meets-controversy-techradar/"><u>Comprehensive Test of the Mavix M9 Gaming Chair: Ultimate Flexibility Meets Controversy | TechRadar</u></a></li>
-<li><a href="https://win-trending.techidaily.com/discover-and-activate-dark-mode-in-microsofts-latest-bing-chat-update-digital-trends-spotlight/"><u>Discover and Activate Dark Mode in Microsoft's Latest Bing Chat Update | Digital Trends Spotlight</u></a></li>
-<li><a href="https://win-trending.techidaily.com/exploring-the-next-iteration-microsofts-wave-2-copilot-launch-details-insights-from-zdnet/"><u>Exploring the Next Iteration: Microsoft's Wave 2 Copilot Launch Details | Insights From ZDNet</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a58-4g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-changing-the-function-of-your-macs-command-key/"><u>Step-by-Step Guide: Changing the Function of Your Mac's Command Key</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-setting-up-cman-wizard-plugins-in-kodi-versions-18-and-19/"><u>Step-by-Step Guide: Setting Up cMan Wizard Plugins in Kodi Versions 18 and 19</u></a></li>
-<li><a href="https://win-trending.techidaily.com/switch-on-bing-chats-new-dark-mode-the-ultimate-guide-tech-insight/"><u>Switch On Bing Chat's New Dark Mode: The Ultimate Guide | Tech Insight</u></a></li>
-<li><a href="https://win-trending.techidaily.com/the-ultimate-guide-to-nailing-an-engineering-position-at-microsoft-according-to-zdnet-experts/"><u>The Ultimate Guide to Nailing an Engineering Position at Microsoft, According to ZDNet Experts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-iphone-video-editing-showdown-cameo-against-filmorago/"><u>[New] 2024 Approved IPhone Video Editing Showdown Cameo Against FilmoraGo</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-discords-video-sharing-feature-with-expertise/"><u>[Updated] Navigating Discord's Video Sharing Feature with Expertise</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-dos-and-donts-of-recording-in-zoom-work-environments-for-2024/"><u>[Updated] The Do's and Don’ts of Recording in Zoom Work Environments for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-and-save-local-copies-of-your-flipbooks-with-easy-steps-on-flipbuilder/"><u>Download and Save Local Copies of Your Flipbooks with Easy Steps on FlipBuilder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/examining-the-effectiveness-of-iscreen-recording/"><u>Examining the Effectiveness of iScreen Recording</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-launch-interactive-ebooks-exe-immediately-on-pc-discover-the-power-of-flipbuilder-conversion-tools/"><u>How To Launch Interactive eBooks (EXE) Immediately on PC? Discover the Power of FlipBuilder Conversion Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-snapseed-a-simple-guide-for-new-users/"><u>In 2024, Exploring Snapseed A Simple Guide for New Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-recovery-of-vanished-contact-info-from-android-handsets/"><u>Mastering the Recovery of Vanished Contact Info From Android Handsets</u></a></li>
+<li><a href="https://win-trending.techidaily.com/maximize-your-readership-and-virality-with-flipbuilders-social-sharing-ebooks/"><u>Maximize Your Readership & Virality with FlipBuilder's Social Sharing Ebooks</u></a></li>
+<li><a href="https://win-trending.techidaily.com/quick-guide-creating-a-unified-flipbook-from-multiple-pdfs-using-flipbuilder/"><u>Quick Guide: Creating a Unified Flipbook From Multiple PDFs Using FlipBuilder</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/save-file-location-directly-to-clipboard-with-emeditors-right-click-functionality-explained/"><u>Save File Location Directly to Clipboard with EmEditor's Right-Click Functionality Explained</u></a></li>
+<li><a href="https://win-trending.techidaily.com/seeking-a-comprehensive-tutorial-to-master-flipoffice-pro-through-flipbuilders-help-resources-where-do-i-start/"><u>Seeking a Comprehensive Tutorial to Master FlipOffice Pro Through FlipBuilder's Help Resources – Where Do I Start?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/taming-the-tides-fixing-critical-sea-of-thieves-game-crash-issues/"><u>Taming the Tides: Fixing Critical Sea of Thieves Game-Crash Issues</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-c22-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia C22.</u></a></li>
+<li><a href="https://win-trending.techidaily.com/transform-your-ebook-into-a-durable-hardcover-a-step-by-step-guide-with-flipbuilder/"><u>Transform Your eBook Into a Durable Hardcover: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-trending.techidaily.com/transform-your-pdf-into-a-beautifully-bound-booklet-in-minutes-using-flip-builder-learn-more-at-flipbuildercom/"><u>Transform Your PDF Into a Beautifully Bound Booklet in Minutes Using Flip Builder [Learn More at FlipBuilder.com]</u></a></li>
 </ul></div>
 

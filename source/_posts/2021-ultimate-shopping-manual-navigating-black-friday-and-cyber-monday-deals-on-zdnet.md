@@ -1,7 +1,7 @@
 ---
 title: "2021 Ultimate Shopping Manual: Navigating Black Friday & Cyber Monday Deals on ZDNet"
-date: 2024-10-04T17:14:30.290Z
-updated: 2024-10-05T22:23:44.302Z
+date: 2024-10-06T09:41:49.828Z
+updated: 2024-10-11T02:54:32.836Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -153,10 +153,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-followers-and-posts-10-instagram-essentials-to-watch/"><u>[New] 2024 Approved Followers & Posts 10 Instagram Essentials to Watch</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-enhancing-collaboration-with-snap-camera-techniques/"><u>[New] In 2024, Enhancing Collaboration with Snap Camera Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-empower-your-slide-shows-a-guide-to-adding-speech-to-text-functionality-for-2024/"><u>[Updated] Empower Your Slide Shows A Guide to Adding Speech-to-Text Functionality for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-comprehensive-guide-capturing-webex-meetings-in-hd-the-ultimate-recording-tutorial/"><u>1. Comprehensive Guide: Capturing Webex Meetings in HD - The Ultimate Recording Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-inside-look-why-this-apple-store-workers-experience-with-vision-pro-will-make-you-fall-in-love/"><u>1. Inside Look: Why This Apple Store Worker's Experience with Vision Pro Will Make You Fall in Love</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-our-picks-of-budget-friendly-and-high-quality-video-viewing-tools-pcmobile/"><u>2024 Approved Explore Our Picks of Budget-Friendly and High-Quality Video Viewing Tools (PC/Mobile)</u></a></li>
-<li><a href="https://win-trending.techidaily.com/apowersoft-background-eraser-faq-top-ios-and-android-user-queries/"><u>Apowersoft Background Eraser FAQ: Top iOS and Android User Queries</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-fix-user32dll-not-detected-problems-quickly/"><u>Comprehensive Guide to Fix User32.dll Not Detected Problems Quickly</u></a></li>
-<li><a href="https://win-trending.techidaily.com/entering-dfu-mode-for-ios-devices-essential-tips-and-procedures/"><u>Entering DFU Mode for iOS Devices: Essential Tips and Procedures</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphones-persistent-error-4013-during-software-restoration-or-upgrade/"><u>Fixing iPhone's Persistent Error 4013 During Software Restoration or Upgrade</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-video-production-with-powerdirector-24/"><u>Mastering Video Production with PowerDirector '24</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/minecraft-crash-fixes-overcoming-and-preventing-error-ncode-5-mishaps/"><u>Minecraft Crash Fixes: Overcoming and Preventing Error nCode 5 Mishaps</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-moving-texts-from-your-iphone-to-your-galaxy-s5/"><u>Step-by-Step Guide: Moving Texts From Your iPhone to Your Galaxy S5</u></a></li>
-<li><a href="https://win-trending.techidaily.com/top-10-sd-card-data-retrieval-tools-a-comprehensive-guide/"><u>Top 10 SD Card Data Retrieval Tools : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ultimate-selection-of-scary-season-video-making-tools-for-childrens-parties/"><u>Ultimate Selection of Scary Season Video Making Tools for Children's Parties</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ultra-thin-acer-swift-edge-unveiled-the-new-pinnacle-of-portable-4k-oled-laptops/"><u>Ultra-Thin Acer Swift Edge Unveiled: The New Pinnacle of Portable 4K OLED Laptops</u></a></li>
-<li><a href="https://win-trending.techidaily.com/understanding-the-role-of-trusted-platform-module-in-windows-11-insights-and-explanation/"><u>Understanding the Role of Trusted Platform Module in Windows 11: Insights & Explanation</u></a></li>
-<li><a href="https://win-trending.techidaily.com/unlock-enhanced-features-in-windows-11-simplified-android-integration-and-rapid-speech-to-text-with-latest-updates-techwise-insights/"><u>Unlock Enhanced Features in Windows 11: Simplified Android Integration & Rapid Speech-to-Text with Latest Updates | TechWise Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-expert-tips-elevating-your-projects-with-movie-maker-in-win11/"><u>[New] Expert Tips Elevating Your Projects with Movie Maker in Win11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unleash-window-history-an-in-depth-look-at-springs-tech/"><u>[New] In 2024, Unleash Window History An In-Depth Look at Spring's Tech</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creative-commons-legalities-explained-simply/"><u>[Updated] 2024 Approved Creative Commons Legalities Explained Simply</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-becoming-a-broadcast-pro-zooming-into-youtube-live-success/"><u>2024 Approved Becoming a Broadcast Pro Zooming Into YouTube Live Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/correcting-color-misalignment-in-online-videos/"><u>Correcting Color Misalignment in Online Videos</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-vids-from-coub-in-various-formats-step-by-step-tutorial/"><u>Download Vids From Coub in Various Formats: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-steps-to-download-alison-course-videos-in-various-formats-for-offline-study/"><u>Easy Steps to Download Alison Course Videos in Various Formats for Offline Study</u></a></li>
+<li><a href="https://win-trending.techidaily.com/effortlessly-save-scivee-streams-convert-video-content-into-mp4movavi-using-scivee-downloader/"><u>Effortlessly Save SciVee Streams: Convert Video Content Into MP4/MOV/AVI Using SciVee Downloader</u></a></li>
+<li><a href="https://win-trending.techidaily.com/exporting-your-teachable-live-classes-into-common-file-formats-a-step-by-step-guide/"><u>Exporting Your Teachable Live Classes Into Common File Formats: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-trending.techidaily.com/fastaccess-quiz-get-your-free-videos-and-exclusive-content-downloaded-now/"><u>FastAccess Quiz: Get Your FREE Videos & Exclusive Content Downloaded Now!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-for-transforming-sporty-pilot-training-videos-into-downloaded-formats-mp4-mp3/"><u>Guide for Transforming Sporty Pilot Training Videos Into Downloaded Formats (MP4, MP3)</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-mastering-offline-learning-with-downloaded-g9md-video-lessons/"><u>Guide: Mastering Offline Learning with Downloaded G9MD Video Lessons</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-download-and-convert-infoq-conference-presentations-as-mp4-or-avi-files-for-pcs-and-macs/"><u>How to Download and Convert InfoQ Conference Presentations as MP4 or AVI Files for PCs and Macs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-mastering-vintage-visual-storytelling-techniques/"><u>In 2024, Mastering Vintage Visual Storytelling Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-pure-joy-of-gratuitous-screen-mingle-games/"><u>In 2024, Pure Joy of Gratuitous Screen Mingle Games</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-c55-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme C55</u></a></li>
+<li><a href="https://win-trending.techidaily.com/kelbys-instructional-materials-secure-your-educational-video-content-today/"><u>Kelby's Instructional Materials: Secure Your Educational Video Content Today!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-unseen-power-button-mastering-windows-11-discretion/"><u>The Unseen Power Button: Mastering Windows 11 Discretion</u></a></li>
 </ul></div>
 

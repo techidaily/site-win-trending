@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Test of the Mavix M9 Gaming Chair: Ultimate Flexibility Meets Controversy | TechRadar"
-date: 2024-09-29T19:53:27.776Z
-updated: 2024-10-05T16:15:44.534Z
+date: 2024-10-07T10:39:31.468Z
+updated: 2024-10-11T11:24:05.290Z
 tags:
   - office-furniture
 categories:
@@ -67,10 +67,10 @@ The seat, back, and headrest are designed to be equally well-suited to use at a 
 Optional add-ons like the Elemax heating/cooling/massage and FS 360 armrests combine with the default configuration and adjustments to provide a design that's one of the most customizable (both at the time of purchase and once you've got it set up) that I've ever used. This expansive set of variables can be both a blessing and, occasionally, a hindrance, as we'll discuss further on in our review. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Build quality
@@ -140,10 +140,10 @@ The add-on is a semi-soft pad that lives within the "Dynamic Variable Lumbar" su
 The confusion started when I noticed that the Elemax system included two elastic straps that covered the built-in fans providing the unit's heating and cooling airflow. These straps weren't present in the instructional videos or literature. I was left to take my best guess on their purpose. The straps seemed likely to interfere with the airflow of the fans. But, I soldiered on with the installation as close to the instructions as possible. Since the airflow ultimately seemed normal, I moved on, adding one more mystery to the list. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Adjustability 
@@ -171,6 +171,13 @@ Michael Gariffo/ZDNET
 I can't wrap up the Adjustability section without talking about one of the most adjustable accessories I've ever seen on a chair: the FS 360 armrests.   
   
  The standard 4D armrests feature the same four adjustments (mentioned above) found on most high-end gaming chairs. Meanwhile, the FS 360 arms replace them with something unlike any other armrests I've used.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -202,10 +209,10 @@ The headrest uses the M-Breeze fabric over an elastic mesh layer, seen from behi
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Comfort and performance  
@@ -237,13 +244,6 @@ Now, let's talk about Mavix's trademark Elemax system. In short, it's a nice ext
 But the active posture and focused state I tend to be in when gaming or working meant I forgot all about the Elemax much of the time. If you frequently relax in your gaming chair, you may appreciate this add-on more than I did. 
 
 [Buy the Mavix M9 $999 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09MDWBB99%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d4e66d1-29f7-4809-92b1-63f89a63902a%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Bottom line 
 
@@ -297,14 +297,19 @@ A chair from a company better known for its mice and keyboards, the Iskur is exc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/phoneplusandroid-discover-the-top-10-video-making-picks/"><u>[New] IPhone+Android Discover the Top 10 Video-Making Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-preserving-gifs-from-twitter-for-mobile-devices/"><u>[New] Preserving GIFs From Twitter for Mobile Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unlocking-the-secrets-of-earning-via-youtube/"><u>[Updated] In 2024, Unlocking the Secrets of Earning via YouTube</u></a></li>
-<li><a href="https://win-trending.techidaily.com/best-practices-for-editing-id3-tags-on-both-windows-and-macos-using-top-rated-id3-editors/"><u>Best Practices for Editing ID3 Tags on Both Windows & macOS Using Top Rated ID3 Editors</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effortless-guide-transferring-data-from-your-iphone-se-to-a-computer/"><u>Effortless Guide: Transferring Data From Your iPhone SE to a Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracking-fb-content-efficiency-strategies-explored/"><u>In 2024, Fast-Tracking FB Content Efficiency Strategies Explored</u></a></li>
-<li><a href="https://win-trending.techidaily.com/innovative-tricks-for-retrieving-deleted-android-video-files/"><u>Innovative Tricks for Retrieving Deleted Android Video Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/metaversal-motivation-a-curated-list-of-inspiring-quotes-for-2024/"><u>Metaversal Motivation A Curated List of Inspiring Quotes for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/quick-and-reliable-techniques-transforming-avchd-videos-into-mp4-format/"><u>Quick & Reliable Techniques: Transforming AVCHD Videos Into MP4 Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts-for-2024/"><u>[Updated] How to Captivate Audiences and Gain Traction with YouTube Shorts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ios-and-android-downloading-and-personalizing-whatsapp-tones/"><u>[Updated] IOS & Android Downloading & Personalizing WhatsApp Tones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-pinnacle-solution-for-virtual-realms/"><u>2024 Approved Pinnacle Solution for Virtual Realms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/humorous-vines-the-ultimate-10-list-for-2024/"><u>Humorous Vines The Ultimate 10 List for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-note-13-proplus-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi Note 13 Pro+ 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c12-plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C12 Plus FRP Bypass</u></a></li>
+<li><a href="https://article-tips.techidaily.com/prime-device-editors-for-app-development-for-2024/"><u>Prime Device Editors for App Development for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-x-fold-2-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo X Fold 2</u></a></li>
+<li><a href="https://win-trending.techidaily.com/transform-any-voice-memo-into-a-personalized-ringtone-using-our-top-quality-sound-software/"><u>Transform Any Voice Memo Into a Personalized Ringtone Using Our Top-Quality Sound Software</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-generic-import-errors-in-your-premier-editing-projects/"><u>Troubleshooting 'Generic Import Errors' In Your Premier Editing Projects</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-your-avi-files-in-lightroom-how-to-restore-missing-sound-and-visuals/"><u>Troubleshooting Your AVI Files in Lightroom: How to Restore Missing Sound and Visuals</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ttawav/"><u>TTAオーディオファイルから鮮明なWAVに一気に変換方法</u></a></li>
+<li><a href="https://win-trending.techidaily.com/wonderfox-docmaster-pro-secure-and-efficient-professional-file-management-system/"><u>WonderFox DocMaster Pro: Secure & Efficient Professional File Management System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Personalized Webcam Border Designs & Dimming Effects
-date: 2024-10-04T16:37:29.255Z
-updated: 2024-10-05T19:49:19.301Z
+date: 2024-10-05T18:18:49.799Z
+updated: 2024-10-11T14:04:46.845Z
 tags:
   - product
 categories:
@@ -46,23 +46,9 @@ Action Tutorials
   
  Share this tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Introduction 
 
  Learn how to add custom frames for webcam videos in your gameplay and Windows screen recordings with Mirillis Action! overlay graphics. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Setup webcam settings 
 
@@ -75,10 +61,10 @@ Action Tutorials
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_always_record.jpg "Action! Webcam Settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create a graphic file with frame or shadow 
@@ -88,10 +74,10 @@ Action Tutorials
 ![Mirillis Action! - Create overlay graphic file](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_frame_graphics.jpg "Create overlay graphic file") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setup overlay graphics settings 
@@ -99,6 +85,20 @@ Action Tutorials
  Make sure to enable **Overlay graphics** option, select your PNG file as **Input file** and set correct overlay graphics **position** using Action! Preview area. 
 
 ![Mirillis Action! - Webcam - Overlay graphics settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_overlay_graphics_settings.jpg "Webcam recording - Overlay graphics settings") 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Make a test video recording 
 
@@ -121,18 +121,19 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/astering-the-melody-incorporating-music-seamlessly-in-youtube-for-2024/"><u>[New] Mastering the Melody Incorporating Music Seamlessly in YouTube for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-mastermakers-in-av-production-top-5-list-for-2024/"><u>[New] Mastermakers in AV Production Top 5 List for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>[Updated] In 2024, Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capture-and-record-a-2023-look-at-camstudios-capabilities/"><u>[Updated] In 2024, Capture and Record A 2023 Look at CamStudio's Capabilities</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1726030275068-youtube/"><u>【忙しい日常でも】YouTubeの音楽を自由にスマホに保存する方法</u></a></li>
-<li><a href="https://win-trending.techidaily.com/2024vcdmp4/"><u>2024年度最新テクニック：VCDからMP4への簡単な変換手順を解説</u></a></li>
-<li><a href="https://win-trending.techidaily.com/2024mkv-dlna-hdhd-audio-dvd/"><u>2024年に使いやすい最善の無料MKV DLNAプレイヤー - HD/HD Audio DVD変換ソフトウェア</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/maximizing-impact-with-youtube-micro-videos/"><u>Maximizing Impact with YouTube Micro Videos</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1726030188232-mp4dvd/"><u>MP4形式へのレンタルDVD変換専用無料アプリをご紹介</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/44ko44kz44oh44kz44oe44o844or5l244ge5pa544ks44kk44oj77ya5asj5oplusb44gn44gn44gq44ge44k344ok44oq44kq44gr44gk44gr44kl5luj5pu5oim55wl44ks5a2m44g2/"><u>エコデコツール使い方ガイド：変換できないシナリオにおける代替戦略を学ぶ</u></a></li>
-<li><a href="https://win-trending.techidaily.com/44k544og44or44k555qe44gr44ov44kh44oz44k544oi44oq44o844og44gu5pig5yop44ks6kiy6yyy44gz44kl5pya5zae44gu5pa55rov/"><u>ステルス的にファンストリームの映像を記録する最善の方法</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screen-recorder-pro-for-windows-11-for-2024/"><u>[New] Screen Recorder Pro for Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hrive-in-youtube-mastering-analytics-to-elevate-channel-reach/"><u>[New] Thrive in YouTube Mastering Analytics to Elevate Channel Reach</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-10-record-screen-and-upload-to-youtube-tools-pc-mac-online/"><u>[Updated] In 2024, 10 Record Screen and Upload to YouTube Tools [PC, Mac, Online]</u></a></li>
+<li><a href="https://win-trending.techidaily.com/discover-microsofts-innovative-tech-pants-the-next-gen-wearable-technology-at-just-150-find-out-more/"><u>Discover Microsoft's Innovative 'Tech Pants': The Next-Gen Wearable Technology at Just $150 - Find Out More!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploiting-microsoft-copilot-to-forge-individualized-ai-designs/"><u>Exploiting Microsoft Copilot to Forge Individualized AI Designs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-poco-c65-screen-sharing-drfone-by-drfone-android/"><u>How To Do Poco C65 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-visual-potential-with-smart-photo-text-tools-online/"><u>In 2024, Unlock Visual Potential with Smart Photo Text Tools Online</u></a></li>
+<li><a href="https://win-trending.techidaily.com/microsofts-polarizing-management-proposal-why-some-leaders-may-disagree-insights-from-zdnet/"><u>Microsoft's Polarizing Management Proposal: Why Some Leaders May Disagree - Insights From ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/new-update-policy-alert-find-out-the-cost-of-keeping-your-windows-eb-updated-next-year-zdnet/"><u>New Update Policy Alert! Find Out the Cost of Keeping Your Windows Eb Updated Next Year | ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/optimizing-video-capture-with-nvidias-hardware-encoding-h265hevc-screen-recordings/"><u>Optimizing Video Capture with Nvidia's Hardware Encoding: H.265/HEVC Screen Recordings</u></a></li>
+<li><a href="https://win-trending.techidaily.com/top-trending-browsers-unveiling-the-market-leader/"><u>Top Trending Browsers: Unveiling the Market Leader</u></a></li>
+<li><a href="https://win-trending.techidaily.com/upcoming-windows-12-release-scoop-anticipated-features-and-unforeseen-insights-revealed-by-zdnet/"><u>Upcoming Windows 12 Release Scoop! Anticipated Features & Unforeseen Insights Revealed by ZDNet</u></a></li>
 </ul></div>
 
