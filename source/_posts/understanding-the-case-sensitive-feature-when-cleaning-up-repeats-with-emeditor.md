@@ -1,7 +1,7 @@
 ---
 title: Understanding the Case Sensitive Feature When Cleaning Up Repeats with EmEditor
-date: 2024-10-08T03:36:53.921Z
-updated: 2024-10-11T01:43:50.727Z
+date: 2024-10-13T16:14:37.187Z
+updated: 2024-10-17T16:05:29.567Z
 tags:
   - product
 categories:
@@ -52,27 +52,23 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-conquering-social-media-with-ig-videos-planning-an-optimal-strategy/"><u>[New] Conquering Social Media with IG Videos Planning an Optimal Strategy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-achieving-soft-sound-dissolution-in-audacity/"><u>[Updated] Achieving Soft Sound Dissolution in Audacity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-definitive-guide-to-film-gear-buying-tips/"><u>[Updated] The Definitive Guide to Film Gear Buying Tips</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effortless-mpg-video-viewing-tips-for-windows-11-users-a-comprehensive-walkthrough/"><u>Effortless MPG Video Viewing Tips for Windows 11 Users – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-trending.techidaily.com/experience-the-power-of-flash-on-your-iphone-4-update-allowed/"><u>Experience the Power of Flash on Your iPhone 4 - Update Allowed!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/fixing-handbrake-library-issue-with-libdvdcss-step-by-step-guide/"><u>Fixing HandBrake Library Issue with Libdvdcss - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-trending.techidaily.com/free-conversion-techniques-from-swf-to-wmv-video-formats-a-quick-guide/"><u>Free Conversion Techniques From SWF to WMV Video Formats - A Quick Guide</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-convert-caf-files-to-mp3-methods-for-pc-and-iphone-users/"><u>How to Convert CAF Files to MP3 : Methods for PC and iPhone Users</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-enable-mkv-file-playback-on-windows-media-player/"><u>How to Enable MKV File Playback on Windows Media Player</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/installing-the-rising-tides-plugin-on-kodi-1918-a-comprehensive-walkthrough-for-iptv-streaming-enthusiasts/"><u>Installing the Rising Tides Plugin on Kodi 19/18 - A Comprehensive Walkthrough for IPTV Streaming Enthusiasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-snapping-photos-of-your-pc-screen-with-simple-shortcuts/"><u>The Complete Walkthrough: Snapping Photos of Your PC Screen with Simple Shortcuts</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-video-editing-software-for-newcomers/"><u>Updated The Ultimate List of Video Editing Software for Newcomers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-proven-techniques-to-elevate-your-videos-sonic-palette-on-youtube/"><u>[New] 2024 Approved Proven Techniques to Elevate Your Video's Sonic Palette on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-scrutinizing-active-presenters-record-quality/"><u>[Updated] Scrutinizing Active Presenter's Record Quality</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728467376280-windows/"><u>為Windows電腦設計的流行記憶卡緊急運送軟件列表第一排」</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oneplus-12r-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to OnePlus 12R FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-trending.techidaily.com/efficient-database-management-with-sql-creating-tables-using-select-statements/"><u>Efficient Database Management with SQL: Creating Tables Using SELECT Statements</u></a></li>
+<li><a href="https://win-trending.techidaily.com/error-the-page-youre-looking-for-is-missing/"><u>Error: The Page You're Looking For Is Missing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/estrategias-efectivas-para-utilizar-el-sistema-de-copia-de-seguridad-versatil-vss-dentro-del-programa-aomei-backupper/"><u>Estrategias Efectivas Para Utilizar El Sistema De Copia De Seguridad Versátil (VSS) Dentro Del Programa AOMEI Backupper</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iscrivi-a-winxvideo-ai-pacchetto-completo-e-aggiornamento-gratuito-per-gli-utenti-ufficiali/"><u>Iscrivi a WinxVideo AI: Pacchetto Completo E Aggiornamento Gratuito per Gli Utenti Ufficiali</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transitioning-from-smartphone-to-watching-fb-videos-on-appletv-for-2024/"><u>Transitioning From Smartphone to Watching FB Videos on AppleTV for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unexpectedly-disappeared-sd-card-heres-why-and-what-you-can-do/"><u>Unexpectedly Disappeared SD Card? Here's Why and What You Can Do!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
