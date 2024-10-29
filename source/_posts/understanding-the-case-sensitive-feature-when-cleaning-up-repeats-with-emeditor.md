@@ -1,7 +1,7 @@
 ---
 title: Understanding the Case Sensitive Feature When Cleaning Up Repeats with EmEditor
-date: 2024-10-16T18:40:13.424Z
-updated: 2024-10-22T18:39:13.331Z
+date: 2024-10-21T19:16:25.690Z
+updated: 2024-10-29T03:22:09.619Z
 tags:
   - product
 categories:
@@ -52,29 +52,29 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-vimeo-video-integration-in-ppts/"><u>[New] In 2024, Mastering Vimeo Video Integration in PPTs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-reels-rhythm-mixing-in-musical-elements/"><u>[Updated] 2024 Approved Instagram Reels Rhythm Mixing in Musical Elements</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-video-guide-crafting-engaging-screencasts-for-2024/"><u>[Updated] Pro Video Guide Crafting Engaging Screencasts for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-illumination-mastering-grading-art/"><u>2024 Approved Image Illumination Mastering Grading Art</u></a></li>
-<li><a href="https://win-trending.techidaily.com/efficiency-8-4-32/"><u>Efficiency = 8 4 = 32</u></a></li>
-<li><a href="https://win-trending.techidaily.com/erstelle-deine-eigene-boot-festplatte-von-aussen-mit-diesen-drei-projekten/"><u>Erstelle Deine Eigene Boot-Festplatte Von Außen Mit Diesen Drei Projekten</u></a></li>
-<li><a href="https://win-trending.techidaily.com/guia-para-solucionar-el-problematico-volume-shadow-copy-service-error-en-sistemas-operativos-windows/"><u>Guía Para Solucionar El Problemático 'Volume Shadow Copy Service' Error en Sistemas Operativos Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721458778440-icloud-backup-issues-for-whatsapp-users-easy-fixes-inside/"><u>ICloud Backup Issues for WhatsApp Users: Easy Fixes Inside</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-civi-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Civi 3 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/resolve-stop-error-stop-code-0xc000021a-in-windows-11-a-comprehensive-guide/"><u>Resolve 'Stop Error' (STOP Code 0xC000021A) in Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/simple-steps-for-acquiring-microsofts-windows-11-version-23h2-update/"><u>Simple Steps for Acquiring Microsoft's Windows 11 Version 23H2 Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/swift-installation-guide-microsoft-ergo-keyboard-4000-drivers/"><u>Swift Installation Guide: Microsoft Ergo Keyboard 4000 Drivers</u></a></li>
-<li><a href="https://win-trending.techidaily.com/the-ultimate-fix-addressing-problems-with-your-office-365-email-forwarding-service/"><u>The Ultimate Fix: Addressing Problems with Your Office 365 Email Forwarding Service</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ultimate-tutorial-on-starting-windows-10-via-command-line-interface/"><u>Ultimate Tutorial on Starting Windows 10 via Command Line Interface</u></a></li>
-<li><a href="https://win-trending.techidaily.com/verbesserung-der-sicherheit-mit-zwei-faktor-authentifizierung-fur-ihre-apple-id/"><u>Verbesserung Der Sicherheit Mit Zwei-Faktor-Authentifizierung Für Ihre Apple ID</u></a></li>
-<li><a href="https://win-trending.techidaily.com/wie-man-den-windows-ebenso-wie-das-bios-fur-asus-notebooks-mithilfe-einer-schrittweisen-anleitung-startet/"><u>Wie Man Den Windows Ebenso Wie Das BIOS Für ASUS Notebooks Mithilfe Einer Schrittweisen Anleitung Startet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/1716183627416-new-2024-approved-how-to-add-instagram-filter-to-existing-photos-and-videos/"><u>[New] 2024 Approved How to Add Instagram Filter to Existing Photos and Videos?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-channel-milestone-hurdle-cross-the-10k-view-threshold-fast-for-2024/"><u>[New] Channel Milestone Hurdle – Cross the 10K View Threshold Fast for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-dating-game-with-cleverly-crafted-tinder-profiles-for-2024/"><u>[New] Elevate Your Dating Game with Cleverly Crafted Tinder Profiles for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-waterproof-cams-7-compilation-review/"><u>[New] Leading Waterproof Cams #7 Compilation Review</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728500159063-windows/"><u>如何解決Windows</u></a></li>
+<li><a href="https://win-trending.techidaily.com/diy-methods-for-retrieving-non-backup-photo-data-safely/"><u>DIY Methods for Retrieving Non-Backup Photo Data Safely</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-for-successful-download-and-update-of-epson-ds-510-driver-on-your-windows-machine/"><u>Easy Steps for Successful Download and Update of Epson DS-510 Driver on Your Windows Machine</u></a></li>
+<li><a href="https://win-trending.techidaily.com/effortless-hdd-backup-and-sync-with-top-rated-free-software-options-otomatis-file-ke-hard-drive-eksternal/"><u>Effortless HDD Backup and Sync with Top-Rated Free Software Options - Otomatis File Ke Hard Drive Eksternal</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-facile-comment-modifier-avec-surete-votre-carte-microsd-sur-android-et-preserver-tous-vos-donnes-originaux/"><u>Guide Facile: Comment Modifier Avec Sûreté Votre Carte MicroSD Sur Android Et Préserver Tous Vos Donnés Originaux</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-make-time-lapse-on-samsung-mobile-for-2024/"><u>How to Make Time Lapse on Samsung Mobile for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-play-8t-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Play 8T to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-optimal-6-secure-virtual-communication-tools-for-smbs/"><u>In 2024, Optimal 6 Secure Virtual Communication Tools for SMBs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/lightning-fast-windows-photo-inspector/"><u>Lightning-Fast Windows Photo Inspector</u></a></li>
+<li><a href="https://win-trending.techidaily.com/logiciel-alternatif-pour-la-sauvegarde-de-disques-wd-une-solution-efficace/"><u>Logiciel Alternatif Pour La Sauvegarde De Disques WD: Une Solution Efficace</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-deleting-an-amazon-s3-bucket-via-console-command-line-or-software-development-kit/"><u>Step-by-Step Guide: Deleting an Amazon S3 Bucket via Console, Command Line, or Software Development Kit</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-solution-resolving-the-dilemma-of-stalled-windows-11-upgrades-at-0-or-99/"><u>Step-by-Step Solution: Resolving the Dilemma of Stalled Windows 11 Upgrades at 0% or 99%</u></a></li>
+<li><a href="https://win-trending.techidaily.com/titre-seo-solution-rapide-pour-la-cartouche-de-compatibilite-sd-raw-non-formattable/"><u>Titre SEO: Solution Rapide Pour La Cartouche De Compatibilité SD RAW Non-Formattable</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
