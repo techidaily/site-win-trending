@@ -1,7 +1,7 @@
 ---
 title: Understanding the Case Sensitive Feature When Cleaning Up Repeats with EmEditor
-date: 2024-10-21T19:16:25.690Z
-updated: 2024-10-29T03:22:09.619Z
+date: 2024-10-31T19:03:55.103Z
+updated: 2024-11-03T16:33:22.930Z
 tags:
   - product
 categories:
@@ -52,29 +52,29 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/1716183627416-new-2024-approved-how-to-add-instagram-filter-to-existing-photos-and-videos/"><u>[New] 2024 Approved How to Add Instagram Filter to Existing Photos and Videos?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-channel-milestone-hurdle-cross-the-10k-view-threshold-fast-for-2024/"><u>[New] Channel Milestone Hurdle – Cross the 10K View Threshold Fast for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-your-dating-game-with-cleverly-crafted-tinder-profiles-for-2024/"><u>[New] Elevate Your Dating Game with Cleverly Crafted Tinder Profiles for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-leading-waterproof-cams-7-compilation-review/"><u>[New] Leading Waterproof Cams #7 Compilation Review</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728500159063-windows/"><u>如何解決Windows</u></a></li>
-<li><a href="https://win-trending.techidaily.com/diy-methods-for-retrieving-non-backup-photo-data-safely/"><u>DIY Methods for Retrieving Non-Backup Photo Data Safely</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-for-successful-download-and-update-of-epson-ds-510-driver-on-your-windows-machine/"><u>Easy Steps for Successful Download and Update of Epson DS-510 Driver on Your Windows Machine</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effortless-hdd-backup-and-sync-with-top-rated-free-software-options-otomatis-file-ke-hard-drive-eksternal/"><u>Effortless HDD Backup and Sync with Top-Rated Free Software Options - Otomatis File Ke Hard Drive Eksternal</u></a></li>
-<li><a href="https://win-trending.techidaily.com/guide-facile-comment-modifier-avec-surete-votre-carte-microsd-sur-android-et-preserver-tous-vos-donnes-originaux/"><u>Guide Facile: Comment Modifier Avec Sûreté Votre Carte MicroSD Sur Android Et Préserver Tous Vos Donnés Originaux</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-make-time-lapse-on-samsung-mobile-for-2024/"><u>How to Make Time Lapse on Samsung Mobile for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-play-8t-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Play 8T to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-optimal-6-secure-virtual-communication-tools-for-smbs/"><u>In 2024, Optimal 6 Secure Virtual Communication Tools for SMBs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/lightning-fast-windows-photo-inspector/"><u>Lightning-Fast Windows Photo Inspector</u></a></li>
-<li><a href="https://win-trending.techidaily.com/logiciel-alternatif-pour-la-sauvegarde-de-disques-wd-une-solution-efficace/"><u>Logiciel Alternatif Pour La Sauvegarde De Disques WD: Une Solution Efficace</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-deleting-an-amazon-s3-bucket-via-console-command-line-or-software-development-kit/"><u>Step-by-Step Guide: Deleting an Amazon S3 Bucket via Console, Command Line, or Software Development Kit</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-solution-resolving-the-dilemma-of-stalled-windows-11-upgrades-at-0-or-99/"><u>Step-by-Step Solution: Resolving the Dilemma of Stalled Windows 11 Upgrades at 0% or 99%</u></a></li>
-<li><a href="https://win-trending.techidaily.com/titre-seo-solution-rapide-pour-la-cartouche-de-compatibilite-sd-raw-non-formattable/"><u>Titre SEO: Solution Rapide Pour La Cartouche De Compatibilité SD RAW Non-Formattable</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-tips-for-stunning-video-content-for-2024/"><u>[Updated] Mastering Instagram Tips for Stunning Video Content for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-secure-your-data-ultimate-guide-on-safely-transferring-sd-card-contents-to-pc/"><u>1. Secure Your Data: Ultimate Guide on Safely Transferring SD Card Contents to PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-instant-mac-screen-savior-free/"><u>2024 Approved Instant Mac Screen Savior - Free</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-fields-with-virtual-reality/"><u>2024 Approved Revolutionizing Fields with Virtual Reality</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-to-flush-the-dns-cache-on-windows-11/"><u>4 Ways to Flush the DNS Cache on Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ven-techniques-to-elevate-your-youtube-engagement-and-reduce-churn-for-2024/"><u>6 Proven Techniques to Elevate Your YouTube Engagement and Reduce Churn for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/bringe-deine-geloschten-selfies-auf-dem-pc-windows-oder-iphone-wieder-zum-leben-losungen-mit-myrecover-services/"><u>Bringe Deine Gelöschten Selfies Auf Dem PC (Windows) Oder iPhone Wieder Zum Leben - Lösungen Mit MyRecover Services</u></a></li>
+<li><a href="https://win-trending.techidaily.com/come-eseguire-un-cancellazione-completa-dellunita-ssd-wd-con-windows-1111/"><u>Come Eseguire Un Cancellazione Completa Dell'Unità SSD WD Con Windows 11/11</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comment-optimiser-la-recuperation-dune-partition-ssd-guide-facile-a-suivre/"><u>Comment Optimiser La Récupération D'Une Partition SSD : Guide Facile À Suivre</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964841048-download-asus-usb-bt500-bluetooth-50-drivers-for-windows-11-10-and-8-get-started-today/"><u>Download Asus USB-BT500 Bluetooth 5.0 Drivers for Windows 11, 10 & 8 – Get Started Today!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/gratis-download-fur-wiederherstellungssystemsoftware-aomei-backupper-systemimages-sichern-und-wiederherstellen/"><u>Gratis Download Für Wiederherstellungssystemsoftware: AOMEI Backupper – Systemimages Sichern Und Wiederherstellen</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guida-passo-passo-per-recuperare-dati-da-una-penna-usb-usando-il-prompt-dei-comandi-cmd/"><u>Guida Passo-Passo per Recuperare Dati Da Una Penna USB Usando Il Prompt Dei Comandi (CMD)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-fix-csr8510-a10-chipset-drivers-on-windows-comprehensive-guide/"><u>How to Fix CSR8510 A10 Chipset Drivers on Windows - Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-14-pro-max-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 14 Pro Max iCloud Lock</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unparalleled-audio-capture-top-9-online-microphone-systems-in-23/"><u>In 2024, Unparalleled Audio Capture Top 9 Online Microphone Systems in '23</u></a></li>
+<li><a href="https://win-trending.techidaily.com/alamn-almhsn-iaadad-nskh-ahtyaty-baanaya-fy-ntham-raid-0-alkhas-bk/"><u>الأمن المحسن: إعداد نسخ احتياطي بعناية في نظام RAID-0 الخاص بك</u></a></li>
+<li><a href="https://win-trending.techidaily.com/diskpart/"><u>ディスクパーティションを削除するためのDiskpartコマンドの詳細ガイド</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
