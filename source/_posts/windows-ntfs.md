@@ -1,7 +1,7 @@
 ---
 title: 如何在不花錢的情況下，通過 Windows NTFS 驅動器複製方法 - 最基本教程
-date: 2024-11-10T21:38:44.355Z
-updated: 2024-11-12T22:48:54.223Z
+date: 2024-11-21T19:09:10.655Z
+updated: 2024-11-23T02:18:21.961Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743fa324bf24feee43e5b085f4.jpg
@@ -18,15 +18,27 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finden Sie auf dieser Seite. Sie können auch erfahren, wie Sie gelöschte Dateien aus dem Papierkorb wiederherstellen können, nachdem dieser geleert wurde, und Sie erhalten entsprechende Tipps zur Wiederherstellung des Papierkorbs.
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Inhaltsverzeichnis** 
 
@@ -37,6 +49,10 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?](https://tools.techidaily.com/ubackup/products/)
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
 
@@ -62,13 +78,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
@@ -76,6 +85,10 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -90,29 +103,12 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -143,10 +139,7 @@ Sicherer Download
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
@@ -214,16 +207,13 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -249,6 +239,10 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -257,21 +251,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -288,22 +268,16 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/outube-studio-mastery-a-comprehensive-video-editing-guide-for-2024/"><u>[New] YouTube Studio Mastery A Comprehensive Video Editing Guide for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-visual-storytelling-and-auditory-art-converting-instagrams-to-songs-for-2024/"><u>[Updated] Visual Storytelling & Auditory Art Converting Instagrams to Songs for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/4-effective-techniques-for-retrieving-lost-voice-memo-content-on-your-iphone/"><u>4 Effective Techniques for Retrieving Lost Voice Memo Content on Your iPhone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/iphone-icloud/"><u>豐富教育：如何重新建立iPhone iCloud疑雲？</u></a></li>
-<li><a href="https://win-trending.techidaily.com/aomei-data-backup-and-recovery-software-fur-windows-und-ios-kostenlose-herunterladen/"><u>AOMEI Data Backup & Recovery Software Für Windows Und iOS - Kostenlose Herunterladen</u></a></li>
-<li><a href="https://video-capture.techidaily.com/breakdown-the-broadcasting-barrier-easy-windows-pc-guide-to-live-tv-recording/"><u>Breakdown the Broadcasting Barrier Easy Windows PC Guide to Live TV Recording</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online-for-2024/"><u>Crafting Cinematic Stories in Extended Seconds A Guide to Creating Spectacularly Long Lasting Video From Still Images Online for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-latest-rtx-3nvidia-geforce-3070-ti-graphics-card-drivers-for-win-11-8-and-7-systems/"><u>Get Latest RTX 3Nvidia GeForce 3070 Ti Graphics Card Drivers for Win 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-windows-11-audio-working-again-proven-strategies-and-tips/"><u>Getting Windows 11 Audio Working Again: Proven Strategies and Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy F54 5G?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721816290619-just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready</u></a></li>
-<li><a href="https://win-top.techidaily.com/movilizar-archivos-de-restauracion-de-windows-11-hacia-onedrive-mediante-herramientas-gratuitas-vias-alternativas/"><u>Movilizar Archivos De Restauración De Windows 11 Hacia Onedrive Mediante Herramientas Gratuitas – Vías Alternativas</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728469817305-onedrive/"><u>OneDriveにおける失われたファイルの回復手順</u></a></li>
-<li><a href="https://win-trending.techidaily.com/pflege-dein-nas-mit-windows-server-201-similar-question/"><u>Pflege Dein NAS Mit Windows Server 201 # Similar Question</u></a></li>
-<li><a href="https://win-trending.techidaily.com/troubleshoot-and-resolve-windows-11-file-errors-caused-by-updates-with-ease/"><u>Troubleshoot and Resolve Windows 11 File Errors Caused by Updates with Ease</u></a></li>
-<li><a href="https://win-trending.techidaily.com/windows-11-blue-screen-soluzione-dettagliata-esegui-il-backup-dei-tuoi-dati-e-segui-questa-guida/"><u>Windows 11 Blue Screen Soluzione Dettagliata: Esegui Il Backup Dei Tuoi Dati E Segui Questa Guida</u></a></li>
-<li><a href="https://win-trending.techidaily.com/windows-111087-2approach/"><u>Windows 系統(11/10/8/7)內自動資料同步的高效方法 - 深入解析 (2種簡易截然不同的Approach)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright/"><u>[New] 2024 Approved Facebook Copyright | What If My Videos Removed Immediately Due to Copyright?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-boost-your-competitive-edge-with-custom-vocal-alteration-techniques-in-free-fire-gaming-no-charge-for-2024/"><u>[New] Boost Your Competitive Edge with Custom Vocal Alteration Techniques in Free Fire Gaming (No Charge!) For 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-sorbet-snapshot-guide-a-thorough-examination-of-screen-recorder-for-2024/"><u>[New] Sorbet Snapshot Guide A Thorough Examination of Screen Recorder for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-comprehensive-tips-for-monitoring-subscriber-engagement/"><u>2024 Approved Comprehensive Tips for Monitoring Subscriber Engagement</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210738908-bid-farewell-to-the-incessant-cursor-twinkle-with-these-proven-solutions/"><u>Bid Farewell to the Incessant Cursor Twinkle with These Proven Solutions!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-guide-to-dividing-images-with-aomei-backupper-software/"><u>Easy Guide to Dividing Images with AOMEI Backupper Software</u></a></li>
+<li><a href="https://win-trending.techidaily.com/exploring-vmware-esxi-freeware-constraints-and-cost-free-data-recovery-options/"><u>Exploring VMware ESXi Freeware Constraints and Cost-Free Data Recovery Options</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-photographic-fundamentals-in-5-minutes-with-snapseed/"><u>In 2024, Photographic Fundamentals in 5 Minutes with Snapseed</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ultimate-guide-seamless-samsung-data-moving-applications-from-win7-to-win11/"><u>Ultimate Guide: Seamless Samsung Data Moving Applications From Win7 to Win11</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728508517855-windows-11/"><u>Windows 11 新版本：创建系统镜像的两种基本技术</u></a></li>
 </ul></div>
 
