@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Video Lessons for Pioneer CDJs: Learn How to Modify and Control Text Size with Ease!"
-date: 2024-11-24T18:49:00.513Z
-updated: 2024-11-30T17:29:40.683Z
+date: 2024-12-01T22:09:00.547Z
+updated: 2024-12-09T05:08:34.867Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ We’ll still attempt to bring you other helpful Digital DJ and karaoke tips dur
 ##### Make sure to check back early next week for the official PCDJ DEX 3 announcement!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,19 +50,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/learncoverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-the-power-of-youtubes-seo-keywords-for-2024/"><u>[Updated] Harnessing the Power of YouTube's SEO Keywords for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-legends-of-arcade-combat-nintendos-top-ten-on-switch-for-2024/"><u>[Updated] Legends of Arcade Combat Nintendo's Top Ten on Switch for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comment-proceder-a-la-suppression-ou-au-desinfection-sans-risque-dun-disque-dur-sous-windows-10/"><u>Comment Procéder À La Suppression Ou Au Désinfection Sans Risque D'un Disque Dur Sous Windows 10</u></a></li>
-<li><a href="https://win-trending.techidaily.com/fixing-windows-11-error-0xc0000098-swift-solutions-and-tips/"><u>Fixing Windows 11 Error 0xC0000098 - Swift Solutions and Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuito-en-la-web-guia-paso-a-paso-para-cambiar-videos-3gp-a-3g2-con-movavi/"><u>Gratuito en La Web: Guía Paso a Paso Para Cambiar Videos 3GP a 3G2 Con Movavi</u></a></li>
-<li><a href="https://win-trending.techidaily.com/hdd-vs-ssd-optimal-choice-for-backup-storage-compare-and-contrast/"><u>HDD Vs. SSD: Optimal Choice For Backup Storage - Compare & Contrast</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 6 Plus to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-screen-grabber-software-in-the-windows-10-arena/"><u>In 2024, Top Screen Grabber Software in the Windows 10 Arena</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-document-printing-speed-in-windows-10/"><u>Optimize Document Printing Speed in Windows 10</u></a></li>
-<li><a href="https://win-trending.techidaily.com/reinitialiser-la-restauration-en-ligne-apres-sa-suppression-sur-windows-11-methodes-rapides-et-efficaces/"><u>Réinitialiser La Restauration en Ligne Après Sa Suppression Sur Windows 11 : Méthodes Rapides Et Efficaces</u></a></li>
-<li><a href="https://win-trending.techidaily.com/rescue-techniques-for-lost-photographs-and-footage-on-hasselblad-cameras-expert-recovery-strategies/"><u>Rescue Techniques for Lost Photographs and Footage on Hasselblad Cameras – Expert Recovery Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-analysis-and-comparisons-by-toms-electronics-experts/"><u>Tech Analysis and Comparisons by Tom's Electronics Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-google-geminis-potential-insider-techniques-unveiled/"><u>Unlocking Google Gemini's Potential: Insider Techniques Unveiled</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>[New] In 2024, Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-turning-fb-videos-into-audible-mp3s-for-2024/"><u>[New] The Ultimate Guide to Turning Fb Videos Into Audible MP3s for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/apples-m1-power-which-macbook-should-you-opt-for/"><u>Apple’s M1 Power Which MacBook Should You Opt For?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/data-salvage-mastery-comprehensive-steps-to-restore-lost-data-from-a-broken-hard-drive-digital-rescue-with-yl-computing/"><u>Data Salvage Mastery: Comprehensive Steps to Restore Lost Data From a Broken Hard Drive - Digital Rescue with YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-to-tones-integrating-chatgpt-with-daws-for-sound/"><u>From Text to Tones: Integrating ChatGPT with DAWs for Sound</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/healed-printer-communication-link/"><u>Healed Printer Communication Link</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/premium-karaoke-experience-dive-into-a-world-of-classic-and-contemporary-country-hits-with-this-weeks-karaoke-cloud-pro-selection/"><u>Premium Karaoke Experience: Dive Into a World of Classic & Contemporary Country Hits with This Week's Karaoke Cloud Pro Selection!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-opening-text-files-with-ease-yl-software-solutions/"><u>Step-by-Step Guide: Opening Text Files with Ease - YL Software Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-unzipping-files-on-windows-with-easy-instructions-yl-solutions/"><u>Step-by-Step Guide: Unzipping Files on Windows with Easy Instructions - YL Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/successful-recovery-strategies-for-ram-errors-tips-by-yl-computing-software-specialists/"><u>Successful Recovery Strategies for RAM Errors: Tips by YL Computing Software Specialists</u></a></li>
 </ul></div>
 

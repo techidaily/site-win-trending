@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Mixer Tutorial: Organizing with Nested Folders & Importing Tracks - Watch Our Demo!"
-date: 2024-11-27T22:16:54.095Z
-updated: 2024-11-30T18:50:53.217Z
+date: 2024-12-02T19:43:40.615Z
+updated: 2024-12-09T03:47:12.642Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,24 +48,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-diving-into-digital-delights-facebook-video-repository-for-2024/"><u>[New] Diving Into Digital Delights Facebook Video Repository for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inside-the-studio-how-magix-video-pro-x-simplifies-production/"><u>[New] Inside the Studio How Magix Video Pro X Simplifies Production</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-essential-techniques-for-vimeo-video-submission-from-mmc/"><u>[Updated] In 2024, Essential Techniques for Vimeo Video Submission From MMC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unleash-artistry-a-curated-list-of-premium-3d-animation-software/"><u>[Updated] In 2024, Unleash Artistry A Curated List of Premium 3D Animation Software</u></a></li>
-<li><a href="https://win-trending.techidaily.com/adding-a-table-structure-to-your-website-through-html-coding-in-emeditor-text-editor/"><u>Adding a Table Structure to Your Website Through HTML Coding in EmEditor Text Editor</u></a></li>
-<li><a href="https://win-trending.techidaily.com/come-recuperare-i-tuoi-dati-eliminati-con-la-guida-completa-post-reset-di-fabbrica-per-windows/"><u>Come Recuperare I Tuoi Dati Eliminati Con La Guida Completa Post-Reset Di Fabbrica per Windows</u></a></li>
-<li><a href="https://win-trending.techidaily.com/guia-completa-para-backup-de-servidor-windows-desde-terminal-dos-estrategias-faciles-de-implementar/"><u>Guía Completa Para Backup De Servidor Windows Desde Terminal: Dos Estrategias Fáciles De Implementar</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-guide-and-solutions-your-essential-questions-answered-with-aomei-backupper/"><u>How-To Guide & Solutions: Your Essential Questions Answered with AOMEI Backupper</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-turning-xmlssattml-into-srt-practical-steps/"><u>In 2024, Turning XML/SSA/TTML Into SRT Practical Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovating-visual-storytelling-drone-techniques-for-2024/"><u>Innovating Visual Storytelling Drone Techniques for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/regreso-a-linea-con-la-particion-gpt-tecnicas-efectivas-de-restauracion-y-solucion/"><u>Regreso a Línea Con La Partición GPT: Técnicas Efectivas De Restauración Y Solución</u></a></li>
-<li><a href="https://win-trending.techidaily.com/seamless-migration-of-windows-systems-to-solid-state-drives-using-bootable-tools-no-reinstallation-necessary/"><u>Seamless Migration of Windows Systems to Solid-State Drives Using Bootable Tools: No Reinstallation Necessary</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-effortless-fixing-of-your-logitech-c615-mouse-software-woes/"><u>Step-by-Step: Effortless Fixing of Your Logitech C615 Mouse Software Woes</u></a></li>
-<li><a href="https://win-trending.techidaily.com/the-sentence-older-homes-often-have-unique-features-such-as-built-in-wardrobes-fireplaces-and-archways-scores-a-complexity-level-of-35-moderate-vocabulary-w241/"><u>The Sentence 'Older Homes Often Have Unique Features Such as Built-In Wardrobes, Fireplaces and Archways' Scores a Complexity Level of 3/5. (Moderate Vocabulary with Specific Architectural References)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-sony-xperia-1-v-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Sony Xperia 1 V Phone Pattern Lock</u></a></li>
-<li><a href="https://win-trending.techidaily.com/troubleshooting-tactics-overcome-the-windows-10-rpc-backup-failure/"><u>Troubleshooting Tactics: Overcome the 'Windows 10 RPC Backup Failure'</u></a></li>
-<li><a href="https://win-trending.techidaily.com/win-1011/"><u>Win 10/11 損失文件重建詳解 - 永久刪除的還原方法</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-breaking-into-the-digital-realm-the-wirecast-approach-for-youtube-streamers/"><u>[New] 2024 Approved Breaking Into the Digital Realm The WireCast Approach for YouTube Streamers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-to-make-good-youtube-banner-dos-and-donts/"><u>[New] In 2024, How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-key-tactics-for-identifying-potential-youtube-co-stars/"><u>[New] In 2024, Key Tactics for Identifying Potential YouTube Co-Stars</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-pop-8-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Pop 8</u></a></li>
+<li><a href="https://win-trending.techidaily.com/dex3-update-alert-a-glimpse-into-the-latest-additions-and-next-gen-tools-for-beatmakers/"><u>DEX3 Update Alert!: A Glimpse Into the Latest Additions and Next-Gen Tools for Beatmakers</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-switch-gaming-with-mac-support/"><u>Dive Into Switch Gaming with Mac Support</u></a></li>
+<li><a href="https://win-trending.techidaily.com/does-the-latest-windows-update-activate-windows-defender-by-default-insights-from-yl-computing/"><u>Does the Latest Windows Update Activate Windows Defender by Default? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/effective-methods-for-cutting-down-computer-power-drain-with-advice-from-yl-software-experts/"><u>Effective Methods for Cutting Down Computer Power Drain with Advice From YL Software Experts</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-enhance-your-pcs-performance-expert-tips-from-yl-computing/"><u>How to Enhance Your PC's Performance: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-fix-common-issues-with-your-printer-expert-tips-from-yl-computing/"><u>How to Fix Common Issues with Your Printer: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y02twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y02Twith/without a PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-secret-language-of-success-top-20-market-phrases/"><u>In 2024, The Secret Language of Success - Top 20 Market Phrases</u></a></li>
+<li><a href="https://win-trending.techidaily.com/in-depth-analysis-how-dj-dex-elevates-your-mixing-skills-on-the-go-with-its-powerful-features-for-ipad-users/"><u>In-Depth Analysis: How DJ Dex Elevates Your Mixing Skills on the Go with Its Powerful Features for iPad Users</u></a></li>
+<li><a href="https://win-trending.techidaily.com/preserve-your-photos-on-pc-master-the-art-of-image-saving-using-yl-software-solutions/"><u>Preserve Your Photos on PC: Master the Art of Image Saving Using YL Software Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/reviving-network-settings-back-to-basics-expert-tips-from-yl-computing-and-yl-software-experts/"><u>Reviving Network Settings Back to Basics: Expert Tips From YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-guide-repairing-your-malfunctioning-scanner-tips-from-yl-computing/"><u>Troubleshooting Guide: Repairing Your Malfunctioning Scanner - Tips From YL Computing</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultrahd-iron-man-visuals-wallpaper-photo-collections-and-hd-desktop-imagery-yl-computing-solutions/"><u>UltraHD Iron Man Visuals: Wallpaper, Photo Collections, & HD Desktop Imagery - YL Computing Solutions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-superior-siri-synthesis-software-for-windowsmac-devices/"><u>Updated Superior Siri Synthesis Software for Windows/Mac Devices</u></a></li>
 </ul></div>
 

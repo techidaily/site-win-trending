@@ -1,7 +1,7 @@
 ---
 title: Introducing PCDJ's Revamped File Manager in Dex 지난 세트 - A Sneak Peek Into Its Modernized Functionality
-date: 2024-11-25T19:50:29.441Z
-updated: 2024-11-30T17:54:43.089Z
+date: 2024-12-01T20:59:46.252Z
+updated: 2024-12-09T09:12:50.310Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ The new browser in our flagship **DJ mixing software** is by far the most robust
 **Please visit the [_home page of our blog_](https://tools.techidaily.com/pcdj/products/) and subscribe to our newsletter on the left hand column so we can let you know when DEX 3 is ready for download!** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/dex3-browser.jpg?fit=640%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-pro-level-video-conferencing-picking-the-best-5-recorders/"><u>[New] 2024 Approved Pro-Level Video Conferencing Picking the Best 5 Recorders</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-rotate-youtube-videos-by-any-angle-for-2024/"><u>[New] How to Rotate YouTube Videos by Any Angle for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-platform-picks-for-prominent-content-creators/"><u>[Updated] 2024 Approved Platform Picks for Prominent Content Creators</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-elevating-the-profile-game-top-strategies-for-compelling-social-media-profiles/"><u>[Updated] Elevating the Profile Game Top Strategies for Compelling Social Media Profiles</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-reddit-discussions-a-list-of-the-ten-greatest/"><u>2024 Approved Top Tier Reddit Discussions - A List of the Ten Greatest</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/engage-now-8-unique-gpts-at-your-fingertips/"><u>Engage Now: 8 Unique GPTs at Your Fingertips</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728488543886-hddssd/"><u>HDDからSSDへの移行：クローン再生とクリーンインストール、どちらが優れていますか？</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-recover-unintentionally-erased-data-on-windows-n-with-myrecover-tool/"><u>How to Recover Unintentionally Erased Data on Windows N with MyRecover Tool</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elevate-your-call-quality-mastering-facetime-recording/"><u>In 2024, Elevate Your Call Quality Mastering FaceTime Recording</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728465073117-macaomei-backupper/"><u>Mac用户完全手册：优化AOMEI Backupper实现精确数据同步</u></a></li>
-<li><a href="https://win-trending.techidaily.com/revive-missing-reminders-in-ios-devices-including-iphone-6-through-latest-models/"><u>Revive Missing Reminders in iOS Devices Including iPhone 6 Through Latest Models</u></a></li>
-<li><a href="https://win-trending.techidaily.com/sieben-schlusselstrategien-sofortige-losungen-fur-den-umgang-mit-der-zugriffsrechteproblematik-in-ordnern/"><u>Sieben Schlüsselstrategien: Sofortige Lösungen Für Den Umgang Mit Der Zugriffsrechteproblematik in Ordnern</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-tutorial-for-moving-and-installing-windows-10-onto-an-alternate-hddssd/"><u>Step-by-Step Tutorial for Moving and Installing Windows 10 Onto an Alternate HDD/SSD</u></a></li>
-<li><a href="https://win-trending.techidaily.com/top-rated-software-for-seamless-windows-11-and-10-system-transfer/"><u>Top Rated Software for Seamless Windows 11 & 10 System Transfer</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-image-cropping-in-fcpx-essential-techniques-for-editors-for-2024/"><u>Updated Image Cropping in FCPX Essential Techniques for Editors for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-cutting-edge-display-selections-10-mac-list/"><u>[New] 2024 Approved Cutting-Edge Display Selections #10 Mac List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-slidestream-creator-pro-macos/"><u>[Updated] 2024 Approved SlideStream Creator Pro (macOS)</u></a></li>
+<li><a href="https://win-trending.techidaily.com/expert-tips-for-diagnosing-and-repairing-troubled-sound-cards-on-your-pc-windows/"><u>Expert Tips for Diagnosing and Repairing Troubled Sound Cards on Your PC (Windows)</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-can-cryptocurrency-transform-your-business-insights-from-yl-software-experts/"><u>How Can Cryptocurrency Transform Your Business? Insights From YL Software Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-itel-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Itel online without jailbreak</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-nord-n30-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus Nord N30 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-like-a-pro-with-top-windows-10-hacks/"><u>Navigate Like a Pro with Top WINDOWS 10 Hacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pros-cons-and-predictions-ai-in-your-budget-strategies/"><u>Pros, Cons, and Predictions: AI in Your Budget Strategies</u></a></li>
+<li><a href="https://win-trending.techidaily.com/rejuvenate-your-printer-drivers-a-comprehensive-tutorial-by-yl-computing/"><u>Rejuvenate Your Printer Drivers - A Comprehensive Tutorial by YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/sing-a-variety-of-songs-in-style-access-exclusive-new-karaoke-cloud-pro-selections-from-early-marchs-update/"><u>Sing a Variety of Songs in Style: Access Exclusive New Karaoke Cloud Pro Selections From Early March's Update!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-a-non-responsive-mouse-causes-and-solutions-insights-from-yl-computing/"><u>Troubleshooting a Non-Responsive Mouse: Causes & Solutions - Insights From YL Computing</u></a></li>
 </ul></div>
 
