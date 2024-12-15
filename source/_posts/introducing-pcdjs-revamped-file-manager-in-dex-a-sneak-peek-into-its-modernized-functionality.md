@@ -1,7 +1,7 @@
 ---
 title: Introducing PCDJ's Revamped File Manager in Dex 지난 세트 - A Sneak Peek Into Its Modernized Functionality
-date: 2024-12-01T20:59:46.252Z
-updated: 2024-12-09T09:12:50.310Z
+date: 2024-12-09T00:59:42.852Z
+updated: 2024-12-15T04:03:56.189Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ The new browser in our flagship **DJ mixing software** is by far the most robust
 **Please visit the [_home page of our blog_](https://tools.techidaily.com/pcdj/products/) and subscribe to our newsletter on the left hand column so we can let you know when DEX 3 is ready for download!** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,18 +72,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/dex3-browser.jpg?fit=640%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-cutting-edge-display-selections-10-mac-list/"><u>[New] 2024 Approved Cutting-Edge Display Selections #10 Mac List</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-slidestream-creator-pro-macos/"><u>[Updated] 2024 Approved SlideStream Creator Pro (macOS)</u></a></li>
-<li><a href="https://win-trending.techidaily.com/expert-tips-for-diagnosing-and-repairing-troubled-sound-cards-on-your-pc-windows/"><u>Expert Tips for Diagnosing and Repairing Troubled Sound Cards on Your PC (Windows)</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-can-cryptocurrency-transform-your-business-insights-from-yl-software-experts/"><u>How Can Cryptocurrency Transform Your Business? Insights From YL Software Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-itel-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Itel online without jailbreak</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-nord-n30-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus Nord N30 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigate-like-a-pro-with-top-windows-10-hacks/"><u>Navigate Like a Pro with Top WINDOWS 10 Hacks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pros-cons-and-predictions-ai-in-your-budget-strategies/"><u>Pros, Cons, and Predictions: AI in Your Budget Strategies</u></a></li>
-<li><a href="https://win-trending.techidaily.com/rejuvenate-your-printer-drivers-a-comprehensive-tutorial-by-yl-computing/"><u>Rejuvenate Your Printer Drivers - A Comprehensive Tutorial by YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/sing-a-variety-of-songs-in-style-access-exclusive-new-karaoke-cloud-pro-selections-from-early-marchs-update/"><u>Sing a Variety of Songs in Style: Access Exclusive New Karaoke Cloud Pro Selections From Early March's Update!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/troubleshooting-a-non-responsive-mouse-causes-and-solutions-insights-from-yl-computing/"><u>Troubleshooting a Non-Responsive Mouse: Causes & Solutions - Insights From YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-igtv-creation-insider-techniques-for-maximum-impact/"><u>[New] 2024 Approved Mastering IGTV Creation Insider Techniques for Maximum Impact</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comment-recuperez-vous-des-videos-de-mariage-supprimees-sur-les-medias-sociaux/"><u>Comment Récupérez-Vous Des Vidéos De Mariage Supprimées Sur Les Médias Sociaux?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/determining-elements-affecting-crypto-asset-values-insights-by-yl-computing/"><u>Determining Elements Affecting Crypto Asset Values: Insights by YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/high-definition-retro-wallpaper-collection-vintage-hd-backgrounds-images-and-graphics-by-yl-computing/"><u>High-Definition Retro Wallpaper Collection: Vintage HD Backgrounds, Images & Graphics by YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-can-regular-disk-defragmentation-improve-your-pcs-performance-insights-from-yl-computing/"><u>How Can Regular Disk Defragmentation Improve Your PC's Performance? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-updates-can-impact-scanner-functionality-and-fixes-insights-from-yl-software-experts/"><u>How Updates Can Impact Scanner Functionality & Fixes - Insights From YL Software Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cold-climate-chronicles-highlights-from-the-icy-stage/"><u>In 2024, Cold Climate Chronicles Highlights From the Icy Stage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-105-classic-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia 105 Classic to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2x-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2x 5G Phone without PIN</u></a></li>
+<li><a href="https://win-trending.techidaily.com/is-there-an-integrated-antivirus-in-windows-defender-exploring-protection-features-insights-by-yl-tech/"><u>Is There an Integrated Antivirus in Windows Defender? Exploring Protection Features - Insights by YL Tech</u></a></li>
+<li><a href="https://win-online.techidaily.com/movavis-wav-3g2/"><u>Movavi's 우정의 단계 : 인터넷을 통해 순수한 WAV 파일을 3G2로 전환하는 방법</u></a></li>
+<li><a href="https://win-trending.techidaily.com/network-adapter-issues-comprehensive-guide-to-diagnosis-and-solutions/"><u>Network Adapter Issues: Comprehensive Guide to Diagnosis and Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/overcoming-laptop-display-issues-effective-strategies-by-yl-technology-experts/"><u>Overcoming Laptop Display Issues: Effective Strategies by YL Technology Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-remote-control-applications-for-your-android-device-via-pc-the-ultimate-2024-guide/"><u>Top 5 Remote Control Applications for Your Android Device via PC: The Ultimate 2024 Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-top-rated-portable-computers-perfect-for-telecommuters-as-reviewed-by-zdnet/"><u>Ultimate Guide: Top-Rated Portable Computers Perfect for Telecommuters, as Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unveiling-pivotal-moments-in-history-dating-the-commencement-of-the-initial-opium-conflict-analyzed-by-yl-computing-specialists/"><u>Unveiling Pivotal Moments in History: Dating the Commencement of the Initial Opium Conflict – Analyzed by YL Computing Specialists</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boost Your DJ Set-Up Using the Latest Playlist Tools in Pioneer's DEX 3.3 Software Update
-date: 2024-12-03T19:45:39.415Z
-updated: 2024-12-08T18:35:34.405Z
+date: 2024-12-08T03:51:53.123Z
+updated: 2024-12-14T21:46:39.822Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ In the video below we show you how to use the new “_Multi-Track Selection_” 
 ##### HOW TO USE THE SIDELIST AND MULTI-TRACK SELECTION TO BUILD PLAYLISTS IN DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/multitrack-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-screen-recording-made-simple-methodical-guidebook/"><u>[New] 2024 Approved Screen Recording Made Simple Methodical Guidebook</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-eye-catching-thumbnails-the-top-20-youtube-fonts-unveiled/"><u>2024 Approved Eye-Catching Thumbnails The Top 20 YouTube Fonts Unveiled</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-gaming-evolution-top-7-stardew-valley-enhancements-7/"><u>2024 Approved Gaming Evolution Top 7 Stardew Valley Enhancements (#7)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assessing-virtual-realitys-dual-facets-pros-and-cons/"><u>Assessing Virtual Reality’s Dual Facets Pros & Cons</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-to-follow-strategies-for-mending-prevalent-tv-problems/"><u>Easy-to-Follow Strategies for Mending Prevalent TV Problems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-impact-of-m3-apple-silicon-the-future-stretching-beyond-new-mac-devices-zdnet-insights/"><u>Exploring the Impact of M3 Apple Silicon: The Future Stretching Beyond New Mac Devices | ZDNET Insights</u></a></li>
-<li><a href="https://win-trending.techidaily.com/find-out-what-graphics-card-you-have-with-ease-tips-from-yl-software-experts/"><u>Find Out What Graphics Card You Have with Ease - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-trending.techidaily.com/fix-broken-data-with-ease-yl-software-unveils-techniques-to-recover-corrupted-files/"><u>Fix Broken Data with Ease: YL Software Unveils Techniques to Recover Corrupted Files</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fully-update-your-wacom-intuos-model-s-with-latest-drivers-on-windows-system-boost-productivity-in-art-and-design-workflows/"><u>Fully Update Your Wacom Intuos Model S with Latest Drivers on Windows System - Boost Productivity in Art and Design Workflows</u></a></li>
-<li><a href="https://win-trending.techidaily.com/get-the-latest-pcdj-red-app-version-update-download-today/"><u>Get the Latest PCDJ RED App Version Update – Download Today!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpts-capability-as-a-health-information-beacon/"><u>GPT’s Capability as a Health Information Beacon</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-can-i-evaluate-the-performance-of-my-graphics-card-without-updating-drivers-insights-from-yl-computing/"><u>How Can I Evaluate the Performance of My Graphics Card Without Updating Drivers? - Insights From YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-fix-a-windows-pc-when-it-wont-detect-the-internal-hdd-expert-advice-from-yl-computing/"><u>How to Fix a Windows PC When It Won't Detect the Internal HDD: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/mastering-your-assets-a-guide-to-quickly-locate-and-track-your-bitcoin-and-altcoin-holdings-yl-software-solutions/"><u>Mastering Your Assets: A Guide to Quickly Locate and Track Your Bitcoin & Altcoin Holdings – YL Software Solutions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/perfect-your-scans-with-no-more-color-problems-a-comprehensive-fix-by-yl-software-experts/"><u>Perfect Your Scans with No More Color Problems: A Comprehensive Fix by YL Software Experts</u></a></li>
-<li><a href="https://win-trending.techidaily.com/personalizing-windows-search-preferences-a-guide-by-yl-software-experts/"><u>Personalizing Windows Search Preferences: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-exploring-with-tomtom-actioncam-new-year/"><u>[New] Exploring with TomTom ActionCam New Year</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screen-recorder-apps-for-iphoneipad-users-for-2024/"><u>[New] Screen Recorder Apps for iPhone/iPad Users for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-filmmaking-faceoff-hero-session-x-or-polaroid-cube/"><u>[Updated] 2024 Approved Filmmaking Faceoff Hero Session X or Polaroid Cube?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming/"><u>[Updated] From Obscurity to Prominence How to Thrive in Youtube Streaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-mobiles-best-explore-8-leading-free-mp3-download-applications/"><u>[Updated] In 2024, Mobile's Best Explore 8 Leading Free MP3 Download Applications</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-monetary-value-of-each-youtube-brand-partnership-for-2024/"><u>[Updated] The Monetary Value of Each YouTube Brand Partnership for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-guide-adjusting-screen-display-preferences-with-yl-computings-solutions/"><u>Easy Guide: Adjusting Screen Display Preferences with YL Computing's Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/eradicate-coffee-stains-in-snapshits-iphones-free-red-eye-fix/"><u>Eradicate Coffee Stains in Snapshits IPhone's Free Red-Eye Fix</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-7-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 7 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/navigating-through-system-settings-tutorial-on-accessing-the-programs-and-features-option-with-yl-tech-support/"><u>Navigating Through System Settings: Tutorial on Accessing the Programs & Features Option with YL Tech Support</u></a></li>
+<li><a href="https://win-trending.techidaily.com/resolving-image-quality-issues-tips-for-clear-scans-from-yl-software-solutions/"><u>Resolving Image Quality Issues: Tips for Clear Scans From YL Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-error-resolution-in-windows-11s-setup-process/"><u>Simplifying Error Resolution in Windows 11'S Setup Process</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solving-graphics-card-driver-issues-a-step-by-step-guide-by-yl-computing/"><u>Solving Graphics Card Driver Issues: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-ensuring-your-gpus-driver-is-current-with-tips-from-yl-software/"><u>Step-by-Step Guide: Ensuring Your GPU's Driver Is Current with Tips From YL Software</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-repairing-and-rebooting-faulty-hardware-drivers-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Repairing and Rebooting Faulty Hardware Drivers - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/top-rated-system-tuning-applications-discover-how-yl-computing-leads-with-innovative-solutions/"><u>Top Rated System Tuning Applications: Discover How YL Computing Leads with Innovative Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/uncovering-hidden-treasures-a-step-by-step-guide-to-show-invisible-files-on-your-windows-10-pc-yl-software-solutions/"><u>Uncovering Hidden Treasures: A Step-by-Step Guide to Show Invisible Files on Your Windows 10 PC - YL Software Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unexpected-self-installation-of-hp-printer-drivers-impact-on-windows-systems-and-security-concerns/"><u>Unexpected Self-Installation of HP Printer Drivers: Impact on Windows Systems and Security Concerns</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unleash-your-inner-star-with-new-partytyme-latest-karaoke-song-catalog-feb-mar-18-sign-up-for-a-singing-subscription/"><u>Unleash Your Inner Star with New Partytyme: Latest Karaoke Song Catalog (Feb-Mar '18) - Sign Up for a Singing Subscription!</u></a></li>
 </ul></div>
 
