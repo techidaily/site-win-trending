@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Mixer Tutorial: Organizing with Nested Folders & Importing Tracks - Watch Our Demo!"
-date: 2024-12-12T22:13:00.832Z
-updated: 2024-12-15T04:24:12.204Z
+date: 2024-12-18T06:24:41.751Z
+updated: 2024-12-23T23:51:20.592Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,15 +48,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ig-reel-secrets-pausing-time-for-creative-impact/"><u>2024 Approved IG Reel Secrets Pausing Time for Creative Impact</u></a></li>
-<li><a href="https://win-trending.techidaily.com/diy-gpu-upgrade-easy-installation-tips-for-your-graphics-card-with-guidance-from-yl-software-professionals/"><u>DIY GPU Upgrade: Easy Installation Tips for Your Graphics Card with Guidance From YL Software Professionals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-fixing-inoperative-mics-on-windows-1110-for-seamless-google-meetings/"><u>Get Your Sound Back: Fixing Inoperative Mics on Windows 11/10 for Seamless Google Meetings</u></a></li>
-<li><a href="https://win-trending.techidaily.com/mastering-windows-customization-adjusting-the-control-panel-settings-with-expert-advice-from-yl-software/"><u>Mastering Windows Customization: Adjusting the Control Panel Settings with Expert Advice From YL Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-color-grading-101-unifying-your-video-clips-in-powerdirector/"><u>New Color Grading 101 Unifying Your Video Clips in PowerDirector</u></a></li>
-<li><a href="https://win-trending.techidaily.com/revive-your-pcs-performance-with-fresh-device-drivers-expert-advice-by-yl-softwares/"><u>Revive Your PC's Performance with Fresh Device Drivers - Expert Advice by YL Softwares</u></a></li>
-<li><a href="https://win-trending.techidaily.com/solutions-when-your-hardware-doesnt-connect-with-windows-expert-advice-from-yl-computing/"><u>Solutions When Your Hardware Doesn't Connect with Windows: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/176192-9781416500575-three-men-seeking-monsters/"><u>Three Men Seeking Monsters | Free Book</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-most-sought-after-game-systems/"><u>Unveiling the Most Sought-After Game Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-ps3-simulators-for-windows-users-top-5/"><u>[New] Essential PS3 Simulators for Windows Users (Top 5)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-darktable-pro-finding-the-best-paired-editor/"><u>[Updated] 2024 Approved Darktable Pro Finding the Best Paired Editor</u></a></li>
+<li><a href="https://win-trending.techidaily.com/automatic-file-association-in-windows-a-step-by-step-guide-yl-computing-blog/"><u>Automatic File Association in Windows: A Step-by-Step Guide - YL Computing Blog</u></a></li>
+<li><a href="https://win-trending.techidaily.com/enhancing-system-efficiency-top-techniques-and-software-solutions-by-yl-experts/"><u>Enhancing System Efficiency: Top Techniques & Software Solutions by YL Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-enhanced-browsing-introducing-the-latest-arc-browser-for-windows-10-users/"><u>Experience Enhanced Browsing: Introducing the Latest Arc Browser for Windows 10 Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/explore-vivid-skies-highlighted-hdr-web-platforms-for-2024/"><u>Explore Vivid Skies Highlighted HDR Web Platforms for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-can-you-swiftly-restore-defaults-in-your-control-panel-settings-insights-from-yl-computing/"><u>How Can You Swiftly Restore Defaults in Your Control Panel Settings? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/navigating-through-system-settings-tutorial-on-accessing-the-programs-and-features-option-with-yl-tech-support/"><u>Navigating Through System Settings: Tutorial on Accessing the Programs & Features Option with YL Tech Support</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-editing-gopro-videos-on-mac-best-practices-and-software/"><u>New In 2024, Editing GoPro Videos on Mac Best Practices and Software</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-repairing-and-rebooting-faulty-hardware-drivers-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Repairing and Rebooting Faulty Hardware Drivers - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/top-rated-system-tuning-applications-discover-how-yl-computing-leads-with-innovative-solutions/"><u>Top Rated System Tuning Applications: Discover How YL Computing Leads with Innovative Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/uncovering-hidden-treasures-a-step-by-step-guide-to-show-invisible-files-on-your-windows-10-pc-yl-software-solutions/"><u>Uncovering Hidden Treasures: A Step-by-Step Guide to Show Invisible Files on Your Windows 10 PC - YL Software Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722894065420-uncovering-solutions-troubleshooting-missing-youtube-comments-effectively/"><u>Uncovering Solutions: Troubleshooting Missing YouTube Comments Effectively</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unleash-your-inner-star-with-new-partytyme-latest-karaoke-song-catalog-feb-mar-18-sign-up-for-a-singing-subscription/"><u>Unleash Your Inner Star with New Partytyme: Latest Karaoke Song Catalog (Feb-Mar '18) - Sign Up for a Singing Subscription!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/video-second-count-20-megabits-file-size-for-2024/"><u>Video Second Count 20 Megabits File Size for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visionary-virtual-worlds-the-top-ten-sci-fi-films-of-the-metaverse-age/"><u>Visionary Virtual Worlds The Top Ten Sci-Fi Films of the Metaverse Age</u></a></li>
 </ul></div>
 
