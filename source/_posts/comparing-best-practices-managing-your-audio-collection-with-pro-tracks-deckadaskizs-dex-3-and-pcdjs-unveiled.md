@@ -1,7 +1,7 @@
 ---
 title: "Comparing Best Practices: Managing Your Audio Collection with Pro Tracks - DeckaDAskiz's Dex 3 and PCDJs Unveiled"
-date: 2024-12-19T17:15:44.563Z
-updated: 2024-12-24T01:41:17.468Z
+date: 2024-12-26T23:35:02.363Z
+updated: 2024-12-29T18:45:26.066Z
 tags:
   - product
 categories:
@@ -24,10 +24,6 @@ If you’re new to our DJ mixing software or just want to know the preferred met
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How-To Import Tracks And Update The DEX 3 or DEX 3 RE Database With New Music
 
 **First, a general explanation:** 
@@ -41,25 +37,25 @@ Tracks added to the database (list) and/or user lists (playlists) are also autom
 With an understanding of these two general [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) import methods, we’ll now provide our staff suggested method for both importing your library initially, and updating it moving forward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Making sure your entire existing track library is in DEX 3’s or DEX 3 RE’s internal database and search cache:
 
 ![Expand Explorer Tab in DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/07/explorer-expand.jpg?fit=500%2C500&ssl=1 "Expand Explorer Tab in DEX 3")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Do a bulk import of all your tracks into the master database list.** Expand the ‘**Explorer**‘ tab in the navigation pane (bottom left) by clicking on the name ‘Explorer’. Scroll down and you’ll find your internal hard drive listed and any external hard drives that are connected to the machine. Navigate to and right-click on the parent folder (or hard drive letter itself) where all your existing tracks reside and from the drop down menu select “**add to database**”’
 
 ![Add to database DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/07/add-to-database.jpg?fit=500%2C500&ssl=1 "Add to database DEX 3")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Clicking “**add to database**” will start importing all your tracks to create a master list in the database list (no matter how many folders/levels deep), therefore also adding the tracks to the internal database and search cache. \[_**IMPORTANT NOTE:**_ When you add the folder, and DEX 3/DEX 3 RE displays the message “this folder has been added” – click OK. Now scroll up to and click on the database name (list) at the very top left side of the navigation pane in the file browser. Then, **SCROLL TO THE BOTTOM** of the list as you will see songs rapidly pilling into the list from the bottom as the tag data is being read in and added. You will want to make sure this process is done (so you do not see any more songs pilling in from the bottom of the list) before adding any more music or continuing to the next suggested step.\]
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For browsing your track collection and updating DEX 3 or DEX 3’s database when new tracks are added to your system:
@@ -67,7 +63,7 @@ Clicking “**add to database**” will start importing all your tracks to creat
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/add-to-favorites.jpg?fit=500%2C500&ssl=1 "Add to Favorites DEX 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Now nest all your music (and/or music video or karaoke) folders as favorites.** Under explorer tab in DEX 3/DEX 3 RE navigate to and access a parent (main) folder your tracks are in and right click on the folder – select “**add to favorites**“. This will nest the selected folder under “**Favorites**” (heart icon on the browser pane) for direct access and browsing — so it’s there and ready to view every time you launch [DEX 3](https://tools.techidaily.com/pcdj/products/) or [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) in the future. Repeat this process for all of your main music/music video and/or karaoke folders. Add your folders as favorites is ideal for when you just want to dig for music manually, and for updating the internal database and search cache when new tracks are added to your hard drive.
@@ -79,6 +75,10 @@ Clicking “**add to database**” will start importing all your tracks to creat
 Using this PCDJ Staffer method, by importing all songs into the DJ mixing software’s database list initially and then accessing folders under favorites for updating your library, you can swiftly make sure all your existing tracks are accessible and searchable — and update the database and search cache with freshly added songs easily.
 
 _Have questions about **importing music into DEX 3**, our **DJ mixing software** or how to **update the database**? Please leave them in the comments section below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -99,15 +99,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/tracklibrary-staff.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-swiftly-tweak-your-stories-frame-rates-on-instagram/"><u>[New] Swiftly Tweak Your Stories' Frame Rates on Instagram</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-achieving-perfect-soundscape-essential-equipment-guide-for-podcasters/"><u>[Updated] Achieving Perfect Soundscape Essential Equipment Guide for Podcasters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-high-performance-video-calls-a-curated-ranking-of-top-10-apps/"><u>[Updated] In 2024, High-Performance Video Calls A Curated Ranking of Top 10 Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-channels-to-champions-leveraging-lingo-in-telegram-marketing/"><u>2024 Approved From Channels to Champions Leveraging Lingo in Telegram Marketing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/easy-guide-adjusting-screen-display-preferences-with-yl-computings-solutions/"><u>Easy Guide: Adjusting Screen Display Preferences with YL Computing's Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-dream-to-display-turning-ideas-into-ai-images/"><u>From Dream to Display: Turning Ideas Into AI Images</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-effective-ways-to-watch-multiple-youtube-videos-at-one-time/"><u>In 2024, Effective Ways to Watch Multiple YouTube Videos at One Time</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-ensuring-your-gpus-driver-is-current-with-tips-from-yl-software/"><u>Step-by-Step Guide: Ensuring Your GPU's Driver Is Current with Tips From YL Software</u></a></li>
-<li><a href="https://win-trending.techidaily.com/top-rated-system-tuning-applications-discover-how-yl-computing-leads-with-innovative-solutions/"><u>Top Rated System Tuning Applications: Discover How YL Computing Leads with Innovative Solutions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/uncovering-hidden-treasures-a-step-by-step-guide-to-show-invisible-files-on-your-windows-10-pc-yl-software-solutions/"><u>Uncovering Hidden Treasures: A Step-by-Step Guide to Show Invisible Files on Your Windows 10 PC - YL Software Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-utilizing-royalty-free-beats-in-your-youtube-clips/"><u>[Updated] 2024 Approved Utilizing Royalty-Free Beats in Your YouTube Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-magix-vpxs-innovative-editing-capabilities/"><u>[Updated] Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728476522186-aomei-backupper/"><u>AOMEI Backupper雙重同步：導入方法及最佳環境設定指南</u></a></li>
+<li><a href="https://win-trending.techidaily.com/crypto-transactions-simplified-with-yl-software-solutions-buy-and-sell-securely/"><u>Crypto Transactions Simplified with YL Software Solutions - Buy and Sell Securely!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/deciphering-energy-management-features-insights-from-yl-software/"><u>Deciphering Energy Management Features - Insights From YL Software</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/digital-workforce-corporate-change-and-business-transformation/"><u>Digital Workforce, Corporate Change, and Business Transformation.</u></a></li>
+<li><a href="https://win-trending.techidaily.com/diy-gpu-upgrade-easy-installation-tips-for-your-graphics-card-with-guidance-from-yl-software-professionals/"><u>DIY GPU Upgrade: Easy Installation Tips for Your Graphics Card with Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/faster-pcs-with-windows-10-techniques-to-reduce-boot-duration/"><u>Faster PCs with Windows 10: Techniques to Reduce Boot Duration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fond-memories-old-phone-xxs-photography-for-2024/"><u>Fond Memories Old Phone Xx's Photography for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/high-definition-june-2019-themes-and-desktop-pictures-by-yl-computing-your-ultimate-digital-decoration/"><u>High-Definition June 2019 Themes & Desktop Pictures by YL Computing: Your Ultimate Digital Decoration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-hp-laptop-ultimate-guide-to-screen-recording-methods/"><u>In 2024, Mastering HP Laptop Ultimate Guide to Screen Recording Methods</u></a></li>
+<li><a href="https://win-trending.techidaily.com/introducing-pcdjs-revamped-file-manager-in-dex-a-sneak-peek-into-its-modernized-functionality/"><u>Introducing PCDJ's Revamped File Manager in Dex 지난 세트 - A Sneak Peek Into Its Modernized Functionality</u></a></li>
+<li><a href="https://win-trending.techidaily.com/is-it-worth-upgrading-your-graphics-card-for-optimal-gaming-performance-insights-from-yl-software/"><u>Is It Worth Upgrading Your Graphics Card for Optimal Gaming Performance: Insights From YL Software</u></a></li>
+<li><a href="https://win-trending.techidaily.com/mastering-windows-customization-adjusting-the-control-panel-settings-with-expert-advice-from-yl-software/"><u>Mastering Windows Customization: Adjusting the Control Panel Settings with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-trending.techidaily.com/revive-your-pcs-performance-with-fresh-device-drivers-expert-advice-by-yl-softwares/"><u>Revive Your PC's Performance with Fresh Device Drivers - Expert Advice by YL Softwares</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-virtual-reality-the-3-game-changing-upgrades-youll-love-on-the-latest-meta-quest-models-insights-from-zdnet/"><u>Revolutionizing Virtual Reality: The 3 Game-Changing Upgrades You'll Love on the Latest Meta Quest Models | Insights From ZDNET</u></a></li>
+<li><a href="https://article-helps.techidaily.com/shoot-smart-comparing-gopro-models-intensively/"><u>Shoot Smart Comparing GoPro Models Intensively</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solutions-when-your-hardware-doesnt-connect-with-windows-expert-advice-from-yl-computing/"><u>Solutions When Your Hardware Doesn't Connect with Windows: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/the-convenience-of-uwp-shortcuts-in-windows-11/"><u>The Convenience of UWP Shortcuts in Windows 11</u></a></li>
 </ul></div>
 
