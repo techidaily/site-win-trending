@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Video Lessons for Pioneer CDJs: Learn How to Modify and Control Text Size with Ease!"
-date: 2024-12-27T01:02:42.267Z
-updated: 2024-12-29T22:25:32.842Z
+date: 2025-01-05T23:52:15.384Z
+updated: 2025-01-08T22:02:49.968Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ We’ll still attempt to bring you other helpful Digital DJ and karaoke tips dur
 ##### Make sure to check back early next week for the official PCDJ DEX 3 announcement!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/learncoverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-pioneering-sci-fi-escapades-10-movies-into-uncharted-realms/"><u>[New] In 2024, Pioneering Sci-Fi Escapades 10 Movies Into Uncharted Realms</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-digital-asset-management-implementing-watermarks-on-instagram/"><u>[Updated] Digital Asset Management Implementing Watermarks on Instagram</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-7-key-strategies-for-perfect-macro-video-shooting/"><u>2024 Approved 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1732515920555-ylyl/"><u>启动新的民主革命：YL计算机对比分析—YL软件解答</u></a></li>
-<li><a href="https://win11.techidaily.com/altering-windows-11s-cam-access-silence-protocol/"><u>Altering Windows 11'S Cam Access Silence Protocol</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comprehensive-tutorial-on-scanner-problem-solving-techniques-from-yl-computing-experts/"><u>Comprehensive Tutorial on Scanner Problem-Solving Techniques From YL Computing Experts</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/1724313688388-cookiebot-driven-marketing-automation-solutions/"><u>Cookiebot-Driven Marketing Automation Solutions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-the-latest-pcdj-dj-software-explore-enhanced-features-in-dex-3-v31010/"><u>Download the Latest PCDJ DJ Software - Explore Enhanced Features in Dex 3 V3.10.1.0</u></a></li>
-<li><a href="https://win-trending.techidaily.com/identifying-your-graphics-card-a-comprehensive-guide-tech-solutions-by-yl/"><u>Identifying Your Graphics Card: A Comprehensive Guide - Tech Solutions by YL</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators/"><u>In 2024, Essential Guide The Top 10 Inexpensive YouTube Channels for Visual Creators</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-s-hottest-2d-animation-software-reviews-and-comparisons/"><u>In 2024, S Hottest 2D Animation Software Reviews and Comparisons</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-what-to-use-instead-of-virtualdub-best-video-editing-tools/"><u>New In 2024, What to Use Instead of VirtualDub Best Video Editing Tools</u></a></li>
-<li><a href="https://win-trending.techidaily.com/simplifying-document-combination-merge-pdfs-seamlessly-using-yl-computing-solutions/"><u>Simplifying Document Combination: Merge PDFs Seamlessly Using YL Computing Solutions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/strategies-and-aspirations-exploring-the-political-agenda-under-mao-zedong-for-chinas-future-with-insights-from-yl-software/"><u>Strategies and Aspirations: Exploring the Political Agenda Under Mao Zedong for China’s Future with Insights From YL Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-lowdown-on-samsung-galaxy-watch-7-explore-price-points-release-info-specs-and-fresh-announcements/"><u>The Complete Lowdown on Samsung Galaxy Watch 7 – Explore Price Points, Release Info, Specs, and Fresh Announcements</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-lowdown-on-lg-channels-crucial-points-everyone-should-know/"><u>The Lowdown on LG Channels: Crucial Points Everyone Should Know</u></a></li>
-<li><a href="https://win-trending.techidaily.com/understanding-power-settings-in-windows-a-guide-to-your-pcs-energy-management-yl-computing/"><u>Understanding Power Settings in Windows: A Guide to Your PC's Energy Management - YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/yl-computings-guide-conducting-simple-scanner-diagnostics/"><u>YL Computing's Guide: Conducting Simple Scanner Diagnostics</u></a></li>
-<li><a href="https://win-trending.techidaily.com/yl-softwares-quick-how-to-driver-update-through-the-control-panel-for-optimal-performance/"><u>YL Software's Quick How-To: Driver Update Through the Control Panel for Optimal Performance</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-5-simple-steps-to-quickly-improve-your-filmmaking-skills/"><u>[New] 5 Simple Steps to Quickly Improve Your Filmmaking Skills</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-synthesizing-best-canon-sequential-videos-for-2024/"><u>[New] Synthesizing Best Canon Sequential Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands/"><u>[Updated] 2024 Approved The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-woes-no-more-a-step-by-step-fix-for-pairing-problems-on-windows-11-insider-tips/"><u>Bluetooth Woes No More: A Step-by-Step Fix for Pairing Problems on Windows 11 - Insider Tips</u></a></li>
+<li><a href="https://win-trending.techidaily.com/elegant-silk-spectre-desktop-wallpapers-and-hd-imagery-collection-yl-computing-solutions/"><u>Elegant Silk Spectre Desktop Wallpapers & HD Imagery Collection - YL Computing Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/exploring-the-architect-of-the-chinese-communist-movement-key-leadership-and-historical-impact/"><u>Exploring the Architect of the Chinese Communist Movement: Key Leadership and Historical Impact</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-do-you-fix-windows-pc-graphics-card-issues-expert-insights-from-yl-computing/"><u>How Do You Fix Windows PC Graphics Card Issues: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-channel-charisma-techniques-for-amplifying-youtube-visibility/"><u>In 2024, Channel Charisma Techniques for Amplifying YouTube Visibility</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-edgeplus-2023-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Edge+ (2023) online without jailbreak</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-langchain-llm-tutorial-for-enthusiasts/"><u>Step-by-Step LangChain LLM Tutorial for Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/tomorrows-os-reimagining-windows-post-11/"><u>Tomorrow’s OS: Reimagining Windows Post-11</u></a></li>
+<li><a href="https://win-trending.techidaily.com/total-uninstallation-steps-for-full-software-eradication-by-yl-computing-experts/"><u>Total Uninstallation Steps for Full Software Eradication by YL Computing Experts</u></a></li>
 </ul></div>
 

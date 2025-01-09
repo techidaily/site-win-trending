@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Mixer Tutorial: Organizing with Nested Folders & Importing Tracks - Watch Our Demo!"
-date: 2024-12-25T23:21:58.957Z
-updated: 2024-12-29T17:45:15.450Z
+date: 2025-01-04T03:33:54.581Z
+updated: 2025-01-08T17:51:27.093Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,21 +48,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-achieving-high-res-on-twitter-vids-for-2024/"><u>[New] Achieving High-Res on Twitter Vids for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-maximizing-instagram-video-lengths-a-step-by-step-guide/"><u>[Updated] 2024 Approved Maximizing Instagram Video Lengths A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-films-finest-closure-kits-grab-em-without-cost/"><u>[Updated] Film's Finest Closure Kits – Grab 'Em Without Cost</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-integrating-youtube-into-tv-sets-with-loop-features/"><u>[Updated] Integrating YouTube Into TV Sets with Loop Features</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-plotting-pioneering-partings/"><u>[Updated] Plotting Pioneering Partings</u></a></li>
-<li><a href="https://win-trending.techidaily.com/beat-the-heat-with-new-features-on-karaoke-cloud-pro-get-ready-for-a-summer-of-musical-bliss-and-easy-pcdj-setups/"><u>Beat the Heat with New Features on Karaoke Cloud Pro - Get Ready for a Summer of Musical Bliss & Easy PCDJ Setups!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/crypto-transactions-simplified-with-yl-software-solutions-buy-and-sell-securely/"><u>Crypto Transactions Simplified with YL Software Solutions - Buy and Sell Securely!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/deciphering-energy-management-features-insights-from-yl-software/"><u>Deciphering Energy Management Features - Insights From YL Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/demystifying-complexities-a-guide-to-understanding-slug-lines/"><u>Demystifying Complexities A Guide to Understanding Slug Lines</u></a></li>
-<li><a href="https://win-trending.techidaily.com/introducing-pcdjs-revamped-file-manager-in-dex-a-sneak-peek-into-its-modernized-functionality/"><u>Introducing PCDJ's Revamped File Manager in Dex 지난 세트 - A Sneak Peek Into Its Modernized Functionality</u></a></li>
-<li><a href="https://win-trending.techidaily.com/is-it-worth-upgrading-your-graphics-card-for-optimal-gaming-performance-insights-from-yl-software/"><u>Is It Worth Upgrading Your Graphics Card for Optimal Gaming Performance: Insights From YL Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-joy-con-connection-issues-with-switch-system/"><u>Navigating Through Joy-Con Connection Issues with Switch System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-missing-or-not-found-msvcr71dll-file-issues/"><u>Solutions for Resolving 'Missing or Not Found' MSVCR71.DLL File Issues</u></a></li>
-<li><a href="https://win-trending.techidaily.com/solutions-when-your-hardware-doesnt-connect-with-windows-expert-advice-from-yl-computing/"><u>Solutions When Your Hardware Doesn't Connect with Windows: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/the-ultimate-guide-clearing-temporary-data-from-pcs-with-yl-software-expertise/"><u>The Ultimate Guide: Clearing Temporary Data From PCs with YL Software Expertise</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-epic-video-with-gopro-time-lapse-strategies-for-2024/"><u>Unlock Epic Video with GoPro Time Lapse Strategies for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-short-segment-screenplay-snippet/"><u>[New] 2024 Approved Short Segment Screenplay Snippet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>[Updated] In 2024, The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-guide-to-choosing-between-ipad-pro-and-macbook-pro/"><u>A Comprehensive Guide to Choosing Between iPad Pro & MacBook Pro</u></a></li>
+<li><a href="https://win-trending.techidaily.com/data-salvage-mastery-comprehensive-steps-to-restore-lost-data-from-a-broken-hard-drive-digital-rescue-with-yl-computing/"><u>Data Salvage Mastery: Comprehensive Steps to Restore Lost Data From a Broken Hard Drive - Digital Rescue with YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-steps-creating-a-new-user-profile-on-windows-via-the-control-panel-tutorial-by-yl-computing/"><u>Easy Steps: Creating a New User Profile on Windows via the Control Panel – Tutorial by YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-way-to-modify-screen-configuration-on-windows-through-the-control-panel-insights-by-yl-software-experts/"><u>Easy Way to Modify Screen Configuration on Windows Through the Control Panel - Insights by YL Software Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/feel-motivated-10-epic-movies-with-deep-impact/"><u>Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-ensure-up-to-date-graphics-driver-support-on-your-pc-advice-by-yl-software-experts/"><u>How To Ensure Up-To-Date Graphics Driver Support on Your PC - Advice by YL Software Experts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>In 2024, Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oneplus-ace-2v-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on OnePlus Ace 2V with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solving-your-pcs-mobo-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Your PC's Mobo Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/speed-meets-style-an-in-depth-look-at-glion-dollys-luxury-e-scooter/"><u>Speed Meets Style: An In-Depth Look at Glion Dolly's Luxury E-Scooter</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-opening-text-files-with-ease-yl-software-solutions/"><u>Step-by-Step Guide: Opening Text Files with Ease - YL Software Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-restoring-your-scanners-drives-with-ease/"><u>Step-by-Step Guide: Restoring Your Scanner's Drives with Ease</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-unzipping-files-on-windows-with-easy-instructions-yl-solutions/"><u>Step-by-Step Guide: Unzipping Files on Windows with Easy Instructions - YL Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/successful-recovery-strategies-for-ram-errors-tips-by-yl-computing-software-specialists/"><u>Successful Recovery Strategies for RAM Errors: Tips by YL Computing Software Specialists</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/usbwindows-1011hdd/"><u>USBドライブとして使用するためのWindows 10/11で外部HDDの初期化手順</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/warehouse-in-the-sky-top-pricing-on-demand/"><u>Warehouse in the Sky Top Pricing on Demand</u></a></li>
 </ul></div>
 

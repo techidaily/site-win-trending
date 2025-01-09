@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your External Storage Problems: How to Get an Undetectable HDD Working Again!"
-date: 2024-12-26T02:16:00.815Z
-updated: 2024-12-29T22:01:30.495Z
+date: 2025-01-01T22:47:20.760Z
+updated: 2025-01-09T05:04:29.677Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e7730f720ac972d7ab64101094f.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -61,10 +65,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -77,10 +77,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -90,7 +86,7 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -118,7 +114,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -142,7 +138,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -166,7 +162,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -177,10 +173,14 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -198,22 +198,14 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-best-asmr-apps-for-android-and-ios/"><u>[New] 2024 Approved Best ASMR Apps for Android and iOS</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-chuckle-fest-twitters-10-funniest-tweets/"><u>[Updated] Chuckle-Fest Twitter's 10 Funniest Tweets</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-crafting-captivating-stories-15-best-snapchat-techniques/"><u>[Updated] Crafting Captivating Stories 15 Best Snapchat Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-income-guide-whats-new/"><u>[Updated] YouTube Income Guide - What's New?</u></a></li>
-<li><a href="https://win-trending.techidaily.com/choosing-your-ideal-gaming-rig-comparisons-and-advice-from-yl-experts-on-latest-models/"><u>Choosing Your Ideal Gaming Rig: Comparisons & Advice From YL Experts on Latest Models</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comment-recuperer-les-donnees-dun-disque-dur-corrompu-solutions-et-conseils-pour-une-restauration-en-toute-securite/"><u>Comment Récupérer Les Données D'un Disque Dur Corrompu : Solutions Et Conseils Pour Une Restauration en Toute Sécurité</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-effects-of-restrictions-in-digital-chat-companions/"><u>Dissecting the Effects of Restrictions in Digital Chat Companions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-y27-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo Y27 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effective-strategies-for-identifying-and-fixing-computer-hardware-issues-a-guide-by-yl-computing/"><u>Effective Strategies for Identifying and Fixing Computer Hardware Issues - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/pcdj-exclusive-master-the-mix-with-the-reloop-rmp-4-hybrid-media-player-full-review-and-features-breakdown/"><u>PCDJ Exclusive: Master the Mix with the Reloop RMP-4 Hybrid Media Player – Full Review and Features Breakdown</u></a></li>
-<li><a href="https://win-trending.techidaily.com/protecting-your-data-is-using-public-wi-fi-with-your-laptop-risk-free-according-to-yl-software-experts/"><u>Protecting Your Data: Is Using Public Wi-Fi with Your Laptop Risk-Free According to YL Software Experts?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/rotation-producer-series/"><u>Rotation Producer Series</u></a></li>
-<li><a href="https://win-trending.techidaily.com/solutions-for-brighter-bolder-colors-on-your-printouts-a-guide-by-yl-software-experts/"><u>Solutions for Brighter, Bolder Colors on Your Printouts: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-best-of-the-best-yts-premier-unboxing-sites-for-2024/"><u>The Best of the Best YT's Premier Unboxing Sites for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/the-legacy-behind-the-bricks-discovering-the-historical-significance-of-the-great-wall-in-chinese-civilization-yl-digital-innovators/"><u>The Legacy Behind the Bricks: Discovering the Historical Significance of the Great Wall in Chinese Civilization – YL Digital Innovators</u></a></li>
-<li><a href="https://win-trending.techidaily.com/understanding-power-settings-in-windows-a-guide-to-your-pcs-energy-management-yl-computing/"><u>Understanding Power Settings in Windows: A Guide to Your PC's Energy Management - YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/yl-softwares-quick-how-to-driver-update-through-the-control-panel-for-optimal-performance/"><u>YL Software's Quick How-To: Driver Update Through the Control Panel for Optimal Performance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-easy-start-8-great-beginner-friendly-filming-cameras-for-2024/"><u>[Updated] Easy Start 8 Great Beginner-Friendly Filming Cameras for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-duel-for-dominance-physical-vs-virtual-spectacle/"><u>[Updated] In 2024, Duel for Dominance Physical vs Virtual Spectacle</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/golden-geographies-the-best-maps-for-treasure-hunters/"><u>Golden Geographies The Best Maps for Treasure Hunters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-c55-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Poco C55 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/professionelle-erholung-von-formatierten-ntfs-partitionen-mit-myrecovery/"><u>Professionelle Erholung Von Formatierten NTFS-Partitionen Mit MyRecovery</u></a></li>
+<li><a href="https://win-trending.techidaily.com/schnell-und-einfach-synchronisierung-von-zwei-externen-speichermedien-mit-windows-10-zwei-methoden-erklart/"><u>Schnell Und Einfach: Synchronisierung Von Zwei Externen Speichermedien Mit Windows 10 – Zwei Methoden Erklärt</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-troubleshooting-tips-successfully-hooking-up-your-xbox-controller-to-a-personal-computer/"><u>Ultimate Troubleshooting Tips: Successfully Hooking Up Your Xbox Controller to a Personal Computer</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unlocking-efficient-deployment-with-windows-7s-wbadmin-cli-and-gui-comparison/"><u>Unlocking Efficient Deployment with Windows 7'S WBadmin CLI & GUI Comparison</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-11-vs-windows/"><u>Windows 11 vs Windows</u></a></li>
 </ul></div>
 
