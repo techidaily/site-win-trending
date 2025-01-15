@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Mixer Tutorial: Organizing with Nested Folders & Importing Tracks - Watch Our Demo!"
-date: 2025-01-04T03:33:54.581Z
-updated: 2025-01-08T17:51:27.093Z
+date: 2025-01-12T01:06:41.941Z
+updated: 2025-01-14T22:08:26.966Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,24 +48,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-short-segment-screenplay-snippet/"><u>[New] 2024 Approved Short Segment Screenplay Snippet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>[Updated] In 2024, The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-guide-to-choosing-between-ipad-pro-and-macbook-pro/"><u>A Comprehensive Guide to Choosing Between iPad Pro & MacBook Pro</u></a></li>
-<li><a href="https://win-trending.techidaily.com/data-salvage-mastery-comprehensive-steps-to-restore-lost-data-from-a-broken-hard-drive-digital-rescue-with-yl-computing/"><u>Data Salvage Mastery: Comprehensive Steps to Restore Lost Data From a Broken Hard Drive - Digital Rescue with YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/easy-steps-creating-a-new-user-profile-on-windows-via-the-control-panel-tutorial-by-yl-computing/"><u>Easy Steps: Creating a New User Profile on Windows via the Control Panel – Tutorial by YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/easy-way-to-modify-screen-configuration-on-windows-through-the-control-panel-insights-by-yl-software-experts/"><u>Easy Way to Modify Screen Configuration on Windows Through the Control Panel - Insights by YL Software Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/feel-motivated-10-epic-movies-with-deep-impact/"><u>Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-ensure-up-to-date-graphics-driver-support-on-your-pc-advice-by-yl-software-experts/"><u>How To Ensure Up-To-Date Graphics Driver Support on Your PC - Advice by YL Software Experts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/in-2024-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>In 2024, Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oneplus-ace-2v-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on OnePlus Ace 2V with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/solving-your-pcs-mobo-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Your PC's Mobo Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/speed-meets-style-an-in-depth-look-at-glion-dollys-luxury-e-scooter/"><u>Speed Meets Style: An In-Depth Look at Glion Dolly's Luxury E-Scooter</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-opening-text-files-with-ease-yl-software-solutions/"><u>Step-by-Step Guide: Opening Text Files with Ease - YL Software Solutions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-restoring-your-scanners-drives-with-ease/"><u>Step-by-Step Guide: Restoring Your Scanner's Drives with Ease</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-unzipping-files-on-windows-with-easy-instructions-yl-solutions/"><u>Step-by-Step Guide: Unzipping Files on Windows with Easy Instructions - YL Solutions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/successful-recovery-strategies-for-ram-errors-tips-by-yl-computing-software-specialists/"><u>Successful Recovery Strategies for RAM Errors: Tips by YL Computing Software Specialists</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/usbwindows-1011hdd/"><u>USBドライブとして使用するためのWindows 10/11で外部HDDの初期化手順</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/warehouse-in-the-sky-top-pricing-on-demand/"><u>Warehouse in the Sky Top Pricing on Demand</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-navigating-audio-imports-with-the-inshot-app/"><u>[Updated] 2024 Approved Navigating Audio Imports with the InShot App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-10-gratis-lut-files-comprehensive-analysis-and-downloads/"><u>[Updated] In 2024, Top 10 Gratis LUT Files - Comprehensive Analysis & Downloads</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728496691963-sd/"><u>免費方法回收已刪除照片：如何使用 SD 卡重新得到這些數位影像。</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ajoutez-une-fonctionnalite-automatique-pour-synchroniser-les-dossiers-de-votre-serveur-windows-avec-onedrive/"><u>Ajoutez Une Fonctionnalité Automatique Pour Synchroniser Les Dossiers De Votre Serveur Windows Avec OneDrive</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augmented-reality-how-android-enhances-viewing-experience/"><u>Augmented Reality How Android Enhances Viewing Experience</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprendiendo-el-descarte-de-datos-en-dispositivos-usb-y-su-pase-a-la-papelera/"><u>Comprendiendo El Descarte De Datos en Dispositivos USB Y Su Pase a La Papelera</u></a></li>
+<li><a href="https://win-trending.techidaily.com/glucksgriff-verschieben-sie-ihre-windows-11-partition-auf-ein-ssd-mit-diesen-einfachen-schritten-ohne-es-neu-zu-installieren/"><u>Glücksgriff: Verschieben Sie Ihre Windows 11-Partition Auf Ein SSD Mit Diesen Einfachen Schritten, Ohne Es Neu Zu Installieren</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-guide-safely-upgrade-from-an-hdd-to-a-samsung-ssd/"><u>How-To Guide: Safely Upgrade From an HDD to a Samsung SSD</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-15-plus-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 15 Plus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-the-power-of-windows-11s-auto-hdr-enhancement/"><u>In 2024, Leveraging the Power of Windows 11'S Auto HDR Enhancement</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-power-up-your-audio-the-best-professional-editing-software/"><u>New Power Up Your Audio The Best Professional Editing Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211140889-9781801520843-pragmatic-magical-thinking/"><u>Pragmatic Magical Thinking | Free Book</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199718770-spc-uses-statistical-methods-to-monitor-and-control-manufacturing-processes-for-quality-assurance/"><u>SPC Uses Statistical Methods to Monitor and Control Manufacturing Processes for Quality Assurance</u></a></li>
 </ul></div>
 

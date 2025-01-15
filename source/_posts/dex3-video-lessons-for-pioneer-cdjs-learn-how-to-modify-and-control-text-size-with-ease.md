@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Video Lessons for Pioneer CDJs: Learn How to Modify and Control Text Size with Ease!"
-date: 2025-01-05T23:52:15.384Z
-updated: 2025-01-08T22:02:49.968Z
+date: 2025-01-09T23:38:26.994Z
+updated: 2025-01-14T17:37:44.838Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ We’ll still attempt to bring you other helpful Digital DJ and karaoke tips dur
 ##### Make sure to check back early next week for the official PCDJ DEX 3 announcement!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/learncoverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-5-simple-steps-to-quickly-improve-your-filmmaking-skills/"><u>[New] 5 Simple Steps to Quickly Improve Your Filmmaking Skills</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-synthesizing-best-canon-sequential-videos-for-2024/"><u>[New] Synthesizing Best Canon Sequential Videos for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands/"><u>[Updated] 2024 Approved The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-woes-no-more-a-step-by-step-fix-for-pairing-problems-on-windows-11-insider-tips/"><u>Bluetooth Woes No More: A Step-by-Step Fix for Pairing Problems on Windows 11 - Insider Tips</u></a></li>
-<li><a href="https://win-trending.techidaily.com/elegant-silk-spectre-desktop-wallpapers-and-hd-imagery-collection-yl-computing-solutions/"><u>Elegant Silk Spectre Desktop Wallpapers & HD Imagery Collection - YL Computing Solutions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/exploring-the-architect-of-the-chinese-communist-movement-key-leadership-and-historical-impact/"><u>Exploring the Architect of the Chinese Communist Movement: Key Leadership and Historical Impact</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-do-you-fix-windows-pc-graphics-card-issues-expert-insights-from-yl-computing/"><u>How Do You Fix Windows PC Graphics Card Issues: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-channel-charisma-techniques-for-amplifying-youtube-visibility/"><u>In 2024, Channel Charisma Techniques for Amplifying YouTube Visibility</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-edgeplus-2023-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Edge+ (2023) online without jailbreak</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-langchain-llm-tutorial-for-enthusiasts/"><u>Step-by-Step LangChain LLM Tutorial for Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/tomorrows-os-reimagining-windows-post-11/"><u>Tomorrow’s OS: Reimagining Windows Post-11</u></a></li>
-<li><a href="https://win-trending.techidaily.com/total-uninstallation-steps-for-full-software-eradication-by-yl-computing-experts/"><u>Total Uninstallation Steps for Full Software Eradication by YL Computing Experts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-visionary-5-android-backdrop-modification-apps-for-iphone-for-2024/"><u>[Updated] Visionary 5 Android Backdrop Modification Apps for iPhone for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-play-without-payment-top-10-free-online-roleplaying-games/"><u>2024 Approved Play Without Payment Top 10 Free Online Roleplaying Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-fps-range-in-leisurely-cinematic-scenes/"><u>2024 Approved Prime FPS Range in Leisurely Cinematic Scenes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-invisible-trail-hidden-steps-for-tracking-whatsapp-calls/"><u>2024 Approved The Invisible Trail Hidden Steps for Tracking WhatsApp Calls</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/sfcdismwindows-11/"><u>如何不使用传统工具（SFC、DISM）也能有效修复Windows 11系统问题</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/brush-boldly-beyond-professionals-palette-play/"><u>Brush Boldly Beyond - Professionals' Palette Play</u></a></li>
+<li><a href="https://win-trending.techidaily.com/effortlessly-replicate-files-with-windows-tools-insights-by-yl-computings-professionals/"><u>Effortlessly Replicate Files with Windows Tools: Insights by YL Computing's Professionals</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-fix-a-non-responsive-printer-troubleshooting-tips-yl-computing-solutions/"><u>How To Fix A Non-Responsive Printer: Troubleshooting Tips - YL Computing Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-locate-any-desired-file-within-your-windows-operating-system-a-comprehensive-guide-by-yl-computing/"><u>How to Locate Any Desired File Within Your Windows Operating System: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-exclusive-streaming-access-12-top-video-content-hours/"><u>In 2024, Exclusive Streaming Access 12 Top Video Content Hours</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-narzo-60x-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme Narzo 60x 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/recognizing-signs-of-an-underperforming-optical-drive-in-your-computer-system-insights-by-yl-computing/"><u>Recognizing Signs of an Underperforming Optical Drive in Your Computer System - Insights by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-durability-and-maintenance-how-microsofts-new-laptops-outperformed-rivals-in-the-eyes-of-ifixit-with-a-special-nod-to-apples-challenge/"><u>Revolutionizing Durability and Maintenance: How Microsoft's New Laptops Outperformed Rivals in the Eyes of iFixit, With a Special Nod to Apple's Challenge</u></a></li>
+<li><a href="https://win-trending.techidaily.com/trouble-free-gaming-and-design-fix-your-gpu-issues-with-tips-from-yl-software-experts/"><u>Trouble-Free Gaming & Design: Fix Your GPU Issues with Tips From YL Software Experts</u></a></li>
 </ul></div>
 

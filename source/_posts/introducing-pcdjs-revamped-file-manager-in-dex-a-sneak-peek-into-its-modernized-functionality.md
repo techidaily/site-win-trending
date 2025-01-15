@@ -1,7 +1,7 @@
 ---
 title: Introducing PCDJ's Revamped File Manager in Dex 지난 세트 - A Sneak Peek Into Its Modernized Functionality
-date: 2025-01-02T21:31:54.662Z
-updated: 2025-01-09T08:31:51.113Z
+date: 2025-01-08T17:01:55.495Z
+updated: 2025-01-15T00:26:34.987Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ The new browser in our flagship **DJ mixing software** is by far the most robust
 **Please visit the [_home page of our blog_](https://tools.techidaily.com/pcdj/products/) and subscribe to our newsletter on the left hand column so we can let you know when DEX 3 is ready for download!** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,22 +72,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/dex3-browser.jpg?fit=640%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-top-6-must-try-instagram-reel-apps-for-2024/"><u>[New] Top 6 Must-Try Instagram Reel Apps for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-whimsical-logging-in-and-out-guide/"><u>[Updated] Whimsical Logging in & Out Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-ark-disruptions-a-step-by-step-guide-to-resolution/"><u>Addressing and Correcting ARK Disruptions: A Step-by-Step Guide to Resolution</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-a-revenue-driven-approach-to-youtube-content-creation/"><u>Crafting a Revenue-Driven Approach to YouTube Content Creation</u></a></li>
-<li><a href="https://win-trending.techidaily.com/does-the-latest-windows-update-activate-windows-defender-by-default-insights-from-yl-computing/"><u>Does the Latest Windows Update Activate Windows Defender by Default? - Insights From YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effective-methods-for-cutting-down-computer-power-drain-with-advice-from-yl-software-experts/"><u>Effective Methods for Cutting Down Computer Power Drain with Advice From YL Software Experts</u></a></li>
-<li><a href="https://win-trending.techidaily.com/efficiently-transfer-files-through-email-with-windows-tools-unveiled-by-yl-software-experts/"><u>Efficiently Transfer Files Through Email with Windows Tools, Unveiled by YL Software Experts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-x-fold-2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo X Fold 2 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/how-to-edit-360-degree-video-in-premiere-pro/"><u>How to Edit 360 Degree Video in Premiere Pro</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-enhance-your-pcs-performance-expert-tips-from-yl-computing/"><u>How to Enhance Your PC's Performance: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-fix-common-issues-with-your-printer-expert-tips-from-yl-computing/"><u>How to Fix Common Issues with Your Printer: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-fresh-perspective-on-sony-blu-ray-s6500-features/"><u>In 2024, A Fresh Perspective on Sony Blu-Ray S6500 Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-oppo-a38-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo A38 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-trending.techidaily.com/in-depth-analysis-how-dj-dex-elevates-your-mixing-skills-on-the-go-with-its-powerful-features-for-ipad-users/"><u>In-Depth Analysis: How DJ Dex Elevates Your Mixing Skills on the Go with Its Powerful Features for iPad Users</u></a></li>
-<li><a href="https://win-trending.techidaily.com/preserve-your-photos-on-pc-master-the-art-of-image-saving-using-yl-software-solutions/"><u>Preserve Your Photos on PC: Master the Art of Image Saving Using YL Software Solutions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-best-video-editors-for-youtube-for-2024/"><u>The Best Video Editors for YouTube for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/unleash-fresh-tunes-secure-your-singing-rights-on-karaoke-cloud-pro/"><u>Unleash Fresh Tunes: Secure Your Singing Rights on Karaoke Cloud Pro!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-echoes-of-engagement-writing-powerful-podcast-dialogues/"><u>[Updated] 2024 Approved Echoes of Engagement Writing Powerful Podcast Dialogues</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-discover-best-watermarking-apps-for-images/"><u>[Updated] Discover Best WaterMarking Apps for Images</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728483824901-windowsssd/"><u>使用安全啟動在Windows中將分區克隆到SSD：最佳實務指南</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728500364893-usb2/"><u>速やかな修復手順：USBメモリから消えた動画を取り戻す新しい裏技2つ</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/analyzing-tseries-earnings-via-youtube-engagement/"><u>Analyzing TSeries Earnings via YouTube Engagement</u></a></li>
+<li><a href="https://win-trending.techidaily.com/expert-tutorial-on-mastering-raid-0-data-restoration-techniques/"><u>Expert Tutorial on Mastering RAID 0 Data Restoration Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-camon-30-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Camon 30 Pro 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solution-for-the-vertical-selection-issue-in-emeditor-text-processor/"><u>Solution for the Vertical Selection Issue in EmEditor Text Processor</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-apc-gaming-backup-solutions-uninterrupted-energy-for-elite-setups/"><u>Top APC Gaming Backup Solutions: Uninterrupted Energy for Elite Setups</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-noise-reduction-mastery-tips-and-tricks-for-final-cut-pro-x-users-for-2024/"><u>Updated Noise Reduction Mastery Tips and Tricks for Final Cut Pro X Users for 2024</u></a></li>
 </ul></div>
 
