@@ -1,7 +1,7 @@
 ---
 title: Boost Your DJ Set-Up Using the Latest Playlist Tools in Pioneer's DEX 3.3 Software Update
-date: 2025-01-07T23:43:02.808Z
-updated: 2025-01-15T04:28:04.439Z
+date: 2025-01-19T04:00:07.148Z
+updated: 2025-01-21T00:16:02.383Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ In the video below we show you how to use the new “_Multi-Track Selection_” 
 ##### HOW TO USE THE SIDELIST AND MULTI-TRACK SELECTION TO BUILD PLAYLISTS IN DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/multitrack-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-motion-magic-mixtures/"><u>[New] 2024 Approved Motion Magic Mixtures</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-building-an-empire-in-smm-a-step-by-step-guide-for-success/"><u>[Updated] Building an Empire in SMM A Step-by-Step Guide for Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-efficient-ways-to-accumulate-an-enormous-tiktok-video-library/"><u>2024 Approved Efficient Ways to Accumulate an Enormous TikTok Video Library</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-art-of-circle-and-sphere-construction-in-mc/"><u>2024 Approved The Art of Circle and Sphere Construction in MC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/accelerating-your-creative-process-high-quality-3d-models-tools/"><u>Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effizientes-hdd-zu-ssd-upgrade-fur-schnelleren-betrieb-in-windows-anleitung-fur-windows-111087-nutzer/"><u>Effizientes HDD Zu SSD Upgrade Für Schnelleren Betrieb in Windows: Anleitung Für Windows 11/10/8/7 Nutzer</u></a></li>
-<li><a href="https://win-trending.techidaily.com/expanding-your-storage-transitioning-to-a-bigger-ssd-in-windows-operating-systems-11-10-8-and-7/"><u>Expanding Your Storage: Transitioning to a Bigger SSD in Windows Operating Systems (11, 10, 8, and 7)</u></a></li>
-<li><a href="https://win-trending.techidaily.com/imessage-data-usage-on-icloud-explained-remedies-for-high-storage-occupancy/"><u>IMessage Data Usage on iCloud Explained - Remedies for High Storage Occupancy</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-srt-conversion-masterclass-direct-route-to-sub/"><u>In 2024, SRT Conversion Masterclass Direct Route to SUB</u></a></li>
-<li><a href="https://win-trending.techidaily.com/la-meilleure-suite-logicielle-de-clonage-disque-dur-pour-windows-10-un-guide-etape-par-etape/"><u>La Meilleure Suite Logicielle De Clonage Disque Dur Pour Windows 10 : Un Guide Étape Par Étape</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-direct-image-access-with-windows-11/"><u>Maximizing Direct Image Access with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/power-usage-profiling-for-windows-based-computers-uncovered/"><u>Power Usage Profiling for Windows-Based Computers Uncovered</u></a></li>
-<li><a href="https://win-trending.techidaily.com/streamline-your-workflow-with-easy-steps-for-concurrent-drive-backups-in-windows-11/"><u>Streamline Your Workflow with Easy Steps for Concurrent Drive Backups in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-safeguard-and-soar-top-cloud-options-reviewed/"><u>2024 Approved Capture, Safeguard, and Soar - Top Cloud Options Reviewed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-prime-picks-top-tweets-for-must-see-original-series/"><u>2024 Approved Prime Picks Top Tweets for Must-See Original Series</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-troubleshooting-tips-for-msi-afterburners-gpu-detection-problem-on-windows-1110-platforms/"><u>Comprehensive Troubleshooting Tips for MSI Afterburner's GPU Detection Problem on Windows 11/10 Platforms</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guia-facil-de-sincronizar-carpetas-locales-con-tu-synology-ds-en-windows/"><u>Guía Fácil De Sincronizar Carpetas Locales Con Tu Synology DS en Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-motorola-g24-power-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Motorola G24 Power to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-8-hdfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 8 HDFRP Lock</u></a></li>
+<li><a href="https://win-trending.techidaily.com/komplette-anleitung-zur-installation-von-norton-ghost-auf-windows-11-8-7-systemen/"><u>Komplette Anleitung Zur Installation Von Norton Ghost Auf Windows 11 / 8 / 7 Systemen</u></a></li>
+<li><a href="https://win-trending.techidaily.com/mastering-the-process-effective-techniques-for-transitioning-with-v2v-migration/"><u>Mastering the Process: Effective Techniques for Transitioning with V2V Migration</u></a></li>
+<li><a href="https://win-trending.techidaily.com/missing-page-alert-content-cannot-be-displayed/"><u>Missing Page Alert - Content Cannot Be Displayed</u></a></li>
+<li><a href="https://article-files.techidaily.com/pioneering-animated-film-series-the-top-15-list/"><u>Pioneering Animated Film Series The Top 15 List</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solution-immediate-a-la-panique-des-donnees-perdus-dans-votre-disque-dur-externe-portable-un-tutoriel-eclairant/"><u>Solution Immédiate À La Panique Des Données Perdus Dans Votre Disque Dur Externe Portable : Un Tutoriel Éclairant</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-repairing-non-functional-corsair-hs60-mic/"><u>Solution Steps: Repairing Non-Functional Corsair HS60 Mic</u></a></li>
+<li><a href="https://win-trending.techidaily.com/to-convert-pounds-to-kilograms-multiply-the-number-of-pounds-by-0453592-since-one-pound-is-approximately-equal-to-0453592-kilogangs-for-example-if-an-object207/"><u>To Convert Pounds to Kilograms, Multiply the Number of Pounds by 0.453592 (Since One Pound Is Approximately Equal to 0.453592 Kilogangs). For Example, if an Object Weighs 10 Pounds, Its Mass in Kilograms Would Be About 4.536 Kg.</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ultimate-tutorial-on-creating-a-windows-server-201n-booting-usb-with-rufus/"><u>Ultimate Tutorial on Creating a Windows Server 201N Booting USB with Rufus</u></a></li>
 </ul></div>
 

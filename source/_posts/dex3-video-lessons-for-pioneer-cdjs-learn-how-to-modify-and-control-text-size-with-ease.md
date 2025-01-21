@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Video Lessons for Pioneer CDJs: Learn How to Modify and Control Text Size with Ease!"
-date: 2025-01-09T23:38:26.994Z
-updated: 2025-01-14T17:37:44.838Z
+date: 2025-01-17T19:55:21.991Z
+updated: 2025-01-21T06:53:52.048Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ We’ll still attempt to bring you other helpful Digital DJ and karaoke tips dur
 ##### Make sure to check back early next week for the official PCDJ DEX 3 announcement!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,19 +50,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/learncoverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-visionary-5-android-backdrop-modification-apps-for-iphone-for-2024/"><u>[Updated] Visionary 5 Android Backdrop Modification Apps for iPhone for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-play-without-payment-top-10-free-online-roleplaying-games/"><u>2024 Approved Play Without Payment Top 10 Free Online Roleplaying Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-fps-range-in-leisurely-cinematic-scenes/"><u>2024 Approved Prime FPS Range in Leisurely Cinematic Scenes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-invisible-trail-hidden-steps-for-tracking-whatsapp-calls/"><u>2024 Approved The Invisible Trail Hidden Steps for Tracking WhatsApp Calls</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/sfcdismwindows-11/"><u>如何不使用传统工具（SFC、DISM）也能有效修复Windows 11系统问题</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/brush-boldly-beyond-professionals-palette-play/"><u>Brush Boldly Beyond - Professionals' Palette Play</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effortlessly-replicate-files-with-windows-tools-insights-by-yl-computings-professionals/"><u>Effortlessly Replicate Files with Windows Tools: Insights by YL Computing's Professionals</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-fix-a-non-responsive-printer-troubleshooting-tips-yl-computing-solutions/"><u>How To Fix A Non-Responsive Printer: Troubleshooting Tips - YL Computing Solutions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-locate-any-desired-file-within-your-windows-operating-system-a-comprehensive-guide-by-yl-computing/"><u>How to Locate Any Desired File Within Your Windows Operating System: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-exclusive-streaming-access-12-top-video-content-hours/"><u>In 2024, Exclusive Streaming Access 12 Top Video Content Hours</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-narzo-60x-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme Narzo 60x 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/recognizing-signs-of-an-underperforming-optical-drive-in-your-computer-system-insights-by-yl-computing/"><u>Recognizing Signs of an Underperforming Optical Drive in Your Computer System - Insights by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-durability-and-maintenance-how-microsofts-new-laptops-outperformed-rivals-in-the-eyes-of-ifixit-with-a-special-nod-to-apples-challenge/"><u>Revolutionizing Durability and Maintenance: How Microsoft's New Laptops Outperformed Rivals in the Eyes of iFixit, With a Special Nod to Apple's Challenge</u></a></li>
-<li><a href="https://win-trending.techidaily.com/trouble-free-gaming-and-design-fix-your-gpu-issues-with-tips-from-yl-software-experts/"><u>Trouble-Free Gaming & Design: Fix Your GPU Issues with Tips From YL Software Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-teaching-transformative-learning/"><u>[New] Immersive Teaching, Transformative Learning</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac/"><u>[New] In 2024, Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-exploring-browsing-anomalies-where-are-my-fb-video-suggestions/"><u>[Updated] 2024 Approved Exploring Browsing Anomalies Where Are My FB Video Suggestions?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comment-restaurer-en-toute-securite-limage-du-systeme-sur-un-ordinateur-different/"><u>Comment Restaurer en Toute Sécurité L’image Du Système Sur Un Ordinateur Différent</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50i-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50i</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-luts-unveiled-transforming-the-lands-market/"><u>In 2024, LUTs Unveiled Transforming the Lands Market</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-collection-of-animated-texts/"><u>In 2024, Premium Collection of Animated Texts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/inkrementelle-backup-erstellung-fur-windows-server-auf-dem-netzwerk-einfache-anleitung/"><u>Inkrementelle Backup-Erstellung Für Windows Server Auf Dem Netzwerk: Einfache Anleitung</u></a></li>
+<li><a href="https://win-trending.techidaily.com/konvertierung-von-raw-dateien-warum-ist-diese-funktion-nicht-verfugbar/"><u>Konvertierung Von RAW-Dateien: Warum Ist Diese Funktion Nicht Verfügbar?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/professionelle-erholung-von-formatierten-ntfs-partitionen-mit-myrecovery/"><u>Professionelle Erholung Von Formatierten NTFS-Partitionen Mit MyRecovery</u></a></li>
+<li><a href="https://win-trending.techidaily.com/revolutionary-nvme-clone-toolset-transforming-your-digital-storage-solutions/"><u>Revolutionary NVMe Clone Toolset: Transforming Your Digital Storage Solutions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/schnell-und-einfach-synchronisierung-von-zwei-externen-speichermedien-mit-windows-10-zwei-methoden-erklart/"><u>Schnell Und Einfach: Synchronisierung Von Zwei Externen Speichermedien Mit Windows 10 – Zwei Methoden Erklärt</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplify-setup-obtain-targus-docking-station-driver-software-quickly/"><u>Simplify Setup: Obtain Targus Docking Station Driver Software Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-paradox-launcher-malfunctions-and-errors/"><u>Step-by-Step Solution for Paradox Launcher Malfunctions and Errors</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unlocking-efficient-deployment-with-windows-7s-wbadmin-cli-and-gui-comparison/"><u>Unlocking Efficient Deployment with Windows 7'S WBadmin CLI & GUI Comparison</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-11-vs-windows/"><u>Windows 11 vs Windows</u></a></li>
+<li><a href="https://win-trending.techidaily.com/0x8n87800c5-windows-11/"><u>エラーコード 0X8n87800C5を解消する: Windows 11で簡単バックアップ方法</u></a></li>
 </ul></div>
 

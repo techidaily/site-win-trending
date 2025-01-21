@@ -1,7 +1,7 @@
 ---
 title: Introducing PCDJ's Revamped File Manager in Dex 지난 세트 - A Sneak Peek Into Its Modernized Functionality
-date: 2025-01-08T17:01:55.495Z
-updated: 2025-01-15T00:26:34.987Z
+date: 2025-01-15T23:25:22.902Z
+updated: 2025-01-21T05:33:08.958Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ The new browser in our flagship **DJ mixing software** is by far the most robust
 **Please visit the [_home page of our blog_](https://tools.techidaily.com/pcdj/products/) and subscribe to our newsletter on the left hand column so we can let you know when DEX 3 is ready for download!** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,16 +72,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/dex3-browser.jpg?fit=640%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-echoes-of-engagement-writing-powerful-podcast-dialogues/"><u>[Updated] 2024 Approved Echoes of Engagement Writing Powerful Podcast Dialogues</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-discover-best-watermarking-apps-for-images/"><u>[Updated] Discover Best WaterMarking Apps for Images</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728483824901-windowsssd/"><u>使用安全啟動在Windows中將分區克隆到SSD：最佳實務指南</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728500364893-usb2/"><u>速やかな修復手順：USBメモリから消えた動画を取り戻す新しい裏技2つ</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/analyzing-tseries-earnings-via-youtube-engagement/"><u>Analyzing TSeries Earnings via YouTube Engagement</u></a></li>
-<li><a href="https://win-trending.techidaily.com/expert-tutorial-on-mastering-raid-0-data-restoration-techniques/"><u>Expert Tutorial on Mastering RAID 0 Data Restoration Techniques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-camon-30-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Camon 30 Pro 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/solution-for-the-vertical-selection-issue-in-emeditor-text-processor/"><u>Solution for the Vertical Selection Issue in EmEditor Text Processor</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-apc-gaming-backup-solutions-uninterrupted-energy-for-elite-setups/"><u>Top APC Gaming Backup Solutions: Uninterrupted Energy for Elite Setups</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-noise-reduction-mastery-tips-and-tricks-for-final-cut-pro-x-users-for-2024/"><u>Updated Noise Reduction Mastery Tips and Tricks for Final Cut Pro X Users for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dji-mavic-pro-review-a-new-era-of-aerial-photography-for-2024/"><u>[New] DJI Mavic Pro Review A New Era of Aerial Photography for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windows-101110/"><u>重置后如何在Windows 10/11中找回被删除的数据：10个有效策略</u></a></li>
+<li><a href="https://games-able.techidaily.com/delve-deeper-into-fallouts-universe-through-games/"><u>Delve Deeper Into Fallout's Universe Through Games</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-de-depannage-debloquer-lacces-a-une-cle-usb-sur-windows-10-en-9-etapes-simples/"><u>Guide De Dépannage : Débloquer L'accès À Une Clé USB Sur Windows 10 en 9 Étapes Simples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-hd-graphics-4400-secure-download-and-easy-update-of-latest-drivers/"><u>Intel HD Graphics 4400: Secure Download and Easy Update of Latest Drivers</u></a></li>
+<li><a href="https://win-trending.techidaily.com/la-solutions-incontournables-pour-le-clonage-de-systemes-sous-windows-7-une-superbe-alternative-a-clonezilla/"><u>La Solutions Incontournables Pour Le Clonage De Systèmes Sous Windows 7: Une Superbe Alternative À Clonezilla</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-gpeditmsc-missing-in-windows-home-edition-fix-steps/"><u>Resolved: 'gpedit.msc' Missing in Windows Home Edition - Fix Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/reviving-the-full-screen-in-obs-for-2024/"><u>Reviving the Full Screen in OBS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-unique-presents-ideal-for-tech-enthusiasts-a-guide-by-zdnet/"><u>Top 12 Unique Presents Ideal for Tech Enthusiasts: A Guide by ZDNet</u></a></li>
+<li><a href="https://win-trending.techidaily.com/type-iii-interferons-ifn-lambda-are-a-newer-classification-and-act-similarly-to-type-i-but-in-specific-epithelial-tissues/"><u>Type III Interferons (IFN-Lambda) Are a Newer Classification and Act Similarly to Type I but in Specific Epithelial Tissues.</u></a></li>
+<li><a href="https://win-trending.techidaily.com/wiederherstellung-von-speicherdaten-aus-einem-bootfahigem-flash-laufwerk-in-windows-10-und-11/"><u>Wiederherstellung Von Speicherdaten Aus Einem Bootfähigem Flash-Laufwerk in Windows 10 Und 11</u></a></li>
 </ul></div>
 
