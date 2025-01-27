@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Mixer Tutorial: Organizing with Nested Folders & Importing Tracks - Watch Our Demo!"
-date: 2025-01-20T04:19:16.496Z
-updated: 2025-01-20T18:31:23.493Z
+date: 2025-01-24T04:20:23.189Z
+updated: 2025-01-26T19:03:48.703Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,19 +48,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nalyzing-t-series-revenue-generation-on-youtube-channels-for-2024/"><u>[New] Analyzing T-Series' Revenue Generation on Youtube Channels for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-powerpoint-persona-establishing-your-presentations-voice/"><u>[Updated] PowerPoint Persona Establishing Your Presentation's Voice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-seamless-transition-expert-advice-on-migrating-to-your-new-iphone-with-ease-insights-from-zdnet/"><u>1. Seamless Transition: Expert Advice on Migrating to Your New iPhone with Ease - Insights From ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-step-into-success-10-pivotal-steps-for-exceptional-smm-achievement/"><u>2024 Approved Step Into Success 10 Pivotal Steps for Exceptional SMM Achievement</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g24-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G24</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-zoom-and-click-discovering-kodaks-fz53/"><u>Affordable Zoom & Click - Discovering Kodak's FZ53</u></a></li>
-<li><a href="https://win-trending.techidaily.com/authentic-naruto-widewall-pack-of-1024768-pixels-sourced-from-yl-softwares-premium-catalog/"><u>Authentic Naruto Widewall Pack of 1024×768 Pixels, Sourced From YL Software's Premium Catalog</u></a></li>
-<li><a href="https://win-trending.techidaily.com/discover-the-best-optimized-programs-and-apps-for-windows-11-with-insights-from-yl-computing/"><u>Discover the Best-Optimized Programs & Apps for Windows 11 with Insights From YL Computing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effective-strategies-for-resolving-windows-11-problems-a-comprehensive-guide-by-yl-computing/"><u>Effective Strategies for Resolving Windows 11 Problems: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/free-reactive-dashboard-template-with-react-and-material-ui-by-creative-tim/"><u>Free Reactive Dashboard Template with React and Material-UI by Creative Tim</u></a></li>
-<li><a href="https://win-trending.techidaily.com/latest-professional-sound-mixers-tailored-for-top-dj-programs-find-your-match/"><u>Latest Professional Sound Mixers Tailored for Top DJ Programs: Find Your Match!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-magic-5-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor Magic 5</u></a></li>
-<li><a href="https://win-trending.techidaily.com/understanding-common-pc-errors-insights-from-yl-computing-experts/"><u>Understanding Common PC Errors: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/jpeg-mp4avimov2024/"><u>フリーで高品質なJPEGへ: MP4・AVI・MOV動画変換ツール集2024年モデルのおすすめ</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-revolutionary-impact-future-of-vr-cinematic-experience-for-2024/"><u>[New] The Revolutionary Impact Future of VR Cinematic Experience for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-gradual-amplitude-reduction-guide/"><u>[Updated] 2024 Approved Gradual Amplitude Reduction Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-whats-trending-on-tiktok-and-twittersphere/"><u>[Updated] In 2024, What's Trending on TikTok and Twittersphere</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-fixing-system-partition-recovery-failed-issues-expert-guidance/"><u>1. Fixing 'System Partition Recovery Failed' Issues: Expert Guidance</u></a></li>
+<li><a href="https://win-trending.techidaily.com/3-effective-strategies/"><u>3 Effective Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726226654272-mp4-m4a-movavi/"><u>無限制網路使用：從 MP4 改變成 M4A - 使用 Movavi 流動解決方案</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-guidelines-integrating-latest-intel-wireless-tech-in-os-x/"><u>Advanced Guidelines: Integrating Latest Intel Wireless Tech in OS X</u></a></li>
+<li><a href="https://win-trending.techidaily.com/efficient-mssql-data-protection-ultimate-guide-to-backup-compression-techniques/"><u>Efficient MSSQL Data Protection: Ultimate Guide to Backup Compression Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-cybersecurity-teams-effective-ways-to-enhance-their-support-and-resilience/"><u>Empowering Cybersecurity Teams - Effective Ways to Enhance Their Support and Resilience</u></a></li>
+<li><a href="https://win-trending.techidaily.com/expand-your-game-library-top-memory-cards-for-nintendo-switch/"><u>Expand Your Game Library: Top Memory Cards for Nintendo Switch</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-blur-background-of-your-youtube-video-2-easy-ways-for-2024/"><u>How to Blur Background of Your YouTube Video - 2 Easy Ways for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-retrieve-lost-or-accidentally-deleted-data-from-your-samsung-t3-t5-x5-and-t7-external-ssds/"><u>How to Retrieve Lost or Accidentally Deleted Data From Your Samsung T3, T5, X5, and T7 External SSDs</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-interviewing-techniques-with-chatgpt/"><u>Optimize Your Interviewing Techniques with ChatGPT</u></a></li>
+<li><a href="https://win-trending.techidaily.com/qnap-nas-unkomplizierter-datensicherungsprozess-fur-windows-7-pcs/"><u>QNAP NAS: Unkomplizierter Datensicherungsprozess Für Windows 7 PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-select-ringtone-makers-guidebook-for-2024/"><u>Superior Select Ringtone Makers' Guidebook for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-and-fixes-for-space-occupied-on-usb-no-visible-files-issue/"><u>Troubleshooting & Fixes for 'Space Occupied on USB, No Visible Files' Issue</u></a></li>
+<li><a href="https://win-trending.techidaily.com/two-easy-methods-for-transferring-your-outlook-contacts-from-a-mac-computer/"><u>Two Easy Methods for Transferring Your Outlook Contacts From a Mac Computer</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unable-to-locate-the-ultimate-guide-on-handling-page-cannot-be-displayed-errors/"><u>Unable To Locate: The Ultimate Guide on Handling 'Page Cannot Be Displayed' Errors</u></a></li>
 </ul></div>
 

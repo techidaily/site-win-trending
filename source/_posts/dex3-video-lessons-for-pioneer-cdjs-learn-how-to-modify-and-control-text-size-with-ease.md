@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Video Lessons for Pioneer CDJs: Learn How to Modify and Control Text Size with Ease!"
-date: 2025-01-17T19:55:21.991Z
-updated: 2025-01-21T06:53:52.048Z
+date: 2025-01-20T09:06:51.601Z
+updated: 2025-01-27T08:44:49.015Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ We’ll still attempt to bring you other helpful Digital DJ and karaoke tips dur
 ##### Make sure to check back early next week for the official PCDJ DEX 3 announcement!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/learncoverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-immersive-teaching-transformative-learning/"><u>[New] Immersive Teaching, Transformative Learning</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac/"><u>[New] In 2024, Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-exploring-browsing-anomalies-where-are-my-fb-video-suggestions/"><u>[Updated] 2024 Approved Exploring Browsing Anomalies Where Are My FB Video Suggestions?</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comment-restaurer-en-toute-securite-limage-du-systeme-sur-un-ordinateur-different/"><u>Comment Restaurer en Toute Sécurité L’image Du Système Sur Un Ordinateur Différent</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50i-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50i</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-luts-unveiled-transforming-the-lands-market/"><u>In 2024, LUTs Unveiled Transforming the Lands Market</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-collection-of-animated-texts/"><u>In 2024, Premium Collection of Animated Texts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/inkrementelle-backup-erstellung-fur-windows-server-auf-dem-netzwerk-einfache-anleitung/"><u>Inkrementelle Backup-Erstellung Für Windows Server Auf Dem Netzwerk: Einfache Anleitung</u></a></li>
-<li><a href="https://win-trending.techidaily.com/konvertierung-von-raw-dateien-warum-ist-diese-funktion-nicht-verfugbar/"><u>Konvertierung Von RAW-Dateien: Warum Ist Diese Funktion Nicht Verfügbar?</u></a></li>
-<li><a href="https://win-trending.techidaily.com/professionelle-erholung-von-formatierten-ntfs-partitionen-mit-myrecovery/"><u>Professionelle Erholung Von Formatierten NTFS-Partitionen Mit MyRecovery</u></a></li>
-<li><a href="https://win-trending.techidaily.com/revolutionary-nvme-clone-toolset-transforming-your-digital-storage-solutions/"><u>Revolutionary NVMe Clone Toolset: Transforming Your Digital Storage Solutions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/schnell-und-einfach-synchronisierung-von-zwei-externen-speichermedien-mit-windows-10-zwei-methoden-erklart/"><u>Schnell Und Einfach: Synchronisierung Von Zwei Externen Speichermedien Mit Windows 10 – Zwei Methoden Erklärt</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simplify-setup-obtain-targus-docking-station-driver-software-quickly/"><u>Simplify Setup: Obtain Targus Docking Station Driver Software Quickly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-paradox-launcher-malfunctions-and-errors/"><u>Step-by-Step Solution for Paradox Launcher Malfunctions and Errors</u></a></li>
-<li><a href="https://win-trending.techidaily.com/unlocking-efficient-deployment-with-windows-7s-wbadmin-cli-and-gui-comparison/"><u>Unlocking Efficient Deployment with Windows 7'S WBadmin CLI & GUI Comparison</u></a></li>
-<li><a href="https://win-trending.techidaily.com/windows-11-vs-windows/"><u>Windows 11 vs Windows</u></a></li>
-<li><a href="https://win-trending.techidaily.com/0x8n87800c5-windows-11/"><u>エラーコード 0X8n87800C5を解消する: Windows 11で簡単バックアップ方法</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-webcam-wonders-unveiling-tools-for-top-video-quality/"><u>[Updated] 2024 Approved Webcam Wonders - Unveiling Tools for Top Video Quality</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-capture-cumulative-chronicles-for-2024/"><u>[Updated] Capture Cumulative Chronicles for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-gecata-watchers-complete-appraisal/"><u>[Updated] In 2024, GECATA Watcher's Complete Appraisal</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-selecting-premier-sound-editors-for-youtube-producers/"><u>[Updated] In 2024, Selecting Premier Sound Editors for YouTube Producers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-webcam-mastery-choosing-the-best-for-your-podcast/"><u>2024 Approved Webcam Mastery Choosing the Best for Your Podcast</u></a></li>
+<li><a href="https://win-trending.techidaily.com/create-and-revise-pdfs-instantly-discover-the-top-free-pdf-editor-tool-no-expense-necessary/"><u>Create & Revise PDFs Instantly: Discover the Top Free PDF Editor Tool - No Expense Necessary!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/customizing-page-layout-with-margin-settings-on-flipbuilder-for-enhanced-ebook-design/"><u>Customizing Page Layout with Margin Settings on FlipBuilder for Enhanced eBook Design</u></a></li>
+<li><a href="https://win-trending.techidaily.com/easy-steps-to-build-engaging-flipbooks-featuring-your-companys-story-and-visual-identity/"><u>Easy Steps to Build Engaging FlipBooks Featuring Your Company's Story and Visual Identity</u></a></li>
+<li><a href="https://win-trending.techidaily.com/flipoffice-effortlessly-create-a-multi-functional-office-organizer-from-your-documents-at-flipbuildercom/"><u>FlipOffice: Effortlessly Create a Multi-Functional Office Organizer From Your Documents at FlipBuilder.com</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/genius-widecam-f100-test-and-analysis-examining-image-quality-and-audio-issues/"><u>Genius WideCam F100 Test & Analysis: Examining Image Quality & Audio Issues</u></a></li>
+<li><a href="https://win-trending.techidaily.com/get-your-documents-in-image-form-free-pdf-to-jpg-upconversion-flipbuildercom/"><u>Get Your Documents in Image Form: Free PDF to JPG Upconversion [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-does-flipbuilder-handle-device-upgrades-learn-more-on-their-platform/"><u>How Does FlipBuilder Handle Device Upgrades? Learn More on Their Platform</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-elite-gigabyte-intel-z790-aorus-xtreme-x-gold-cpu-socket-and-impressive-misty-theme-with-a-massive-m2-heatsink/"><u>Introducing the Elite Gigabyte Intel Z790 Aorus XTreme X: Gold CPU Socket & Impressive Misty Theme with a Massive M.2 Heatsink</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/selecting-the-right-gopro-features-at-your-fingertips/"><u>Selecting the Right Gopro Features at Your Fingertips</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-to-viewing-and-sharing-a-digital-picture-book-album-from-flipspark-on-smartphones/"><u>Step-by-Step Guide to Viewing and Sharing a Digital Picture Book (Album) From Flipspark on Smartphones</u></a></li>
 </ul></div>
 

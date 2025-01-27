@@ -1,7 +1,7 @@
 ---
 title: Introducing PCDJ's Revamped File Manager in Dex 지난 세트 - A Sneak Peek Into Its Modernized Functionality
-date: 2025-01-15T23:25:22.902Z
-updated: 2025-01-21T05:33:08.958Z
+date: 2025-01-21T06:12:23.844Z
+updated: 2025-01-27T01:57:38.272Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ The new browser in our flagship **DJ mixing software** is by far the most robust
 **Please visit the [_home page of our blog_](https://tools.techidaily.com/pcdj/products/) and subscribe to our newsletter on the left hand column so we can let you know when DEX 3 is ready for download!** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,16 +72,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/dex3-browser.jpg?fit=640%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-dji-mavic-pro-review-a-new-era-of-aerial-photography-for-2024/"><u>[New] DJI Mavic Pro Review A New Era of Aerial Photography for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/windows-101110/"><u>重置后如何在Windows 10/11中找回被删除的数据：10个有效策略</u></a></li>
-<li><a href="https://games-able.techidaily.com/delve-deeper-into-fallouts-universe-through-games/"><u>Delve Deeper Into Fallout's Universe Through Games</u></a></li>
-<li><a href="https://win-trending.techidaily.com/guide-de-depannage-debloquer-lacces-a-une-cle-usb-sur-windows-10-en-9-etapes-simples/"><u>Guide De Dépannage : Débloquer L'accès À Une Clé USB Sur Windows 10 en 9 Étapes Simples</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-hd-graphics-4400-secure-download-and-easy-update-of-latest-drivers/"><u>Intel HD Graphics 4400: Secure Download and Easy Update of Latest Drivers</u></a></li>
-<li><a href="https://win-trending.techidaily.com/la-solutions-incontournables-pour-le-clonage-de-systemes-sous-windows-7-une-superbe-alternative-a-clonezilla/"><u>La Solutions Incontournables Pour Le Clonage De Systèmes Sous Windows 7: Une Superbe Alternative À Clonezilla</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-gpeditmsc-missing-in-windows-home-edition-fix-steps/"><u>Resolved: 'gpedit.msc' Missing in Windows Home Edition - Fix Steps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/reviving-the-full-screen-in-obs-for-2024/"><u>Reviving the Full Screen in OBS for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-12-unique-presents-ideal-for-tech-enthusiasts-a-guide-by-zdnet/"><u>Top 12 Unique Presents Ideal for Tech Enthusiasts: A Guide by ZDNet</u></a></li>
-<li><a href="https://win-trending.techidaily.com/type-iii-interferons-ifn-lambda-are-a-newer-classification-and-act-similarly-to-type-i-but-in-specific-epithelial-tissues/"><u>Type III Interferons (IFN-Lambda) Are a Newer Classification and Act Similarly to Type I but in Specific Epithelial Tissues.</u></a></li>
-<li><a href="https://win-trending.techidaily.com/wiederherstellung-von-speicherdaten-aus-einem-bootfahigem-flash-laufwerk-in-windows-10-und-11/"><u>Wiederherstellung Von Speicherdaten Aus Einem Bootfähigem Flash-Laufwerk in Windows 10 Und 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-creating-syncopated-stories-with-youtube-music-and-videos/"><u>[Updated] 2024 Approved Creating Syncopated Stories with YouTube Music & Videos</u></a></li>
+<li><a href="https://win-trending.techidaily.com/20243-onedrive/"><u>「2024年のトップス3: OneDrive対抗可能な代替サービスとその革新的なデータ安全性」</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-gamers-selection-top-livestraning-tech-picks/"><u>2024 Approved Gamer's Selection Top Livestraning Tech Picks</u></a></li>
+<li><a href="https://win-trending.techidaily.com/bringe-deine-geloschten-selfies-auf-dem-pc-windows-oder-iphone-wieder-zum-leben-losungen-mit-myrecover-services/"><u>Bringe Deine Gelöschten Selfies Auf Dem PC (Windows) Oder iPhone Wieder Zum Leben - Lösungen Mit MyRecover Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/centralized-control-adjusting-key-settings-throughout-your-companys-windows-network/"><u>Centralized Control: Adjusting Key Settings Throughout Your Company's Windows Network</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comment-proceder-a-la-suppression-ou-au-desinfection-sans-risque-dun-disque-dur-sous-windows-10/"><u>Comment Procéder À La Suppression Ou Au Désinfection Sans Risque D'un Disque Dur Sous Windows 10</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/expand-your-playlist-unlock-96-new-tracks-on-karaoke-cloud-pro-effective-september-9th-2020-perfect-for-djs/"><u>Expand Your Playlist: Unlock 96 New Tracks on Karaoke Cloud Pro, Effective September 9Th, 2020 - Perfect for DJs</u></a></li>
+<li><a href="https://win-trending.techidaily.com/fixing-windows-11-error-0xc0000098-swift-solutions-and-tips/"><u>Fixing Windows 11 Error 0xC0000098 - Swift Solutions and Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-quickly-assemble-your-facebook-gallery-for-2024/"><u>How to Quickly Assemble Your Facebook Gallery for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/reinitialiser-la-restauration-en-ligne-apres-sa-suppression-sur-windows-11-methodes-rapides-et-efficaces/"><u>Réinitialiser La Restauration en Ligne Après Sa Suppression Sur Windows 11 : Méthodes Rapides Et Efficaces</u></a></li>
+<li><a href="https://win-trending.techidaily.com/rescue-techniques-for-lost-photographs-and-footage-on-hasselblad-cameras-expert-recovery-strategies/"><u>Rescue Techniques for Lost Photographs and Footage on Hasselblad Cameras – Expert Recovery Strategies</u></a></li>
+<li><a href="https://win-trending.techidaily.com/tutorial-paso-a-paso-para-duplicar-un-disco-con-multiples-divisiones-logicas/"><u>Tutorial Paso a Paso Para Duplicar Un Disco Con Múltiples Divisiones Lógicas</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-the-chinese-cultural-revolution-through-mao-zedongs-lens-with-insights-from-yl-software/"><u>Understanding the Chinese Cultural Revolution Through Mao Zedong's Lens with Insights From YL Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unheard-voices-on-youtube-livestream-success-beyond-1000-supporters-for-2024/"><u>Unheard Voices on YouTube Livestream Success Beyond 1000 Supporters for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watch-the-tokyo-2024-summer-contests-live-from-home-a-complete-guide/"><u>Watch the Tokyo 2024 Summer Contests Live From Home – A Complete Guide</u></a></li>
+<li><a href="https://win-trending.techidaily.com/diskpart/"><u>ディスクパーティションを削除するためのDiskpartコマンドの詳細ガイド</u></a></li>
 </ul></div>
 
