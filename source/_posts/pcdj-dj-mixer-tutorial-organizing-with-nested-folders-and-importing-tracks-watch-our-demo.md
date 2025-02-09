@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Mixer Tutorial: Organizing with Nested Folders & Importing Tracks - Watch Our Demo!"
-date: 2025-01-24T04:20:23.189Z
-updated: 2025-01-26T19:03:48.703Z
+date: 2025-02-03T00:14:17.866Z
+updated: 2025-02-09T02:09:41.533Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,24 +48,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-revolutionary-impact-future-of-vr-cinematic-experience-for-2024/"><u>[New] The Revolutionary Impact Future of VR Cinematic Experience for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-gradual-amplitude-reduction-guide/"><u>[Updated] 2024 Approved Gradual Amplitude Reduction Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-whats-trending-on-tiktok-and-twittersphere/"><u>[Updated] In 2024, What's Trending on TikTok and Twittersphere</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1-fixing-system-partition-recovery-failed-issues-expert-guidance/"><u>1. Fixing 'System Partition Recovery Failed' Issues: Expert Guidance</u></a></li>
-<li><a href="https://win-trending.techidaily.com/3-effective-strategies/"><u>3 Effective Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726226654272-mp4-m4a-movavi/"><u>無限制網路使用：從 MP4 改變成 M4A - 使用 Movavi 流動解決方案</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-guidelines-integrating-latest-intel-wireless-tech-in-os-x/"><u>Advanced Guidelines: Integrating Latest Intel Wireless Tech in OS X</u></a></li>
-<li><a href="https://win-trending.techidaily.com/efficient-mssql-data-protection-ultimate-guide-to-backup-compression-techniques/"><u>Efficient MSSQL Data Protection: Ultimate Guide to Backup Compression Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-cybersecurity-teams-effective-ways-to-enhance-their-support-and-resilience/"><u>Empowering Cybersecurity Teams - Effective Ways to Enhance Their Support and Resilience</u></a></li>
-<li><a href="https://win-trending.techidaily.com/expand-your-game-library-top-memory-cards-for-nintendo-switch/"><u>Expand Your Game Library: Top Memory Cards for Nintendo Switch</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-blur-background-of-your-youtube-video-2-easy-ways-for-2024/"><u>How to Blur Background of Your YouTube Video - 2 Easy Ways for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-retrieve-lost-or-accidentally-deleted-data-from-your-samsung-t3-t5-x5-and-t7-external-ssds/"><u>How to Retrieve Lost or Accidentally Deleted Data From Your Samsung T3, T5, X5, and T7 External SSDs</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-interviewing-techniques-with-chatgpt/"><u>Optimize Your Interviewing Techniques with ChatGPT</u></a></li>
-<li><a href="https://win-trending.techidaily.com/qnap-nas-unkomplizierter-datensicherungsprozess-fur-windows-7-pcs/"><u>QNAP NAS: Unkomplizierter Datensicherungsprozess Für Windows 7 PCs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/superior-select-ringtone-makers-guidebook-for-2024/"><u>Superior Select Ringtone Makers' Guidebook for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/troubleshooting-and-fixes-for-space-occupied-on-usb-no-visible-files-issue/"><u>Troubleshooting & Fixes for 'Space Occupied on USB, No Visible Files' Issue</u></a></li>
-<li><a href="https://win-trending.techidaily.com/two-easy-methods-for-transferring-your-outlook-contacts-from-a-mac-computer/"><u>Two Easy Methods for Transferring Your Outlook Contacts From a Mac Computer</u></a></li>
-<li><a href="https://win-trending.techidaily.com/unable-to-locate-the-ultimate-guide-on-handling-page-cannot-be-displayed-errors/"><u>Unable To Locate: The Ultimate Guide on Handling 'Page Cannot Be Displayed' Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-filmless-to-film-rich-digitizing-yesteryears-images/"><u>[New] From Filmless to Film-Rich Digitizing Yesteryears' Images</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-assessment-comprehensive-camstudio-toolkit/"><u>[New] In-Depth Assessment Comprehensive CamStudio Toolkit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tech-driven-transformation-the-upcoming-shifts-in-fb-advertising-for-2024/"><u>[New] Tech-Driven Transformation The Upcoming Shifts in FB Advertising for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/converting-memories-into-videos-the-power-of-pixiz-techniques/"><u>Converting Memories Into Videos The Power of Pixiz Techniques</u></a></li>
+<li><a href="https://win-trending.techidaily.com/crypto-transactions-simplified-with-yl-software-solutions-buy-and-sell-securely/"><u>Crypto Transactions Simplified with YL Software Solutions - Buy and Sell Securely!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/diy-gpu-upgrade-easy-installation-tips-for-your-graphics-card-with-guidance-from-yl-software-professionals/"><u>DIY GPU Upgrade: Easy Installation Tips for Your Graphics Card with Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-content-with-these-20-pro-video-shortcuts/"><u>Elevate Your Content With These 20 Pro Video Shortcuts</u></a></li>
+<li><a href="https://win-trending.techidaily.com/find-out-what-graphics-card-you-have-with-ease-tips-from-yl-software-experts/"><u>Find Out What Graphics Card You Have with Ease - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-trending.techidaily.com/get-the-latest-pcdj-red-app-version-update-download-today/"><u>Get the Latest PCDJ RED App Version Update – Download Today!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/high-definition-june-2019-themes-and-desktop-pictures-by-yl-computing-your-ultimate-digital-decoration/"><u>High-Definition June 2019 Themes & Desktop Pictures by YL Computing: Your Ultimate Digital Decoration</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-overheating-check-out-our-thorough-review-of-the-levelplay-combat-air-ca4-cpu-cooler/"><u>Mastering PC Overheating? Check Out Our Thorough Review of the Levelplay Combat Air CA4 CPU Cooler</u></a></li>
+<li><a href="https://win-trending.techidaily.com/mastering-windows-customization-adjusting-the-control-panel-settings-with-expert-advice-from-yl-software/"><u>Mastering Windows Customization: Adjusting the Control Panel Settings with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-trending.techidaily.com/personalizing-windows-search-preferences-a-guide-by-yl-software-experts/"><u>Personalizing Windows Search Preferences: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://win-trending.techidaily.com/revive-your-pcs-performance-with-fresh-device-drivers-expert-advice-by-yl-softwares/"><u>Revive Your PC's Performance with Fresh Device Drivers - Expert Advice by YL Softwares</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solutions-when-your-hardware-doesnt-connect-with-windows-expert-advice-from-yl-computing/"><u>Solutions When Your Hardware Doesn't Connect with Windows: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-solving-virtualboxs-usb-error-on-windows-os/"><u>Troubleshooting Guide: Solving VirtualBox's 'USB Error' On Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-all-in-one-video-converter-and-dvd-ripper-free-download-for-high-quality-media-editing/"><u>WinX All-in-One Video Converter & DVD Ripper : Free Download for High-Quality Media Editing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparing Best Practices: Managing Your Audio Collection with Pro Tracks - DeckaDAskiz's Dex 3 and PCDJs Unveiled"
-date: 2025-01-26T06:45:33.531Z
-updated: 2025-01-26T22:01:19.833Z
+date: 2025-02-07T20:20:27.341Z
+updated: 2025-02-08T19:39:17.651Z
 tags:
   - product
 categories:
@@ -24,10 +24,6 @@ If you’re new to our DJ mixing software or just want to know the preferred met
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How-To Import Tracks And Update The DEX 3 or DEX 3 RE Database With New Music
 
 **First, a general explanation:** 
@@ -40,22 +36,26 @@ Tracks added to the database (list) and/or user lists (playlists) are also autom
 
 With an understanding of these two general [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) import methods, we’ll now provide our staff suggested method for both importing your library initially, and updating it moving forward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Making sure your entire existing track library is in DEX 3’s or DEX 3 RE’s internal database and search cache:
 
 ![Expand Explorer Tab in DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/07/explorer-expand.jpg?fit=500%2C500&ssl=1 "Expand Explorer Tab in DEX 3")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Do a bulk import of all your tracks into the master database list.** Expand the ‘**Explorer**‘ tab in the navigation pane (bottom left) by clicking on the name ‘Explorer’. Scroll down and you’ll find your internal hard drive listed and any external hard drives that are connected to the machine. Navigate to and right-click on the parent folder (or hard drive letter itself) where all your existing tracks reside and from the drop down menu select “**add to database**”’
 
 ![Add to database DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/07/add-to-database.jpg?fit=500%2C500&ssl=1 "Add to database DEX 3")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Clicking “**add to database**” will start importing all your tracks to create a master list in the database list (no matter how many folders/levels deep), therefore also adding the tracks to the internal database and search cache. \[_**IMPORTANT NOTE:**_ When you add the folder, and DEX 3/DEX 3 RE displays the message “this folder has been added” – click OK. Now scroll up to and click on the database name (list) at the very top left side of the navigation pane in the file browser. Then, **SCROLL TO THE BOTTOM** of the list as you will see songs rapidly pilling into the list from the bottom as the tag data is being read in and added. You will want to make sure this process is done (so you do not see any more songs pilling in from the bottom of the list) before adding any more music or continuing to the next suggested step.\]
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For browsing your track collection and updating DEX 3 or DEX 3’s database when new tracks are added to your system:
@@ -67,7 +67,7 @@ Clicking “**add to database**” will start importing all your tracks to creat
 ![Updating the DEX 3 database](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/07/updating-library-clicking-favorite-folder.jpg?fit=500%2C500&ssl=1 "Updating the DEX 3 database")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **How-to update DEX 3/DEX 3 RE’s internal database and search cache with tracks you’ve added to your hard drive (or external).** After nesting your main music folders under “Favorites”, you can more easily make sure our DJ mixing software sees new tracks when they are added to folders on your hard drive. After you add new tracks to one of the folders on your hard drive, just open up DEX 3/DEX 3 RE and click on the corresponding folder that new songs were added to. As soon as you ‘see’ the songs display in the middle section of the DEX 3/DEX 3 RE browser they are added to the internal database and search cache. You’re done — no need to also add them to the physical database list as this point, they are in and they are searchable.
@@ -77,7 +77,7 @@ Using this PCDJ Staffer method, by importing all songs into the DJ mixing softwa
 _Have questions about **importing music into DEX 3**, our **DJ mixing software** or how to **update the database**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,14 +99,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/tracklibrary-staff.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-subtitled-uninterrupted-access-to-9-festive-holiday-movies-free/"><u>[New] 2024 Approved Subtitled, Uninterrupted Access to 9 Festive Holiday Movies - Free</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-tutorial-for-spreading-playlists/"><u>[Updated] In 2024, The Ultimate Tutorial for Spreading Playlists</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-snapshot-secrets-iphones-techniques-for-clear-reflections/"><u>[Updated] Snapshot Secrets IPhone's Techniques for Clear Reflections</u></a></li>
-<li><a href="https://win-trending.techidaily.com/best-practices-for-editing-id3-tags-on-both-windows-and-macos-using-top-rated-id3-editors/"><u>Best Practices for Editing ID3 Tags on Both Windows & macOS Using Top Rated ID3 Editors</u></a></li>
-<li><a href="https://win-trending.techidaily.com/effortless-guide-transferring-data-from-your-iphone-se-to-a-computer/"><u>Effortless Guide: Transferring Data From Your iPhone SE to a Computer</u></a></li>
-<li><a href="https://win-trending.techidaily.com/innovative-tricks-for-retrieving-deleted-android-video-files/"><u>Innovative Tricks for Retrieving Deleted Android Video Files</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-instructions-for-efficiently-deleting-stickers-in-snapchat-applications/"><u>Step-by-Step Instructions for Efficiently Deleting Stickers in Snapchat Applications</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unlock-your-media-hd-dvd-to-iphone-and-android-conversion-with-winx-dvd-ripper-free/"><u>Unlock Your Media: HD DVD-to-iPhone & Android Conversion with WinX DVD Ripper (Free)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/write-like-a-pro-hixplusgpt4-synergy/"><u>Write Like a Pro: HIX+GPT4 Synergy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-swift-screen-tape-with-sound-included-for-2024/"><u>[New] Swift Screen Tape with Sound Included for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>[New] Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-from-individual-to-institutional-growth-in-youtube-space/"><u>[Updated] In 2024, From Individual to Institutional Growth in YouTube Space</u></a></li>
+<li><a href="https://win-trending.techidaily.com/20243-onedrive/"><u>「2024年のトップス3: OneDrive対抗可能な代替サービスとその革新的なデータ安全性」</u></a></li>
+<li><a href="https://win-trending.techidaily.com/bringe-deine-geloschten-selfies-auf-dem-pc-windows-oder-iphone-wieder-zum-leben-losungen-mit-myrecover-services/"><u>Bringe Deine Gelöschten Selfies Auf Dem PC (Windows) Oder iPhone Wieder Zum Leben - Lösungen Mit MyRecover Services</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comment-optimiser-la-recuperation-dune-partition-ssd-guide-facile-a-suivre/"><u>Comment Optimiser La Récupération D'Une Partition SSD : Guide Facile À Suivre</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-the-world-of-guest-posts-in-depth-analysis-tips-for-better-seo-unlocking-potential-with-seo-powersuite/"><u>Exploring the World of Guest Posts - In-Depth Analysis, Tips for Better SEO | Unlocking Potential with SEO PowerSuite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fending-off-automated-imitation-nightshades-protocols-for-protecting-art/"><u>Fending Off Automated Imitation: Nightshade's Protocols for Protecting Art</u></a></li>
+<li><a href="https://win-trending.techidaily.com/fixing-windows-11-error-0xc0000098-swift-solutions-and-tips/"><u>Fixing Windows 11 Error 0xC0000098 - Swift Solutions and Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-enlarge-your-videos-thumbnail-on-youtube-easily/"><u>In 2024, Enlarge Your Video's Thumbnail on YouTube Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c22-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nokia C22 Bootloader Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-slow-motion-mobile-recording-solutions-iphoneandroid/"><u>Innovative Slow Motion Mobile Recording Solutions iPhone/Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/key-platforms-ranking-the-best-6-sites-for-business-interaction/"><u>Key Platforms Ranking the Best 6 Sites for Business Interaction</u></a></li>
+<li><a href="https://win-trending.techidaily.com/rescue-techniques-for-lost-photographs-and-footage-on-hasselblad-cameras-expert-recovery-strategies/"><u>Rescue Techniques for Lost Photographs and Footage on Hasselblad Cameras – Expert Recovery Strategies</u></a></li>
+<li><a href="https://win-trending.techidaily.com/tutorial-paso-a-paso-para-duplicar-un-disco-con-multiples-divisiones-logicas/"><u>Tutorial Paso a Paso Para Duplicar Un Disco Con Múltiples Divisiones Lógicas</u></a></li>
+<li><a href="https://win-trending.techidaily.com/diskpart/"><u>ディスクパーティションを削除するためのDiskpartコマンドの詳細ガイド</u></a></li>
 </ul></div>
 

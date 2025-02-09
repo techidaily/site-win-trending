@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Video Lessons for Pioneer CDJs: Learn How to Modify and Control Text Size with Ease!"
-date: 2025-01-20T09:06:51.601Z
-updated: 2025-01-27T08:44:49.015Z
+date: 2025-02-07T22:15:12.037Z
+updated: 2025-02-08T19:50:09.972Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ We’ll still attempt to bring you other helpful Digital DJ and karaoke tips dur
 ##### Make sure to check back early next week for the official PCDJ DEX 3 announcement!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/learncoverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-webcam-wonders-unveiling-tools-for-top-video-quality/"><u>[Updated] 2024 Approved Webcam Wonders - Unveiling Tools for Top Video Quality</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-capture-cumulative-chronicles-for-2024/"><u>[Updated] Capture Cumulative Chronicles for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-gecata-watchers-complete-appraisal/"><u>[Updated] In 2024, GECATA Watcher's Complete Appraisal</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-selecting-premier-sound-editors-for-youtube-producers/"><u>[Updated] In 2024, Selecting Premier Sound Editors for YouTube Producers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-webcam-mastery-choosing-the-best-for-your-podcast/"><u>2024 Approved Webcam Mastery Choosing the Best for Your Podcast</u></a></li>
-<li><a href="https://win-trending.techidaily.com/create-and-revise-pdfs-instantly-discover-the-top-free-pdf-editor-tool-no-expense-necessary/"><u>Create & Revise PDFs Instantly: Discover the Top Free PDF Editor Tool - No Expense Necessary!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/customizing-page-layout-with-margin-settings-on-flipbuilder-for-enhanced-ebook-design/"><u>Customizing Page Layout with Margin Settings on FlipBuilder for Enhanced eBook Design</u></a></li>
-<li><a href="https://win-trending.techidaily.com/easy-steps-to-build-engaging-flipbooks-featuring-your-companys-story-and-visual-identity/"><u>Easy Steps to Build Engaging FlipBooks Featuring Your Company's Story and Visual Identity</u></a></li>
-<li><a href="https://win-trending.techidaily.com/flipoffice-effortlessly-create-a-multi-functional-office-organizer-from-your-documents-at-flipbuildercom/"><u>FlipOffice: Effortlessly Create a Multi-Functional Office Organizer From Your Documents at FlipBuilder.com</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/genius-widecam-f100-test-and-analysis-examining-image-quality-and-audio-issues/"><u>Genius WideCam F100 Test & Analysis: Examining Image Quality & Audio Issues</u></a></li>
-<li><a href="https://win-trending.techidaily.com/get-your-documents-in-image-form-free-pdf-to-jpg-upconversion-flipbuildercom/"><u>Get Your Documents in Image Form: Free PDF to JPG Upconversion [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-does-flipbuilder-handle-device-upgrades-learn-more-on-their-platform/"><u>How Does FlipBuilder Handle Device Upgrades? Learn More on Their Platform</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-elite-gigabyte-intel-z790-aorus-xtreme-x-gold-cpu-socket-and-impressive-misty-theme-with-a-massive-m2-heatsink/"><u>Introducing the Elite Gigabyte Intel Z790 Aorus XTreme X: Gold CPU Socket & Impressive Misty Theme with a Massive M.2 Heatsink</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/selecting-the-right-gopro-features-at-your-fingertips/"><u>Selecting the Right Gopro Features at Your Fingertips</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-to-viewing-and-sharing-a-digital-picture-book-album-from-flipspark-on-smartphones/"><u>Step-by-Step Guide to Viewing and Sharing a Digital Picture Book (Album) From Flipspark on Smartphones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-gourmet-guides-leading-food-vloggers-online/"><u>[Updated] 2024 Approved Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comment-corriger-un-message-derreur-de-classe-inconnue-sous-windows-11/"><u>Comment Corriger Un Message D'Erreur De Classe Inconnue Sous Windows 11 ?</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprehensive-tutorial-on-moving-an-active-windows-environment-into-a-virtualbox-machine/"><u>Comprehensive Tutorial on Moving an Active Windows Environment Into a VirtualBox Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-easycap-driver-updates-improve-your-device-performance-instantly/"><u>Download EasyCAP Driver Updates - Improve Your Device Performance Instantly!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-aspects-for-an-effective-home-router/"><u>Essential Aspects for an Effective Home Router</u></a></li>
+<li><a href="https://article-files.techidaily.com/exploring-shades-insights-from-the-best-11-color-guides/"><u>Exploring Shades Insights From the Best 11 Color Guides</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-recirculate-artists-bundle/"><u>In 2024, Recirculate Artist's Bundle</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premier-sustainable-cinematography-gear/"><u>Premier Sustainable Cinematography Gear</u></a></li>
+<li><a href="https://win-trending.techidaily.com/professionelle-tipps-fur-das-ssd-aufrusten-auf-dem-msi-gf65-modell/"><u>Professionelle Tipps Für Das SSD-Aufrüsten Auf Dem MSI GF65 Modell</u></a></li>
+<li><a href="https://win-trending.techidaily.com/trouble-free-vmware-management-strategies-for-commencing-and-resolving-vcenters-urgent-sessions/"><u>Trouble-Free VMware Management: Strategies for Commencing and Resolving vCenter’s Urgent Sessions</u></a></li>
+<li><a href="https://win-trending.techidaily.com/kak-upravlyat-razdelom-vosstanovleniya-v-windows-udalenie-i-vosstanovlenie-variantov/"><u>Как Управлять Разделом Восстановления В Windows: Удаление И Восстановление Вариантов</u></a></li>
 </ul></div>
 
