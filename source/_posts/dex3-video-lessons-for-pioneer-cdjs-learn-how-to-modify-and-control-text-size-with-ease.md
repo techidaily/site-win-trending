@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Video Lessons for Pioneer CDJs: Learn How to Modify and Control Text Size with Ease!"
-date: 2025-02-07T22:15:12.037Z
-updated: 2025-02-08T19:50:09.972Z
+date: 2025-02-15T01:57:52.147Z
+updated: 2025-02-19T02:16:31.585Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ We’ll still attempt to bring you other helpful Digital DJ and karaoke tips dur
 ##### Make sure to check back early next week for the official PCDJ DEX 3 announcement!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/learncoverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-gourmet-guides-leading-food-vloggers-online/"><u>[Updated] 2024 Approved Gourmet Guides Leading Food Vloggers Online</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comment-corriger-un-message-derreur-de-classe-inconnue-sous-windows-11/"><u>Comment Corriger Un Message D'Erreur De Classe Inconnue Sous Windows 11 ?</u></a></li>
-<li><a href="https://win-trending.techidaily.com/comprehensive-tutorial-on-moving-an-active-windows-environment-into-a-virtualbox-machine/"><u>Comprehensive Tutorial on Moving an Active Windows Environment Into a VirtualBox Machine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-easycap-driver-updates-improve-your-device-performance-instantly/"><u>Download EasyCAP Driver Updates - Improve Your Device Performance Instantly!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/essential-aspects-for-an-effective-home-router/"><u>Essential Aspects for an Effective Home Router</u></a></li>
-<li><a href="https://article-files.techidaily.com/exploring-shades-insights-from-the-best-11-color-guides/"><u>Exploring Shades Insights From the Best 11 Color Guides</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-recirculate-artists-bundle/"><u>In 2024, Recirculate Artist's Bundle</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/premier-sustainable-cinematography-gear/"><u>Premier Sustainable Cinematography Gear</u></a></li>
-<li><a href="https://win-trending.techidaily.com/professionelle-tipps-fur-das-ssd-aufrusten-auf-dem-msi-gf65-modell/"><u>Professionelle Tipps Für Das SSD-Aufrüsten Auf Dem MSI GF65 Modell</u></a></li>
-<li><a href="https://win-trending.techidaily.com/trouble-free-vmware-management-strategies-for-commencing-and-resolving-vcenters-urgent-sessions/"><u>Trouble-Free VMware Management: Strategies for Commencing and Resolving vCenter’s Urgent Sessions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/kak-upravlyat-razdelom-vosstanovleniya-v-windows-udalenie-i-vosstanovlenie-variantov/"><u>Как Управлять Разделом Восстановления В Windows: Удаление И Восстановление Вариантов</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-perceiving-beyond-understanding-ars-impact-for-2024/"><u>[New] Perceiving Beyond Understanding AR's Impact for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-channel-growth-to-partner-status-aim-for-10000-views/"><u>[Updated] In 2024, Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-sharing-wisdom-the-art-of-insta-duplication/"><u>[Updated] Sharing Wisdom The Art of Insta Duplication</u></a></li>
+<li><a href="https://win-trending.techidaily.com/iphone-icloud/"><u>豐富教育：如何重新建立iPhone iCloud疑雲？</u></a></li>
+<li><a href="https://win-trending.techidaily.com/aomei-data-backup-and-recovery-software-fur-windows-und-ios-kostenlose-herunterladen/"><u>AOMEI Data Backup & Recovery Software Für Windows Und iOS - Kostenlose Herunterladen</u></a></li>
+<li><a href="https://win-trending.techidaily.com/fehlerhafte-speicherplatzangabe-bei-modifizierter-festplatte-jetzt-schnelle-losung-finden/"><u>Fehlerhafte Speicherplatzangabe Bei Modifizierter Festplatte: Jetzt Schnelle Lösung Finden!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-internet-speech-capture-tools/"><u>In 2024, Top Internet Speech Capture Tools</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728469817305-onedrive/"><u>OneDriveにおける失われたファイルの回復手順</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professional-xp-pen-artist-16-pro-tablet-evaluation/"><u>Professional XP-Pen Artist 16 Pro Tablet Evaluation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-ace-2-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Ace 2 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solve-your-windows-11-blackout-discover-the-top-10-fixes-for-a-blank-display/"><u>Solve Your Windows 11 Blackout: Discover the Top 10 Fixes for a Blank Display!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/strategie-efficaci-per-il-ripristino-dei-dati-su-hard-disk-riformattato-nuove-tecniche/"><u>Strategie Efficaci per Il Ripristino Dei Dati Su Hard Disk Riformattato - Nuove Tecniche</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshoot-and-resolve-windows-11-file-errors-caused-by-updates-with-ease/"><u>Troubleshoot and Resolve Windows 11 File Errors Caused by Updates with Ease</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-11-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 11 Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/visionaries-earning-vistas-creators-journey-with-metrics-and-money-through-reels/"><u>Visionaries Earning Vistas: Creators' Journey with Metrics & Money Through Reels</u></a></li>
 </ul></div>
 

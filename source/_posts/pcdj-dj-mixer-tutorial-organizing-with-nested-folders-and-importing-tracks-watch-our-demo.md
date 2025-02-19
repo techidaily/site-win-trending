@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Mixer Tutorial: Organizing with Nested Folders & Importing Tracks - Watch Our Demo!"
-date: 2025-02-03T00:14:17.866Z
-updated: 2025-02-09T02:09:41.533Z
+date: 2025-02-18T06:39:14.272Z
+updated: 2025-02-19T05:33:01.192Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ Using favorites has another major benefit in comparison to lists – they’re d
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,24 +48,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-filmless-to-film-rich-digitizing-yesteryears-images/"><u>[New] From Filmless to Film-Rich Digitizing Yesteryears' Images</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-assessment-comprehensive-camstudio-toolkit/"><u>[New] In-Depth Assessment Comprehensive CamStudio Toolkit</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-tech-driven-transformation-the-upcoming-shifts-in-fb-advertising-for-2024/"><u>[New] Tech-Driven Transformation The Upcoming Shifts in FB Advertising for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/converting-memories-into-videos-the-power-of-pixiz-techniques/"><u>Converting Memories Into Videos The Power of Pixiz Techniques</u></a></li>
-<li><a href="https://win-trending.techidaily.com/crypto-transactions-simplified-with-yl-software-solutions-buy-and-sell-securely/"><u>Crypto Transactions Simplified with YL Software Solutions - Buy and Sell Securely!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/diy-gpu-upgrade-easy-installation-tips-for-your-graphics-card-with-guidance-from-yl-software-professionals/"><u>DIY GPU Upgrade: Easy Installation Tips for Your Graphics Card with Guidance From YL Software Professionals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-your-content-with-these-20-pro-video-shortcuts/"><u>Elevate Your Content With These 20 Pro Video Shortcuts</u></a></li>
-<li><a href="https://win-trending.techidaily.com/find-out-what-graphics-card-you-have-with-ease-tips-from-yl-software-experts/"><u>Find Out What Graphics Card You Have with Ease - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-trending.techidaily.com/get-the-latest-pcdj-red-app-version-update-download-today/"><u>Get the Latest PCDJ RED App Version Update – Download Today!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/high-definition-june-2019-themes-and-desktop-pictures-by-yl-computing-your-ultimate-digital-decoration/"><u>High-Definition June 2019 Themes & Desktop Pictures by YL Computing: Your Ultimate Digital Decoration</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-overheating-check-out-our-thorough-review-of-the-levelplay-combat-air-ca4-cpu-cooler/"><u>Mastering PC Overheating? Check Out Our Thorough Review of the Levelplay Combat Air CA4 CPU Cooler</u></a></li>
-<li><a href="https://win-trending.techidaily.com/mastering-windows-customization-adjusting-the-control-panel-settings-with-expert-advice-from-yl-software/"><u>Mastering Windows Customization: Adjusting the Control Panel Settings with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-trending.techidaily.com/personalizing-windows-search-preferences-a-guide-by-yl-software-experts/"><u>Personalizing Windows Search Preferences: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://win-trending.techidaily.com/revive-your-pcs-performance-with-fresh-device-drivers-expert-advice-by-yl-softwares/"><u>Revive Your PC's Performance with Fresh Device Drivers - Expert Advice by YL Softwares</u></a></li>
-<li><a href="https://win-trending.techidaily.com/solutions-when-your-hardware-doesnt-connect-with-windows-expert-advice-from-yl-computing/"><u>Solutions When Your Hardware Doesn't Connect with Windows: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-guide-solving-virtualboxs-usb-error-on-windows-os/"><u>Troubleshooting Guide: Solving VirtualBox's 'USB Error' On Windows OS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winx-all-in-one-video-converter-and-dvd-ripper-free-download-for-high-quality-media-editing/"><u>WinX All-in-One Video Converter & DVD Ripper : Free Download for High-Quality Media Editing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/void-shaky-footage-proper-tripod-usage-techniques-in-vlog-creation/"><u>[New] Avoid Shaky Footage Proper Tripod Usage Techniques in Vlog Creation</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-essential-techniques-for-perfecting-your-green-screen-shots/"><u>2024 Approved Essential Techniques for Perfecting Your Green-Screen Shots</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips-for-2024/"><u>Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/add-music-in-premiere-pro-for-2024/"><u>Add Music In Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-epson-driver-software-for-seamless-compatibility-with-windows-10/"><u>Download the Newest Epson Driver Software for Seamless Compatibility with Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-performance-advanced-techniques-for-windows-10-for-2024/"><u>Enhance Performance Advanced Techniques for Windows 10 for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-insignia-bluetooth-devices-drivers-in-windows/"><u>How to Update Your Insignia Bluetooth Device's Drivers in Windows</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728465073117-macaomei-backupper/"><u>Mac用户完全手册：优化AOMEI Backupper实现精确数据同步</u></a></li>
+<li><a href="https://win-trending.techidaily.com/revive-missing-reminders-in-ios-devices-including-iphone-6-through-latest-models/"><u>Revive Missing Reminders in iOS Devices Including iPhone 6 Through Latest Models</u></a></li>
+<li><a href="https://win-trending.techidaily.com/sieben-schlusselstrategien-sofortige-losungen-fur-den-umgang-mit-der-zugriffsrechteproblematik-in-ordnern/"><u>Sieben Schlüsselstrategien: Sofortige Lösungen Für Den Umgang Mit Der Zugriffsrechteproblematik in Ordnern</u></a></li>
+<li><a href="https://win-trending.techidaily.com/top-rated-software-for-seamless-windows-11-and-10-system-transfer/"><u>Top Rated Software for Seamless Windows 11 & 10 System Transfer</u></a></li>
 </ul></div>
 
