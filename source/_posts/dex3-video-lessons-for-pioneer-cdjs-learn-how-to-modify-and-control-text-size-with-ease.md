@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Video Lessons for Pioneer CDJs: Learn How to Modify and Control Text Size with Ease!"
-date: 2025-02-15T01:57:52.147Z
-updated: 2025-02-19T02:16:31.585Z
+date: 2025-03-06T17:39:43.386Z
+updated: 2025-03-07T18:10:54.064Z
 tags:
   - product
 categories:
@@ -27,10 +27,6 @@ We’ll still attempt to bring you other helpful Digital DJ and karaoke tips dur
 
 ##### Make sure to check back early next week for the official PCDJ DEX 3 announcement!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/learncoverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2014-08-06 10:40:452014-08-06 10:40:45DJ Software Video Tutorials – Using Learn And Changing Font Size In DEX 3}
@@ -50,20 +46,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/learncoverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-perceiving-beyond-understanding-ars-impact-for-2024/"><u>[New] Perceiving Beyond Understanding AR's Impact for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-channel-growth-to-partner-status-aim-for-10000-views/"><u>[Updated] In 2024, Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-sharing-wisdom-the-art-of-insta-duplication/"><u>[Updated] Sharing Wisdom The Art of Insta Duplication</u></a></li>
-<li><a href="https://win-trending.techidaily.com/iphone-icloud/"><u>豐富教育：如何重新建立iPhone iCloud疑雲？</u></a></li>
-<li><a href="https://win-trending.techidaily.com/aomei-data-backup-and-recovery-software-fur-windows-und-ios-kostenlose-herunterladen/"><u>AOMEI Data Backup & Recovery Software Für Windows Und iOS - Kostenlose Herunterladen</u></a></li>
-<li><a href="https://win-trending.techidaily.com/fehlerhafte-speicherplatzangabe-bei-modifizierter-festplatte-jetzt-schnelle-losung-finden/"><u>Fehlerhafte Speicherplatzangabe Bei Modifizierter Festplatte: Jetzt Schnelle Lösung Finden!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-internet-speech-capture-tools/"><u>In 2024, Top Internet Speech Capture Tools</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728469817305-onedrive/"><u>OneDriveにおける失われたファイルの回復手順</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/professional-xp-pen-artist-16-pro-tablet-evaluation/"><u>Professional XP-Pen Artist 16 Pro Tablet Evaluation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-ace-2-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Ace 2 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/solve-your-windows-11-blackout-discover-the-top-10-fixes-for-a-blank-display/"><u>Solve Your Windows 11 Blackout: Discover the Top 10 Fixes for a Blank Display!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/strategie-efficaci-per-il-ripristino-dei-dati-su-hard-disk-riformattato-nuove-tecniche/"><u>Strategie Efficaci per Il Ripristino Dei Dati Su Hard Disk Riformattato - Nuove Tecniche</u></a></li>
-<li><a href="https://win-trending.techidaily.com/troubleshoot-and-resolve-windows-11-file-errors-caused-by-updates-with-ease/"><u>Troubleshoot and Resolve Windows 11 File Errors Caused by Updates with Ease</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-11-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 11 Pro</u></a></li>
-<li><a href="https://facebook.techidaily.com/visionaries-earning-vistas-creators-journey-with-metrics-and-money-through-reels/"><u>Visionaries Earning Vistas: Creators' Journey with Metrics & Money Through Reels</u></a></li>
+<li><a href="https://driver-download.techidaily.com/email-protected-software-for-your-hp-officejet-pro-n-69-free-download/"><u>[Email Protected] Software for Your HP Officejet Pro N 69 - Free Download!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-your-guide-to-facebook-video-angle-selection/"><u>[New] Your Guide to Facebook Video Angle Selection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-discreetly-navigate-through-instagrams-stories-archive/"><u>2024 Approved Discreetly Navigate Through Instagram's Stories Archive</u></a></li>
+<li><a href="https://win-trending.techidaily.com/complete-tutorial-create-an-acer-pc-restore-drive-with-windows-11-two-methods/"><u>Complete Tutorial: Create an Acer PC Restore Drive with Windows 11 - Two Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-rw2-images-into-png-format-for-free-with-movavi-image-editor-online/"><u>Convert RW2 Images Into PNG Format for Free with Movavi Image Editor Online</u></a></li>
+<li><a href="https://win-trending.techidaily.com/documentos-descartados-accidentalmente-recupere-rapidamente-sua-pasta-meus-documentos-agora/"><u>Documentos Descartados Accidentalmente? Recupere Rapidamente Sua Pasta 'Meus Documentos' Agora!</u></a></li>
+<li><a href="https://win-trending.techidaily.com/error-404-the-missing-page-guide/"><u>Error 404: The Missing Page Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-compatible-sound-driver-software-for-windows-7-systems/"><u>Free Download: Compatible Sound Driver Software for Windows 7 Systems</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ios-tutorial-how-to-hide-music-player-from-your-iphone-or-ipads-lock-screen/"><u>IOS Tutorial: How to Hide Music Player From Your iPhone or iPad's Lock Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-windows-11-a-deep-dive-into-zoom-usage/"><u>Navigating Windows 11 A Deep Dive Into Zoom Usage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722989508372-solve-your-steam-game-lag-effective-solutions-inside/"><u>Solve Your Steam Game Lag: Effective Solutions Inside!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-creativity-top-5-expert-video-and-photography-plus-music-mixers/"><u>Unlocking Creativity Top 5 Expert Video & Photography + Music Mixers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ DJ Mixer Tutorial: Organizing with Nested Folders & Importing Tracks - Watch Our Demo!"
-date: 2025-02-18T06:39:14.272Z
-updated: 2025-02-19T05:33:01.192Z
+date: 2025-03-01T18:29:28.140Z
+updated: 2025-03-07T17:48:52.465Z
 tags:
   - product
 categories:
@@ -25,10 +25,6 @@ Using favorites has another major benefit in comparison to lists – they’re d
 
 #### VIDEO DEMONSTRATION OF NESTING FAVORITE FOLDERS IN PCDJ DEX 3 DJ SOFTWARE
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimage.jpg?fit=573%2C339&ssl=1 339 573 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2014-09-16 09:58:202023-04-10 17:04:34DJ Software Demo Video – Nesting Folders As Favorites (Importing Music)}
@@ -48,17 +44,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/foldersfavorites-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/void-shaky-footage-proper-tripod-usage-techniques-in-vlog-creation/"><u>[New] Avoid Shaky Footage Proper Tripod Usage Techniques in Vlog Creation</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-essential-techniques-for-perfecting-your-green-screen-shots/"><u>2024 Approved Essential Techniques for Perfecting Your Green-Screen Shots</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips-for-2024/"><u>Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/add-music-in-premiere-pro-for-2024/"><u>Add Music In Premiere Pro for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-epson-driver-software-for-seamless-compatibility-with-windows-10/"><u>Download the Newest Epson Driver Software for Seamless Compatibility with Windows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhance-performance-advanced-techniques-for-windows-10-for-2024/"><u>Enhance Performance Advanced Techniques for Windows 10 for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-your-insignia-bluetooth-devices-drivers-in-windows/"><u>How to Update Your Insignia Bluetooth Device's Drivers in Windows</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728465073117-macaomei-backupper/"><u>Mac用户完全手册：优化AOMEI Backupper实现精确数据同步</u></a></li>
-<li><a href="https://win-trending.techidaily.com/revive-missing-reminders-in-ios-devices-including-iphone-6-through-latest-models/"><u>Revive Missing Reminders in iOS Devices Including iPhone 6 Through Latest Models</u></a></li>
-<li><a href="https://win-trending.techidaily.com/sieben-schlusselstrategien-sofortige-losungen-fur-den-umgang-mit-der-zugriffsrechteproblematik-in-ordnern/"><u>Sieben Schlüsselstrategien: Sofortige Lösungen Für Den Umgang Mit Der Zugriffsrechteproblematik in Ordnern</u></a></li>
-<li><a href="https://win-trending.techidaily.com/top-rated-software-for-seamless-windows-11-and-10-system-transfer/"><u>Top Rated Software for Seamless Windows 11 & 10 System Transfer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-best-360-degree-action-cameras-you-should-use/"><u>[New] 5 Best 360-Degree Action Cameras You Should Use</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cloudapp-studio-top-10-lightroom-alternatives/"><u>[New] In 2024, CloudApp Studio Top 10 Lightroom Alternatives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-screen-captures-galore-expert-techniques-for-twitter-visuals/"><u>[Updated] In 2024, Screen Captures Galore Expert Techniques for Twitter Visuals</u></a></li>
+<li><a href="https://win-trending.techidaily.com/boost-your-computers-performance-a-guide-to-deactivating-non-essential-applications-and-services-tips-from-yl-computing/"><u>Boost Your Computer's Performance: A Guide to Deactivating Non-Essential Applications & Services - Tips From YL Computing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/boost-your-pcs-performance-with-these-simple-hard-drive-optimization-techniques-from-yl-software-experts/"><u>Boost Your PC's Performance with These Simple Hard Drive Optimization Techniques From YL Software Experts</u></a></li>
+<li><a href="https://win-trending.techidaily.com/flexible-data-output-options-tailoring-your-address-balance-reports-in-any-style-using-yl-software/"><u>Flexible Data Output Options: Tailoring Your Address Balance Reports in Any Style Using YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-a20-analysis-exceptional-value-in-affordable-smartphones/"><u>Samsung Galaxy A20 Analysis - Exceptional Value in Affordable Smartphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/setting-up-smart-tech-auto-gpt-installation-guide/"><u>Setting Up Smart Tech: Auto-GPT Installation Guide</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-modifying-your-files-icon-on-windows-systems-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying Your File's Icon on Windows Systems - Tips From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-apple-watch-straps-for-2n4-elite-tested-and-analyzed/"><u>The Ultimate Selection of Apple Watch Straps for 2N4: Elite Tested and Analyzed</u></a></li>
+<li><a href="https://win-trending.techidaily.com/yl-software-delights-with-high-resolution-christmas-imagery-and-wallpapers-for-ultimate-4k-displays/"><u>YL Software Delights with High-Resolution Christmas Imagery and Wallpapers for Ultimate 4K Displays</u></a></li>
 </ul></div>
 
